@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/ink_sac"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_vikings:viking_miniboss_helm"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_vikings:viking_helmet"}
+	]
+}
