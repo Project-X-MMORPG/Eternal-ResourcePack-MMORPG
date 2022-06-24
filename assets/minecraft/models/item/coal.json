@@ -717,6 +717,18 @@
         "custom_model_data": 224
       },
       "model": "architect_furniture:stand_oak"
-    }
+    },
+	{ "predicate": { "custom_model_data": 225 }, "model": "yungwilder:burger_suit" },
+	{ "predicate": { "custom_model_data": 226 }, "model": "yungwilder:claw_machine" },
+	{ "predicate": { "custom_model_data": 227 }, "model": "yungwilder:gear" },
+	{ "predicate": { "custom_model_data": 228 }, "model": "yungwilder:giant_scroll" },
+	{ "predicate": { "custom_model_data": 229 }, "model": "yungwilder:life_preserver" },
+	{ "predicate": { "custom_model_data": 230 }, "model": "yungwilder:pauldrons" },
+	{ "predicate": { "custom_model_data": 231 }, "model": "yungwilder:sword" },
+	{ "predicate": { "custom_model_data": 232 }, "model": "yungwilder:treadmill" },
+	{ "predicate": { "custom_model_data": 233 }, "model": "yungwilder:turtle_shell_blue" },
+	{ "predicate": { "custom_model_data": 234 }, "model": "yungwilder:turtle_shell_green" },
+	{ "predicate": { "custom_model_data": 235 }, "model": "yungwilder:turtle_shell_red" },
+	{ "predicate": { "custom_model_data": 236 }, "model": "yungwilder:wind_up" }
   ]
 }
