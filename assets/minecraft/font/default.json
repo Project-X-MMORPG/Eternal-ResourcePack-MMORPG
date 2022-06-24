@@ -80,6 +80,294 @@
          "height":-6,
          "ascent":-32768,
          "type":"bitmap"
-      }
+      },
+	  {
+       "file": "emojis_pack_vol1:cool_emoji.png",
+       "chars": [
+         ""
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:heart_eyes_emoji.png",
+       "chars": [
+         ""
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:laugh_emoji.png",
+       "chars": [
+         ""
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:smile_emoji.png",
+       "chars": [
+         ""
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:wink_emoji.png",
+       "chars": [
+         ""
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:blush_emoji.png",
+       "chars": [
+         ""
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:scream_emoji.png",
+       "chars": [
+         "󠀆"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:star_struck_emoji.png",
+       "chars": [
+         "󠀇"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:shhh_emoji.png",
+       "chars": [
+         "󠀈"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:sob_emoji.png",
+       "chars": [
+         "󠀉"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:heart_emoji.png",
+       "chars": [
+         "󠀊"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:pensive_emoji.png",
+       "chars": [
+         "󠀋"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:rage_emoji.png",
+       "chars": [
+         "󠀌"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:thumbsup_emoji.png",
+       "chars": [
+         "󠀎"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:thumbsdown_emoji.png",
+       "chars": [
+         "󠀏"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:broken_heart_emoji.png",
+       "chars": [
+         "󠀐"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:angel_emoji.png",
+       "chars": [
+         "󠀑"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:barf_emoji.png",
+       "chars": [
+         "󠀓"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:dead_emoji.png",
+       "chars": [
+         "󠀔"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:embarassed_emoji.png",
+       "chars": [
+         "󠀕"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:freezing_emoji.png",
+       "chars": [
+         "󠀖"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:frustrated_emoji.png",
+       "chars": [
+         "󠀗"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:gross_emoji.png",
+       "chars": [
+         "󠀘"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:mask_emoji.png",
+       "chars": [
+         "󠀙"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:nerdy_emoji.png",
+       "chars": [
+         "󠀠"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:sherlock_emoji.png",
+       "chars": [
+         "󠀡"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:skull_emoji.png",
+       "chars": [
+         "󠀢"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:sleeping_emoji.png",
+       "chars": [
+         "󠀣"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:smile_with_tear_emoji.png",
+       "chars": [
+         "󠀤"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:straight_face_emoji.png",
+       "chars": [
+         "󠀥"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:thinking_emoji.png",
+       "chars": [
+         "󠀦"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     },
+     {
+       "file": "emojis_pack_vol1:tongue_emoji.png",
+       "chars": [
+         "󠀧"
+       ],
+       "ascent": 9,
+       "height": 12,
+       "type": "bitmap"
+     }
    ]
 }
