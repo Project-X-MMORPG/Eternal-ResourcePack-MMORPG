@@ -1023,7 +1023,7 @@
       "predicate": {
         "custom_model_data": 169
       },
-      "model": "medieval_pack:jungle_table"
+      "model": "medieval_pack:jungle_table_v1"
     },
     {
       "predicate": {
@@ -2907,7 +2907,7 @@
       "predicate": {
         "custom_model_data": 483
       },
-      "model": ""
+      "model": "medieval_pack:jungle_table_v2"
     },
     {
       "predicate": {
