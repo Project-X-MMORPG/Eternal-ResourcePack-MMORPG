@@ -2,8 +2,8 @@
 	"credit": "Made by Elo106",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/voxelspawns/vs_vial",
-		"particle": "item/voxelspawns/vs_vial"
+		"0": "voxelspawns:vs_vial",
+		"particle": "voxelspawns:vs_vial"
 	},
 	"elements": [
 		{

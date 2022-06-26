@@ -2,7 +2,7 @@
 	"credit": "Made by Elo106",
 	"texture_size": [64, 64],
 	"textures": {
-		"6": "item/voxelspawns/vs_normal"
+		"6": "voxelspawns:vs_normal"
 	},
 	"elements": [
 		{

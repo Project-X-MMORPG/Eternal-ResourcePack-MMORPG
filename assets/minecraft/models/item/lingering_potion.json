@@ -5,16 +5,16 @@
         "layer1": "item/lingering_potion"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/voxelspawns/vs_normal" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/voxelspawns/vs_normal_half" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/voxelspawns/vs_normal_sign" },
-		{ "predicate": { "custom_model_data": 4}, "model": "item/voxelspawns/vs_normal_skull" },
-		{ "predicate": { "custom_model_data": 5}, "model": "item/voxelspawns/vs_vial" },
-		{ "predicate": { "custom_model_data": 6}, "model": "item/voxelspawns/vs_vial_half" },
-		{ "predicate": { "custom_model_data": 7}, "model": "item/voxelspawns/vs_potion" },
-		{ "predicate": { "custom_model_data": 8}, "model": "item/voxelspawns/vs_alchemy" },
-		{ "predicate": { "custom_model_data": 9}, "model": "item/voxelspawns/vs_elegant" },
-		{ "predicate": { "custom_model_data": 10}, "model": "item/voxelspawns/vs_fat" },
-		{ "predicate": { "custom_model_data": 11}, "model": "item/voxelspawns/vs_treasure" }
+		{ "predicate": { "custom_model_data": 1}, "model": "voxelspawns:vs_normal" },
+		{ "predicate": { "custom_model_data": 2}, "model": "voxelspawns:vs_normal_half" },
+		{ "predicate": { "custom_model_data": 3}, "model": "voxelspawns:vs_normal_sign" },
+		{ "predicate": { "custom_model_data": 4}, "model": "voxelspawns:vs_normal_skull" },
+		{ "predicate": { "custom_model_data": 5}, "model": "voxelspawns:vs_vial" },
+		{ "predicate": { "custom_model_data": 6}, "model": "voxelspawns:vs_vial_half" },
+		{ "predicate": { "custom_model_data": 7}, "model": "voxelspawns:vs_potion" },
+		{ "predicate": { "custom_model_data": 8}, "model": "voxelspawns:vs_alchemy" },
+		{ "predicate": { "custom_model_data": 9}, "model": "voxelspawns:vs_elegant" },
+		{ "predicate": { "custom_model_data": 10}, "model": "voxelspawns:vs_fat" },
+		{ "predicate": { "custom_model_data": 11}, "model": "voxelspawns:vs_treasure" }
 	]
 }

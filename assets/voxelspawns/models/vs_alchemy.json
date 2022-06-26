@@ -2,7 +2,7 @@
 	"credit": "Made by Elo106",
 	"texture_size": [64, 64],
 	"textures": {
-		"5": "voxelspawns:vs_alchy"
+		"5": "item/voxelspawns/vs_alchy"
 	},
 	"elements": [
 		{
