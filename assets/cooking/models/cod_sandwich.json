@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "littleroom_cookingpot:cod_sandwich",
-		"particle": "littleroom_cookingpot:cod_sandwich"
+		"0": "cooking:cod_sandwich",
+		"particle": "cooking:cod_sandwich"
 	},
 	"elements": [
 		{

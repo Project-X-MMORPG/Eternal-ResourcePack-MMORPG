@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "littleroom_cookingpot:salmon_sandwich",
-		"particle": "littleroom_cookingpot:salmon_sandwich"
+		"0": "cooking:salmon_sandwich",
+		"particle": "cooking:salmon_sandwich"
 	},
 	"elements": [
 		{

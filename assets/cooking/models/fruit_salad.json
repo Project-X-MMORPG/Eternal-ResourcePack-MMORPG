@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "littleroom_cookingpot:fruit_salad",
-		"particle": "littleroom_cookingpot:fruit_salad"
+		"0": "cooking:fruit_salad",
+		"particle": "cooking:fruit_salad"
 	},
 	"elements": [
 		{

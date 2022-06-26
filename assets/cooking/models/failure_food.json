@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "littleroom_cookingpot:failure_food",
-		"particle": "littleroom_cookingpot:failure_food"
+		"0": "cooking:failure_food",
+		"particle": "cooking:failure_food"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "littleroom_cookingpot:donut",
-		"particle": "littleroom_cookingpot:donut"
+		"0": "cooking:donut",
+		"particle": "cooking:donut"
 	},
 	"elements": [
 		{

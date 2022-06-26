@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "littleroom_cookingpot:beef_kebab",
-		"particle": "littleroom_cookingpot:beef_kebab"
+		"2": "cooking:beef_kebab",
+		"particle": "cooking:beef_kebab"
 	},
 	"elements": [
 		{

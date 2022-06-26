@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "littleroom_cookingpot:lollipop",
-		"particle": "littleroom_cookingpot:lollipop"
+		"0": "cooking:lollipop",
+		"particle": "cooking:lollipop"
 	},
 	"elements": [
 		{
