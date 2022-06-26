@@ -3069,7 +3069,7 @@
       "predicate": {
         "custom_model_data": 510
       },
-      "model": ""
+      "model": "skycore:fence"
     },
     {
       "predicate": {
