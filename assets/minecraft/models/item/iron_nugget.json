@@ -3009,43 +3009,43 @@
       "predicate": {
         "custom_model_data": 500
       },
-      "model": ""
+      "model": "skycore:alchemist_bench"
     },
     {
       "predicate": {
         "custom_model_data": 501
       },
-      "model": ""
+      "model": "skycore:architect_bench"
     },
     {
       "predicate": {
         "custom_model_data": 502
       },
-      "model": ""
+      "model": "skycore:armorsmithing_bench"
     },
     {
       "predicate": {
         "custom_model_data": 503
       },
-      "model": ""
+      "model": "skycore:cooking_bench"
     },
     {
       "predicate": {
         "custom_model_data": 504
       },
-      "model": ""
+      "model": "skycore:jewelry_bench"
     },
     {
       "predicate": {
         "custom_model_data": 505
       },
-      "model": ""
+      "model": "skycore:ranger_bench"
     },
     {
       "predicate": {
         "custom_model_data": 506
       },
-      "model": ""
+      "model": "skycore:weaponsmithing_bench"
     },
     {
       "predicate": {
