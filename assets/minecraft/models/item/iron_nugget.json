@@ -3099,7 +3099,7 @@
       "predicate": {
         "custom_model_data": 515
       },
-      "model": ""
+      "model": "skycore:small_table"
     },
     {
       "predicate": {
