@@ -5,8 +5,8 @@
          "chars":[
             "\ub001"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -14,8 +14,8 @@
          "chars":[
             "\ub002"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -23,8 +23,8 @@
          "chars":[
             "\ub003"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -32,8 +32,8 @@
          "chars":[
             "\ub004"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -41,8 +41,8 @@
          "chars":[
             "\ub005"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -50,17 +50,17 @@
          "chars":[
             "\ub006"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_staff.png",
          "chars":[
-            "\ub007"
+            "\ub009"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -68,8 +68,8 @@
          "chars":[
             "\ub008"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -77,8 +77,8 @@
          "chars":[
             "\ub009"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -86,8 +86,8 @@
          "chars":[
             "\ub010"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -95,8 +95,8 @@
          "chars":[
             "\ub011"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -104,8 +104,8 @@
          "chars":[
             "\ub012"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -113,8 +113,8 @@
          "chars":[
             "\ub013"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -122,8 +122,8 @@
          "chars":[
             "\ub014"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -131,8 +131,8 @@
          "chars":[
             "\ub015"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
@@ -140,17 +140,17 @@
          "chars":[
             "\ub016"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_player.png",
          "chars":[
-            "\ub017"
+            "\ub019"
          ],
-         "height":7,
-         "ascent":7,
+         "height":9,
+         "ascent":9,
          "type":"bitmap"
       },
    ]
