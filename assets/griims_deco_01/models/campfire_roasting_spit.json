@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "griims_deco_01:roasting_spit",
-		"particle": "griims_deco_01:campfire_log",
-		"log": "griims_deco_01:campfire_log"
+		"particle": "minecraft:block/campfire_log",
+		"log": "minecraft:block/campfire_log"
 	},
 	"elements": [
 		{
