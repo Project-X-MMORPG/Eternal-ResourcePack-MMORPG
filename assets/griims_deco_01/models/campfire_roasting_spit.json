@@ -3,8 +3,9 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "griims_deco_01:roasting_spit",
-		"particle": "block/campfire_fire",
+		"particle": "block/campfire_log",
 		"log": "block/campfire_log"
+		"campfire_fire": "block/campfire_fire"
 	},
 	"elements": [
 		{
