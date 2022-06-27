@@ -2,7 +2,7 @@
 	"credit": "Made by MisterGriimm",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "item/roasting_spit",
+		"3": "griims_deco_01:roasting_spit",
 		"particle": "block/campfire_log",
 		"log": "block/campfire_log"
 	},
