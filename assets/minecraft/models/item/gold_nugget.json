@@ -98,6 +98,16 @@
   { "predicate": { "custom_model_data": 92 }, "model": "cooking:beef_sandwich" },
   { "predicate": { "custom_model_data": 93 }, "model": "cooking:berry_milk" },
   { "predicate": { "custom_model_data": 94 }, "model": "cooking:brownie" },
-  { "predicate": { "custom_model_data": 95 }, "model": "cooking:candy_apple" }
+  { "predicate": { "custom_model_data": 95 }, "model": "cooking:candy_apple" },
+  { "predicate": { "custom_model_data": 96 }, "model": "gempack:toffy_blackgem" },
+  { "predicate": { "custom_model_data": 97 }, "model": "gempack:toffy_bluegem" },
+  { "predicate": { "custom_model_data": 98 }, "model": "gempack:toffy_browngem" },
+  { "predicate": { "custom_model_data": 99 }, "model": "gempack:toffy_cyangem" },
+  { "predicate": { "custom_model_data": 100 }, "model": "gempack:toffy_greengem" },
+  { "predicate": { "custom_model_data": 101 }, "model": "gempack:toffy_orangegem" },
+  { "predicate": { "custom_model_data": 102 }, "model": "gempack:toffy_purplegem" },
+  { "predicate": { "custom_model_data": 103 }, "model": "gempack:toffy_redgem" },
+  { "predicate": { "custom_model_data": 104 }, "model": "gempack:toffy_whitegem" },
+  { "predicate": { "custom_model_data": 105 }, "model": "gempack:toffy_toffy_yellowgem" }
   ]
 }
