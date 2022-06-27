@@ -13181,6 +13181,11 @@
 			"custom_model_data": 2195
 		}, 
 		"model": "forest_pack:stump"
-	}
+	},
+	{"predicate": {"custom_model_data":320010}, "model": "griims_deco_01:hanging_metal_rack"},
+	{"predicate": {"custom_model_data":320011}, "model": "griims_deco_01:hanging_metal_rack_g"},
+	{"predicate": {"custom_model_data":320012}, "model": "griims_deco_01:hanging_metal_rack_r"},
+	{"predicate": {"custom_model_data":320013}, "model": "griims_deco_01:campfire_roasting_spit"},
+	{"predicate": {"custom_model_data":320014}, "model": "griims_deco_01:wall_sconce_torch"}
   ]
 }
