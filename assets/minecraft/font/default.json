@@ -3,7 +3,7 @@
       {
          "file":"skycore_font:icon_lead",
          "chars":[
-            "\ub001"
+            "뀁"
          ],
          "height":7,
          "ascent":7,
@@ -12,7 +12,7 @@
 	  {
          "file":"skycore_font:icon_admin",
          "chars":[
-            "\ub002"
+            "뀂"
          ],
          "height":7,
          "ascent":7,
@@ -21,7 +21,7 @@
 	  {
          "file":"skycore_font:icon_manager",
          "chars":[
-            "\ub003"
+            "뀃"
          ],
          "height":7,
          "ascent":7,
