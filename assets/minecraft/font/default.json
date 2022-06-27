@@ -1,373 +1,157 @@
 {
    "providers":[
       {
-         "file":"mccosmetics:ui/mccosmetics-main.png",
+         "file":"skycore_font:icon_lead",
          "chars":[
-            "\ue833"
+            "\ub001"
          ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-accessories.png",
-         "chars":[
-            "\ue834"
-         ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-backpacks.png",
-         "chars":[
-            "\ue835"
-         ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-emotes.png",
-         "chars":[
-            "\ue836"
-         ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-offhand.png",
-         "chars":[
-            "\ue837"
-         ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-sprays.png",
-         "chars":[
-            "\ue838"
-         ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-hats.png",
-         "chars":[
-            "\ue839"
-         ],
-         "height":256,
-         "ascent":13,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/mccosmetics-hats.png",
-         "chars":[
-            "\ue801"
-         ],
-         "height":-6,
-         "ascent":-32768,
-         "type":"bitmap"
-      },
-      {
-         "file":"mccosmetics:ui/empty_character.png",
-         "chars":[
-            "\ue802"
-         ],
-         "height":-6,
-         "ascent":-32768,
+         "height":7,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
-       "file": "emojis_pack_vol1:cool_emoji.png",
-       "chars": [
-         ""
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:heart_eyes_emoji.png",
-       "chars": [
-         ""
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:laugh_emoji.png",
-       "chars": [
-         ""
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:smile_emoji.png",
-       "chars": [
-         ""
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:wink_emoji.png",
-       "chars": [
-         ""
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:blush_emoji.png",
-       "chars": [
-         ""
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:scream_emoji.png",
-       "chars": [
-         "󠀆"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:star_struck_emoji.png",
-       "chars": [
-         "󠀇"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:shhh_emoji.png",
-       "chars": [
-         "󠀈"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:sob_emoji.png",
-       "chars": [
-         "󠀉"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:heart_emoji.png",
-       "chars": [
-         "󠀊"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:pensive_emoji.png",
-       "chars": [
-         "󠀋"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:rage_emoji.png",
-       "chars": [
-         "󠀌"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:thumbsup_emoji.png",
-       "chars": [
-         "󠀎"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:thumbsdown_emoji.png",
-       "chars": [
-         "󠀏"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:broken_heart_emoji.png",
-       "chars": [
-         "󠀐"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:angel_emoji.png",
-       "chars": [
-         "󠀑"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:barf_emoji.png",
-       "chars": [
-         "󠀓"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:dead_emoji.png",
-       "chars": [
-         "󠀔"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:embarassed_emoji.png",
-       "chars": [
-         "󠀕"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:freezing_emoji.png",
-       "chars": [
-         "󠀖"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:frustrated_emoji.png",
-       "chars": [
-         "󠀗"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:gross_emoji.png",
-       "chars": [
-         "󠀘"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:mask_emoji.png",
-       "chars": [
-         "󠀙"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:nerdy_emoji.png",
-       "chars": [
-         "󠀠"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:sherlock_emoji.png",
-       "chars": [
-         "󠀡"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:skull_emoji.png",
-       "chars": [
-         "󠀢"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:sleeping_emoji.png",
-       "chars": [
-         "󠀣"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:smile_with_tear_emoji.png",
-       "chars": [
-         "󠀤"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:straight_face_emoji.png",
-       "chars": [
-         "󠀥"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:thinking_emoji.png",
-       "chars": [
-         "󠀦"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     },
-     {
-       "file": "emojis_pack_vol1:tongue_emoji.png",
-       "chars": [
-         "󠀧"
-       ],
-       "ascent": 9,
-       "height": 12,
-       "type": "bitmap"
-     }
+         "file":"skycore_font:icon_admin",
+         "chars":[
+            "\ub002"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_manager",
+         "chars":[
+            "\ub003"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_senior_game_master",
+         "chars":[
+            "\ub004"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_game_master",
+         "chars":[
+            "\ub005"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_junior_game_master",
+         "chars":[
+            "\ub006"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_staff",
+         "chars":[
+            "\ub007"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_vip_partner",
+         "chars":[
+            "\ub008"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_partner",
+         "chars":[
+            "\ub009"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_creator_plus",
+         "chars":[
+            "\ub010"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_creator",
+         "chars":[
+            "\ub011"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_vip",
+         "chars":[
+            "\ub012"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_master",
+         "chars":[
+            "\ub013"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_elite",
+         "chars":[
+            "\ub014"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_pro",
+         "chars":[
+            "\ub015"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_premium",
+         "chars":[
+            "\ub016"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
+	  {
+         "file":"skycore_font:icon_player",
+         "chars":[
+            "\ub017"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },
    ]
 }
