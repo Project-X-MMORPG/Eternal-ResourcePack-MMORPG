@@ -1,34 +1,34 @@
 {
    "providers":[
       {
-         "file":"skycore_font:icon_lead",
+         "file":"skycore_font:icon_lead.png",
          "chars":[
-            "뀁"
+            "\ub001"
          ],
          "height":7,
          "ascent":7,
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_admin",
+         "file":"skycore_font:icon_admin.png",
          "chars":[
-            "뀂"
+            "\ub002"
          ],
          "height":7,
          "ascent":7,
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_manager",
+         "file":"skycore_font:icon_manager.png",
          "chars":[
-            "뀃"
+            "\ub003"
          ],
          "height":7,
          "ascent":7,
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_senior_game_master",
+         "file":"skycore_font:icon_senior_game_master.png",
          "chars":[
             "\ub004"
          ],
@@ -37,7 +37,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_game_master",
+         "file":"skycore_font:icon_game_master.png",
          "chars":[
             "\ub005"
          ],
@@ -46,7 +46,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_junior_game_master",
+         "file":"skycore_font:icon_junior_game_master.png",
          "chars":[
             "\ub006"
          ],
@@ -55,7 +55,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_staff",
+         "file":"skycore_font:icon_staff.png",
          "chars":[
             "\ub007"
          ],
@@ -64,7 +64,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_vip_partner",
+         "file":"skycore_font:icon_vip_partner.png",
          "chars":[
             "\ub008"
          ],
@@ -73,7 +73,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_partner",
+         "file":"skycore_font:icon_partner.png",
          "chars":[
             "\ub009"
          ],
@@ -82,7 +82,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_creator_plus",
+         "file":"skycore_font:icon_creator_plus.png",
          "chars":[
             "\ub010"
          ],
@@ -91,7 +91,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_creator",
+         "file":"skycore_font:icon_creator.png",
          "chars":[
             "\ub011"
          ],
@@ -100,7 +100,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_vip",
+         "file":"skycore_font:icon_vip.png",
          "chars":[
             "\ub012"
          ],
@@ -109,7 +109,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_master",
+         "file":"skycore_font:icon_master.png",
          "chars":[
             "\ub013"
          ],
@@ -118,7 +118,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_elite",
+         "file":"skycore_font:icon_elite.png",
          "chars":[
             "\ub014"
          ],
@@ -127,7 +127,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_pro",
+         "file":"skycore_font:icon_pro.png",
          "chars":[
             "\ub015"
          ],
@@ -136,7 +136,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_premium",
+         "file":"skycore_font:icon_premium.png",
          "chars":[
             "\ub016"
          ],
@@ -145,7 +145,7 @@
          "type":"bitmap"
       },
 	  {
-         "file":"skycore_font:icon_player",
+         "file":"skycore_font:icon_player.png",
          "chars":[
             "\ub017"
          ],
