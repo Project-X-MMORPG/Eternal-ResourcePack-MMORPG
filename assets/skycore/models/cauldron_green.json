@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "Desktop:gray_002",
-		"1": "Desktop:brown_003",
-		"2": "cauldron_001",
-		"particle": "Desktop:gray_002"
+		"0": "skycore:gray_002",
+		"1": "blocks/oak_planks",
+		"2": "skycore:cauldron_001",
+		"particle": "skycore:gray_002"
 	},
 	"elements": [
 		{
