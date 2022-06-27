@@ -3,7 +3,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "skycore:gray_002",
-		"1": "blocks/oak_planks",
+		"1": "block/spruce_planks",
 		"2": "skycore:cauldron_001",
 		"particle": "skycore:gray_002"
 	},
