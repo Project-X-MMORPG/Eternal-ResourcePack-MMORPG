@@ -3,7 +3,7 @@
 		{
 			"file": "skycore_font:icon_lead",
 			"chars": [
-				"\ue001"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -12,7 +12,7 @@
 		{
 			"file": "skycore_font:icon_admin",
 			"chars": [
-				"\ue002"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -21,7 +21,7 @@
 		{
 			"file": "skycore_font:icon_manager",
 			"chars": [
-				"\ue003"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -30,7 +30,7 @@
 		{
 			"file": "skycore_font:icon_senior_game_master",
 			"chars": [
-				"\ue004"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -39,7 +39,7 @@
 		{
 			"file": "skycore_font:icon_game_master",
 			"chars": [
-				"\ue005"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -48,7 +48,7 @@
 		{
 			"file": "skycore_font:icon_junior_game_master",
 			"chars": [
-				"\ue006"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -57,7 +57,7 @@
 		{
 			"file": "skycore_font:icon_staff",
 			"chars": [
-				"\ue007"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -66,7 +66,7 @@
 		{
 			"file": "skycore_font:icon_vip_partner",
 			"chars": [
-				"\ue008"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -75,7 +75,7 @@
 		{
 			"file": "skycore_font:icon_partner",
 			"chars": [
-				"\ue009"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -84,7 +84,7 @@
 		{
 			"file": "skycore_font:icon_creator_plus",
 			"chars": [
-				"\ue010"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -93,7 +93,7 @@
 		{
 			"file": "skycore_font:icon_creator",
 			"chars": [
-				"\ue011"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -102,7 +102,7 @@
 		{
 			"file": "skycore_font:icon_vip",
 			"chars": [
-				"\ue012"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -111,7 +111,7 @@
 		{
 			"file": "skycore_font:icon_master",
 			"chars": [
-				"\ue013"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -120,7 +120,7 @@
 		{
 			"file": "skycore_font:icon_elite",
 			"chars": [
-				"\ue014"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -129,7 +129,7 @@
 		{
 			"file": "skycore_font:icon_pro",
 			"chars": [
-				"\ue015"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -138,7 +138,7 @@
 		{
 			"file": "skycore_font:icon_premium",
 			"chars": [
-				"\ue016"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -147,7 +147,7 @@
 		{
 			"file": "skycore_font:icon_player",
 			"chars": [
-				"\ue017"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -156,7 +156,7 @@
 		{
 			"file": "skycore_font:09/0",
 			"chars": [
-				"\ue018"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -165,87 +165,79 @@
 		{
 			"file": "skycore_font:09/1",
 			"chars": [
-				"\ue019"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/2",
 			"chars": [
-				"\ue020"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/3",
 			"chars": [
-				"\ue021"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/4",
 			"chars": [
-				"\ue022"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/5",
 			"chars": [
-				"\ue023"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/6",
 			"chars": [
-				"\ue024"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/7",
 			"chars": [
-				"\ue025"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/8",
 			"chars": [
-				"\ue026"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
 		},
-
 		{
 			"file": "skycore_font:09/9",
 			"chars": [
-				"\ue027"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -254,7 +246,7 @@
 		{
 			"file": "skycore_font:1019/0",
 			"chars": [
-				"\ue028"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -263,7 +255,7 @@
 		{
 			"file": "skycore_font:1019/1",
 			"chars": [
-				"\ue029"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -272,7 +264,7 @@
 		{
 			"file": "skycore_font:1019/2",
 			"chars": [
-				"\ue030"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -281,7 +273,7 @@
 		{
 			"file": "skycore_font:1019/3",
 			"chars": [
-				"\ue031"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -290,7 +282,7 @@
 		{
 			"file": "skycore_font:1019/4",
 			"chars": [
-				"\ue032"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -299,7 +291,7 @@
 		{
 			"file": "skycore_font:1019/5",
 			"chars": [
-				"\ue033"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -308,7 +300,7 @@
 		{
 			"file": "skycore_font:1019/6",
 			"chars": [
-				"\ue034"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -317,7 +309,7 @@
 		{
 			"file": "skycore_font:1019/7",
 			"chars": [
-				"\ue035"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -326,7 +318,7 @@
 		{
 			"file": "skycore_font:1019/8",
 			"chars": [
-				"\ue036"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -335,7 +327,7 @@
 		{
 			"file": "skycore_font:1019/9",
 			"chars": [
-				"\ue037"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -344,7 +336,7 @@
 		{
 			"file": "skycore_font:2029/0",
 			"chars": [
-				"\ue038"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -353,7 +345,7 @@
 		{
 			"file": "skycore_font:2029/1",
 			"chars": [
-				"\ue039"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -362,7 +354,7 @@
 		{
 			"file": "skycore_font:2029/2",
 			"chars": [
-				"\ue040"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -371,7 +363,7 @@
 		{
 			"file": "skycore_font:2029/3",
 			"chars": [
-				"\ue041"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -380,7 +372,7 @@
 		{
 			"file": "skycore_font:2029/4",
 			"chars": [
-				"\ue042"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -389,7 +381,7 @@
 		{
 			"file": "skycore_font:2029/5",
 			"chars": [
-				"\ue043"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -398,7 +390,7 @@
 		{
 			"file": "skycore_font:2029/6",
 			"chars": [
-				"\ue044"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -407,7 +399,7 @@
 		{
 			"file": "skycore_font:2029/7",
 			"chars": [
-				"\ue045"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -416,7 +408,7 @@
 		{
 			"file": "skycore_font:2029/8",
 			"chars": [
-				"\ue046"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -425,7 +417,7 @@
 		{
 			"file": "skycore_font:2029/9",
 			"chars": [
-				"\ue047"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
@@ -434,7 +426,7 @@
 		{
 			"file": "skycore_font:3039/0",
 			"chars": [
-				"\ue048"
+				""
 			],
 			"height": 7,
 			"ascent": 7,
