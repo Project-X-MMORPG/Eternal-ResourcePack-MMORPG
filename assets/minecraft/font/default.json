@@ -2,155 +2,121 @@
    "providers":[
       {
          "file":"skycore_font:icon_lead.png",
-         "chars":[
-            "\ue001"
-         ],
+         "chars":[""],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_admin.png",
-         "chars":[
-            "\ue002"
-         ],
+         "chars":[""],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_manager.png",
-         "chars":[
-            "\ue003"
-         ],
+         "chars":["\ue003"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_senior_game_master.png",
-         "chars":[
-            "\ue004"
-         ],
+         "chars":["\ue004"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_game_master.png",
-         "chars":[
-            "\ue005"
-         ],
+         "chars":["\ue005"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_junior_game_master.png",
-         "chars":[
-            "\ue006"
-         ],
+         "chars":["\ue006"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_staff.png",
-         "chars":[
-            "\ue009"
-         ],
+         "chars":["\ue009"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_vip_partner.png",
-         "chars":[
-            "\ue008"
-         ],
+         "chars":["\ue007"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_partner.png",
-         "chars":[
-            "\ue009"
-         ],
+         "chars":["\ue009"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_creator_plus.png",
-         "chars":[
-            "\ue010"
-         ],
+         "chars":["\ue010"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_creator.png",
-         "chars":[
-            "\ue011"
-         ],
+         "chars":["\ue011"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_vip.png",
-         "chars":[
-            "\ue012"
-         ],
+         "chars":["\ue012"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_master.png",
-         "chars":[
-            "\ue013"
-         ],
+         "chars":["\ue013"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_elite.png",
-         "chars":[
-            "\ue014"
-         ],
+         "chars":["\ue014"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_pro.png",
-         "chars":[
-            "\ue015"
-         ],
+         "chars":["\ue015"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_premium.png",
-         "chars":[
-            "\ue016"
-         ],
+         "chars":["\ue016"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
 	  {
          "file":"skycore_font:icon_player.png",
-         "chars":[
-            "\ue019"
-         ],
+         "chars":["\ue019"],
          "height":9,
-         "ascent":8,
+         "ascent":7,
          "type":"bitmap"
       },
    ]
