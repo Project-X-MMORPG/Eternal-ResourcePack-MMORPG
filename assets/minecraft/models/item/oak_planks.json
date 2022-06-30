@@ -1,0 +1,38 @@
+{
+   "parent":"block/generated",
+   "textures":{
+      "layer0":"block/oak_planks"
+   },
+   "overrides":[
+      {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"skycore:stone_1"
+      },
+	  {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"skycore:red_bricks_1"
+      },
+	  {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"skycore:creme_1"
+      },
+	  {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"skycore:carpet_1"
+      },
+	  {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"skycore:carpet_2"
+      },
+   ]
+}
