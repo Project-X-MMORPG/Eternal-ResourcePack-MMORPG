@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "alchemist_bench",
-		"particle": "alchemist_bench"
+		"1": "skycore:alchemist_bench_2",
+		"particle": "skycore:alchemist_bench_2"
 	},
 	"elements": [
 		{
