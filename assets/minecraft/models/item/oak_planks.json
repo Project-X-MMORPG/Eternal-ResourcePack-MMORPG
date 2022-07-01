@@ -1,5 +1,5 @@
 {
-   "parent":"block/generated",
+   "parent":"block/handheld",
    "textures":{
       "layer0":"block/oak_planks"
    },
@@ -12,25 +12,25 @@
       },
 	  {
          "predicate":{
-            "custom_model_data": 1
+            "custom_model_data": 2
          },
          "model":"skycore:red_bricks_1"
       },
 	  {
          "predicate":{
-            "custom_model_data": 1
+            "custom_model_data": 3
          },
          "model":"skycore:creme_1"
       },
 	  {
          "predicate":{
-            "custom_model_data": 1
+            "custom_model_data": 4
          },
          "model":"skycore:carpet_1"
       },
 	  {
          "predicate":{
-            "custom_model_data": 1
+            "custom_model_data": 5
          },
          "model":"skycore:carpet_2"
       },
