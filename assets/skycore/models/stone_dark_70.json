@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "skycore:creme_1",
-		"texture": "skycore:creme_1"
+		"particle": "skycore:stone_dark_70",
+		"texture": "skycore:stone_dark_70"
 	},
 	"elements": [
 		{

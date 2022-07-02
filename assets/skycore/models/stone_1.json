@@ -1,6 +1,0 @@
-{
-	"parent": "block/handheld",
-	"textures": {
-		"layer0": "skycore:stone_1"
-	}
-}

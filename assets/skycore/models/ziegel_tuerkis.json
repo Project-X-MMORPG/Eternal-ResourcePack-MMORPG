@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "skycore:creme_1",
-		"texture": "skycore:creme_1"
+		"particle": "skycore:ziegel_tuerkis",
+		"texture": "skycore:ziegel_tuerkis"
 	},
 	"elements": [
 		{
