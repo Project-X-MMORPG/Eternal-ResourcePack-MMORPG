@@ -3981,13 +3981,13 @@
       "predicate": {
         "custom_model_data": 662
       },
-      "model": ""
+      "model": "just_things:just_things_001"
     },
     {
       "predicate": {
         "custom_model_data": 663
       },
-      "model": ""
+      "model": "just_things:just_things_001"
     },
     {
       "predicate": {
@@ -13186,6 +13186,240 @@
 	{"predicate": {"custom_model_data":320011}, "model": "griims_deco_01:hanging_metal_rack_g"},
 	{"predicate": {"custom_model_data":320012}, "model": "griims_deco_01:hanging_metal_rack_r"},
 	{"predicate": {"custom_model_data":320013}, "model": "griims_deco_01:campfire_roasting_spit"},
-	{"predicate": {"custom_model_data":320014}, "model": "griims_deco_01:wall_sconce_torch"}
+	{"predicate": {"custom_model_data":320014}, "model": "griims_deco_01:wall_sconce_torch"},
+	{
+      "predicate": {
+        "custom_model_data": 350010
+      },
+      "model": "dungeon_decorations:caged_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350011
+      },
+      "model": "dungeon_decorations:candle_holder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350012
+      },
+      "model": "dungeon_decorations:candle_holder_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350013
+      },
+      "model": "dungeon_decorations:day_marks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350014
+      },
+      "model": "dungeon_decorations:dungeon_cage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350015
+      },
+      "model": "dungeon_decorations:dungeon_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350016
+      },
+      "model": "dungeon_decorations:dungeon_pots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350017
+      },
+      "model": "dungeon_decorations:practice_target"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350018
+      },
+      "model": "dungeon_decorations:skeleton_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350019
+      },
+      "model": "dungeon_decorations:skeleton_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350020
+      },
+      "model": "dungeon_decorations:skeleton_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350021
+      },
+      "model": "dungeon_decorations:skeleton_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350022
+      },
+      "model": "dungeon_decorations:tombstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350023
+      },
+      "model": "dungeon_decorations:tombstone_big"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350024
+      },
+      "model": "dungeon_decorations:wall_fountain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350025
+      },
+      "model": "dungeon_decorations:wall_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350026
+      },
+      "model": "dungeon_decorations:wall_shackle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350027
+      },
+      "model": "dungeon_decorations:wall_shackle_bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350028
+      },
+      "model": "dungeon_decorations:metal_bar_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350029
+      },
+      "model": "dungeon_decorations:metal_bar_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350030
+      },
+      "model": "dungeon_decorations:metal_bar_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350031
+      },
+      "model": "dungeon_decorations:metal_bar_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350032
+      },
+      "model": "dungeon_decorations:metal_bars_stacked_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350033
+      },
+      "model": "dungeon_decorations:metal_bars_stacked_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350034
+      },
+      "model": "dungeon_decorations:metal_bars_stacked_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350035
+      },
+      "model": "dungeon_decorations:metal_bars_stacked_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350036
+      },
+      "model": "dungeon_decorations:dungeon_crate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350037
+      },
+      "model": "dungeon_decorations:messy_metal_bars_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350038
+      },
+      "model": "dungeon_decorations:messy_metal_bars_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350039
+      },
+      "model": "dungeon_decorations:messy_metal_bars_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350040
+      },
+      "model": "dungeon_decorations:messy_metal_bars_netherite"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 350041
+      },
+      "model": "dungeon_decorations:dungeon_banner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350042
+      },
+      "model": "dungeon_decorations:dungeon_banner_ripped"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350043
+      },
+      "model": "dungeon_decorations:dungeon_triangle_banner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350044
+      },
+      "model": "dungeon_decorations:dungeon_triangle_banner_ripped"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350045
+      },
+      "model": "dungeon_decorations:dungeon_banner_flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350046
+      },
+      "model": "dungeon_decorations:dungeon_banner_flag_ripped"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350047
+      },
+      "model": "dungeon_decorations:dungeon_triangle_banner_flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350048
+      },
+      "model": "dungeon_decorations:dungeon_triangle_banner_flag_ripped"
+    }
   ]
 }
