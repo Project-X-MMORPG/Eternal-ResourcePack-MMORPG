@@ -3993,7 +3993,7 @@
       "predicate": {
         "custom_model_data": 664
       },
-      "model": ""
+      "model": "gem_machine:block"
     },
     {
       "predicate": {
