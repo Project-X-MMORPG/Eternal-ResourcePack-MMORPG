@@ -729,6 +729,78 @@
 	{ "predicate": { "custom_model_data": 233 }, "model": "yungwilder:turtle_shell_blue" },
 	{ "predicate": { "custom_model_data": 234 }, "model": "yungwilder:turtle_shell_green" },
 	{ "predicate": { "custom_model_data": 235 }, "model": "yungwilder:turtle_shell_red" },
-	{ "predicate": { "custom_model_data": 236 }, "model": "yungwilder:wind_up" }
+	{ "predicate": { "custom_model_data": 236 }, "model": "yungwilder:wind_up" },
+	{
+         "predicate":{
+            "custom_model_data":950
+         },
+         "model":"rpgmobs_1:loots/bat_horn"
+      },
+      {
+         "predicate":{
+            "custom_model_data":951
+         },
+         "model":"rpgmobs_1:loots/boar_leather"
+      },
+      {
+         "predicate":{
+            "custom_model_data":952
+         },
+         "model":"rpgmobs_1:loots/magical_feather"
+      },
+      {
+         "predicate":{
+            "custom_model_data":953
+         },
+         "model":"rpgmobs_1:loots/mushroom_of_life"
+      },
+      {
+         "predicate":{
+            "custom_model_data":954
+         },
+         "model":"rpgmobs_1:loots/shiny_bone"
+      },
+      {
+         "predicate":{
+            "custom_model_data":955
+         },
+         "model":"rpgmobs_1:loots/slime_goo"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":956
+         },
+         "model":"rpgmobs_1:loots/blue_slime_goo"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":957
+         },
+         "model":"rpgmobs_1:loots/snow_boar_leather"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":958
+         },
+         "model":"rpgmobs_1:loots/mushroom_of_curse"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":959
+         },
+         "model":"rpgmobs_1:loots/crimson_feather"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":960
+         },
+         "model":"rpgmobs_1:loots/fire_feather"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":961
+         },
+         "model":"rpgmobs_1:loots/glacial_feather"
+      }
   ]
 }

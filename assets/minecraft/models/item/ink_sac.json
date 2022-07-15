@@ -5,6 +5,28 @@
     },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "littleroom_vikings:viking_miniboss_helm"},
-		{"predicate": {"custom_model_data":2}, "model": "littleroom_vikings:viking_helmet"}
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_vikings:viking_helmet"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom_bugpack:petnet_red"},
+		{"predicate": {"custom_model_data":4}, "model": "littleroom_bugpack:ant"},
+		{"predicate": {"custom_model_data":5}, "model": "littleroom_bugpack:butterfly_blue"},
+		{"predicate": {"custom_model_data":6}, "model": "littleroom_bugpack:butterfly_indigo"},
+		{"predicate": {"custom_model_data":7}, "model": "littleroom_bugpack:butterfly_red"},
+		{"predicate": {"custom_model_data":8}, "model": "littleroom_bugpack:butterfly_violet"},
+		{"predicate": {"custom_model_data":9}, "model": "littleroom_bugpack:butterfly_white"},
+		{"predicate": {"custom_model_data":10}, "model": "littleroom_bugpack:butterfly_yellow"},
+		{"predicate": {"custom_model_data":11}, "model": "littleroom_bugpack:praying_mantis"},
+		{"predicate": {"custom_model_data":12}, "model": "littleroom_bugpack:firefly"},
+		{"predicate": {"custom_model_data":13}, "model": "littleroom_bugpack:dung_beetle"},
+		{"predicate": {"custom_model_data":14}, "model": "littleroom_bugpack:snail"},
+		{"predicate": {"custom_model_data":15}, "model": "littleroom_bugpack:ladybug"},
+		{"predicate": {"custom_model_data":16}, "model": "littleroom_bugpack:moth_atlas"},
+		{"predicate": {"custom_model_data":17}, "model": "littleroom_bugpack:tarantula"},
+		{"predicate": {"custom_model_data":20}, "model": "littleroom_wilderness:antlers"},
+		{"predicate": {"custom_model_data":21}, "model": "littleroom_wilderness:venison"},
+		{"predicate": {"custom_model_data":22}, "model": "littleroom_wilderness:venison_cooked"},
+		{"predicate": {"custom_model_data":23}, "model": "littleroom_wilderness:pelt"},
+		{"predicate": {"custom_model_data":24}, "model": "littleroom_wilderness:bear_hat"},
+		{"predicate": {"custom_model_data":25}, "model": "littleroom_wilderness:bearpolar_hat"},
+		{"predicate": {"custom_model_data":26}, "model": "littleroom_wilderness:bearblack_hat"}
 	]
 }
