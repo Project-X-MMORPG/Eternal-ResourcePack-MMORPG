@@ -200,6 +200,99 @@
         },
         "instrument=basedrum,note=16,powered=false": {
             "model": "block/ziegel_weiss"
-        }
+        },
+		"instrument=basedrum,note=16,powered=true": {
+            "model": "block/Dach_1"
+        },
+        "instrument=basedrum,note=17,powered=false": {
+            "model": "block/Dach_2"
+        },
+        "instrument=basedrum,note=17,powered=true": {
+            "model": "block/Dach_3"
+        },
+        "instrument=basedrum,note=18,powered=false": {
+            "model": "block/Dach_4"
+        },
+        "instrument=basedrum,note=18,powered=true": {
+            "model": "block/Dach_5"
+        },
+        "instrument=basedrum,note=19,powered=false": {
+            "model": "block/Dach_6"
+        },
+        "instrument=basedrum,note=19,powered=true": {
+            "model": "block/Dach_7"
+        },
+        "instrument=basedrum,note=2,powered=false": {
+            "model": "block/Dach_8"
+        },
+        "instrument=basedrum,note=2,powered=true": {
+            "model": "block/Dach_9"
+        },
+        "instrument=basedrum,note=20,powered=false": {
+            "model": "block/Dach_10"
+        },
+        "instrument=basedrum,note=20,powered=true": {
+            "model": "block/Dach_11"
+        },
+        "instrument=basedrum,note=21,powered=false": {
+            "model": "block/Dach_12"
+        },
+        "instrument=basedrum,note=21,powered=true": {
+            "model": "block/Dach_13"
+        },
+        "instrument=basedrum,note=22,powered=false": {
+            "model": "block/dirt1"
+        },
+        "instrument=basedrum,note=22,powered=true": {
+            "model": "block/moss"
+        },
+        "instrument=basedrum,note=23,powered=false": {
+            "model": "block/mud1"
+        },
+        "instrument=basedrum,note=23,powered=true": {
+            "model": "block/mud2"
+        },
+        "instrument=basedrum,note=24,powered=false": {
+            "model": "block/mud3"
+        },
+        "instrument=basedrum,note=24,powered=true": {
+            "model": "block/mud4"
+        },
+        "instrument=basedrum,note=3,powered=false": {
+            "model": "block/mud5"
+        },
+        "instrument=basedrum,note=3,powered=true": {
+            "model": "block/mud6"
+        },
+        "instrument=basedrum,note=4,powered=false": {
+            "model": "block/mangrove_log"
+        },
+        "instrument=basedrum,note=4,powered=true": {
+            "model": "block/baobab_log"
+        },
+        "instrument=basedrum,note=5,powered=false": {
+            "model": "block/magic"
+        },
+        "instrument=basedrum,note=5,powered=true": {
+            "model": "block/magic2"
+        },
+		"instrument=basedrum,note=6,powered=false": {
+            "model": "block/stone_light30"
+        },
+        "instrument=basedrum,note=6,powered=true": {
+            "model": "block/stone_light15"
+        },
+        "instrument=basedrum,note=7,powered=false": {
+            "model": "block/stone_dark_105"
+        },
+        "instrument=basedrum,note=7,powered=true": {
+            "model": "block/stone_dark_90"
+        },
+        "instrument=basedrum,note=8,powered=false": {
+            "model": "block/stone_dark_70"
+        },
+        "instrument=basedrum,note=8,powered=true": {
+            "model": "block/stone_dark_15"
+        },
     }
 }
