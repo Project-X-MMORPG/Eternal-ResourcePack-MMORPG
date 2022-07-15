@@ -293,6 +293,6 @@
         },
         "instrument=basedrum,note=8,powered=true": {
             "model": "block/stone_dark_15"
-        },
+        }
     }
 }
