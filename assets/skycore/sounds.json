@@ -1,0 +1,7 @@
+{
+   "skycore.ambientnoise":{
+		 "sounds": [
+			"skycore/music/ambientnoise"
+		 ]
+	}
+}

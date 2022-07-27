@@ -1068,6 +1068,168 @@
 			"height": 7,
 			"ascent": 7,
 			"type": "bitmap"
-		}
+		},
+		{
+			"file": "skycore_font:compass/1.png",
+			"chars": [
+				"\uE119"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/2.png",
+			"chars": [
+				"\uE120"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/3.png",
+			"chars": [
+				"\uE121"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/4.png",
+			"chars": [
+				"\uE122"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/5.png",
+			"chars": [
+				"\uE123"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/6.png",
+			"chars": [
+				"\uE124"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/7.png",
+			"chars": [
+				"\uE125"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/8.png",
+			"chars": [
+				"\uE126"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icons/decline.png",
+			"chars": [
+				"\uE127"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+         "file":"mccosmetics:ui/mccosmetics-main.png",
+         "chars":[
+            "\ue833"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-accessories.png",
+         "chars":[
+            "\ue834"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-backpacks.png",
+         "chars":[
+            "\ue835"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-emotes.png",
+         "chars":[
+            "\ue836"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-offhand.png",
+         "chars":[
+            "\ue837"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-sprays.png",
+         "chars":[
+            "\ue838"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-hats.png",
+         "chars":[
+            "\ue839"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-hats.png",
+         "chars":[
+            "\ue801"
+         ],
+         "height":-6,
+         "ascent":-32768,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/empty_character.png",
+         "chars":[
+            "\ue802"
+         ],
+         "height":-6,
+         "ascent":-32768,
+         "type":"bitmap"
+      }
 	]
 }
