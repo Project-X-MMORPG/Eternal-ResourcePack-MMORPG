@@ -1,0 +1,98 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/red_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "snights_cosmetics_v2:mushroom_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "snights_cosmetics_v2:mushroom_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "snights_cosmetics_v2:mushroom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "snights_cosmetics_v2:brown_bear_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "snights_cosmetics_v2:brown_bear_claw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "snights_cosmetics_v2:brown_bear_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "snights_cosmetics_v2:chef_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "snights_cosmetics_v2:knife_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "snights_cosmetics_v2:saucepan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "snights_cosmetics_v2:knight_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "snights_cosmetics_v2:knight_cloak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "snights_cosmetics_v2:knight_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "snights_cosmetics_v2:krusty_krab_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "snights_cosmetics_v2:krabby_patty"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "snights_cosmetics_v2:krusty_krab_spatula"
+    }
+  ]
+}

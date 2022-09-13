@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/map"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100}, "model": "custom_gui/questsystem/quest_tracking_on"},
+        {"predicate": {"custom_model_data":101}, "model": "custom_gui/questsystem/quest_tracking_off"},
+        {"predicate": {"custom_model_data":102}, "model": "custom_gui/questsystem/task"},
+        {"predicate": {"custom_model_data":103}, "model": "custom_gui/questsystem/task_completed"},
+        {"predicate": {"custom_model_data":104}, "model": "custom_gui/questsystem/gold"},
+        {"predicate": {"custom_model_data":105}, "model": "custom_gui/questsystem/xp"},
+        {"predicate": {"custom_model_data":1337}, "model": "custom_gui/invisibleitem"}
+    ]
+}

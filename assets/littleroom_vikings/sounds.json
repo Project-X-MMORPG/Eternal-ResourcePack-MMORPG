@@ -1,0 +1,197 @@
+{
+   "littleroom.vikings.viking_impact1":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact1"
+		 ]
+	},
+   "littleroom.vikings.viking_impact2":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact2"
+		 ]
+	},
+   "littleroom.vikings.viking_impact3":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact3"
+		 ]
+	},
+   "littleroom.vikings.viking_impact4":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact4"
+		 ]
+	},
+   "littleroom.vikings.viking_impact5":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact5"
+		 ]
+	},
+   "littleroom.vikings.viking_impact6":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact6"
+		 ]
+	},
+   "littleroom.vikings.viking_impact7":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact7"
+		 ]
+	},
+   "littleroom.vikings.viking_impact8":{
+		 "sounds": [
+			"littleroom/vikings/viking_impact8"
+		 ]
+	},
+   "littleroom.vikings.viking_scream1":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream1"
+		 ]
+	},
+   "littleroom.vikings.viking_scream2":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream2"
+		 ]
+	},
+   "littleroom.vikings.viking_scream3":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream3"
+		 ]
+	},
+   "littleroom.vikings.viking_scream4":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream4"
+		 ]
+	},
+   "littleroom.vikings.viking_scream5":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream5"
+		 ]
+	},
+   "littleroom.vikings.viking_scream6":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream6"
+		 ]
+	},
+   "littleroom.vikings.viking_scream7":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream7"
+		 ]
+	},
+   "littleroom.vikings.viking_scream8":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream8"
+		 ]
+	},
+   "littleroom.vikings.viking_scream9":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream9"
+		 ]
+	},
+   "littleroom.vikings.viking_scream10":{
+		 "sounds": [
+			"littleroom/vikings/viking_scream10"
+		 ]
+	},
+   "littleroom.vikings.viking_swing1":{
+		 "sounds": [
+			"littleroom/vikings/viking_swing1"
+		 ]
+	},
+   "littleroom.vikings.viking_swing2":{
+		 "sounds": [
+			"littleroom/vikings/viking_swing2"
+		 ]
+	},
+   "littleroom.vikings.viking_swing3":{
+		 "sounds": [
+			"littleroom/vikings/viking_swing3"
+		 ]
+	},
+   "littleroom.vikings.viking_swing4":{
+		 "sounds": [
+			"littleroom/vikings/viking_swing4"
+		 ]
+	},
+   "littleroom.vikings.viking_shield1":{
+		 "sounds": [
+			"littleroom/vikings/viking_shield1"
+		 ]
+	},
+   "littleroom.vikings.viking_shield2":{
+		 "sounds": [
+			"littleroom/vikings/viking_shield2"
+		 ]
+	},
+   "littleroom.vikings.viking_shield3":{
+		 "sounds": [
+			"littleroom/vikings/viking_shield3"
+		 ]
+	},
+   "littleroom.vikings.viking_equip1":{
+		 "sounds": [
+			"littleroom/vikings/viking_equip1"
+		 ]
+	},
+   "littleroom.vikings.viking_equip2":{
+		 "sounds": [
+			"littleroom/vikings/viking_equip2"
+		 ]
+	},
+   "littleroom.vikings.viking_equip3":{
+		 "sounds": [
+			"littleroom/vikings/viking_equip3"
+		 ]
+	},
+   "littleroom.vikings.miniboss_axegrab":{
+		 "sounds": [
+			"littleroom/vikings/miniboss_axegrab"
+		 ]
+	},
+   "littleroom.vikings.miniboss_axeland":{
+		 "sounds": [
+			"littleroom/vikings/miniboss_axeland"
+		 ]
+	},
+   "littleroom.vikings.miniboss_jump":{
+		 "sounds": [
+			"littleroom/vikings/miniboss_jump"
+		 ]
+	},
+   "littleroom.vikings.miniboss_throw":{
+		 "sounds": [
+			"littleroom/vikings/miniboss_throw"
+		 ]
+	},
+   "littleroom.vikings.viking_miniboss_death":{
+		 "sounds": [
+			"littleroom/vikings/miniboss_death"
+		 ]
+	},
+   "littleroom.vikings.viking_death_choke":{
+		 "sounds": [
+			"littleroom/vikings/viking_death_choke"
+		 ]
+	},
+   "littleroom.vikings.viking_death1":{
+		 "sounds": [
+			"littleroom/vikings/viking_death1"
+		 ]
+	},
+   "littleroom.vikings.viking_death2":{
+		 "sounds": [
+			"littleroom/vikings/viking_death2"
+		 ]
+	},
+   "littleroom.vikings.miniboss_doorbreak":{
+		 "sounds": [
+			"littleroom/vikings/miniboss_doorbreak"
+		 ]
+	},
+   "littleroom.vikings.decor_cart":{
+		 "sounds": [
+			"littleroom/vikings/decor_cart"
+		 ]
+	},
+   "littleroom.vikings.decor_rune":{
+		 "sounds": [
+			"littleroom/vikings/decor_rune"
+		 ]
+	}
+}

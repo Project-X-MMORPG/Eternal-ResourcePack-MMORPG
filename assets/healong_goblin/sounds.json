@@ -1,0 +1,42 @@
+{
+   "healong.goblin.shaman_heal":{
+		 "sounds": [
+			"healong/goblin/shaman_heal"
+		 ]
+	},
+   "healong.goblin.goblindeath1":{
+		 "sounds": [
+			"healong/goblin/goblindeath1"
+		 ]
+	},
+   "healong.goblin.goblindeath2":{
+		 "sounds": [
+			"healong/goblin/goblindeath2"
+		 ]
+	},
+   "healong.goblin.goblinkingdeath":{
+		 "sounds": [
+			"healong/goblin/goblinkingdeath"
+		 ]
+	},
+   "healong.goblin.goblinking_jump1":{
+		 "sounds": [
+			"healong/goblin/goblinking_jump1"
+		 ]
+	},
+   "healong.goblin.goblinking_hahahaa":{
+		 "sounds": [
+			"healong/goblin/goblinking_hahahaa"
+		 ]
+	},
+   "healong.goblin.goblinking_hahahaa1":{
+		 "sounds": [
+			"healong/goblin/goblinking_hahahaa1"
+		 ]
+	},
+   "healong.goblin.goblinking_go":{
+		 "sounds": [
+			"healong/goblin/goblinking_go"
+		 ]
+	}
+}

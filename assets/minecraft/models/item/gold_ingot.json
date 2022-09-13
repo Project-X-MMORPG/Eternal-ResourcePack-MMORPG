@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_ingot"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "fences:fence_1" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "fences:fence_2" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "fences:fence_3" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "fences:fence_4" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "fences:fence_5" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "fences:fence_6" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "fences:fence_7" },
+	{ "predicate": { "custom_model_data": 8 }, "model": "fences:fence_8" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "fences:fence_9" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "fences:fence_10" }
+  ]
+}

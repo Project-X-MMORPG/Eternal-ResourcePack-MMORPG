@@ -1,0 +1,806 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/coal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_barrell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_bag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_bath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_bed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_bench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_box_apples"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_box_bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_direction_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_hangingpot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_haybales"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_marketstall_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_marketstall_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_open_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_scarecrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_stalltable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_stool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_wagon_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_wagon_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_wagon2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_wall_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_well"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "custom/furniture/medieval_market/medieval_market_wood_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_chair_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_chair_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_chest_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_chest_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_cupboard_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_flag_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_flag_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_floatingshelf_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_food_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_food_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_food_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_food_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_food_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_glass_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_glass_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_lamp_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_lamp_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_lamp_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_table_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_table_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_barrel_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_barrel_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_bed_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_carpet_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_cart_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_chair_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "custom/furniture/medieval_001/dark_oak/mc_medieval_chair_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_chair_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_chair_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_chest_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_chest_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_cupboard_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_flag_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_flag_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_floatingshelf_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_lamp_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_lamp_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_lamp_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_table_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_table_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_barrel_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_barrel_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_bed_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_cart_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_chair_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145
+      },
+      "model": "custom/furniture/medieval_001/oak/mc_medieval_chair_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_chair_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_chair_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_chest_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_chest_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_cupboard_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_flag_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_flag_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_floatingshelf_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_lamp_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_lamp_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 156
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_lamp_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 157
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_table_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 158
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_table_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 159
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_barrel_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 160
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_barrel_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 161
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_bed_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 162
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_cart_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 163
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_chair_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 164
+      },
+      "model": "custom/furniture/medieval_001/acacia/mc_medieval_chair_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 200
+      },
+      "model": "architect_furniture:blue_print_big_plain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "architect_furniture:blue_print_big"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 202
+      },
+      "model": "architect_furniture:blue_print_medium_plain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 203
+      },
+      "model": "architect_furniture:blue_print_medium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 204
+      },
+      "model": "architect_furniture:blue_print_small_plain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 205
+      },
+      "model": "architect_furniture:blue_print_small"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 206
+      },
+      "model": "architect_furniture:boulder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 207
+      },
+      "model": "architect_furniture:diploma"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 208
+      },
+      "model": "architect_furniture:documents"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 209
+      },
+      "model": "architect_furniture:globe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 210
+      },
+      "model": "architect_furniture:messy_notes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 211
+      },
+      "model": "architect_furniture:notes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 212
+      },
+      "model": "architect_furniture:plank_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 213
+      },
+      "model": "architect_furniture:plank_pile_oak_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 214
+      },
+      "model": "architect_furniture:plank_pile_oak_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 215
+      },
+      "model": "architect_furniture:plank_pile_oak_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 216
+      },
+      "model": "architect_furniture:plank_pile_oak_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 217
+      },
+      "model": "architect_furniture:plank_pile_oak_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 218
+      },
+      "model": "architect_furniture:project_table_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 219
+      },
+      "model": "architect_furniture:project_table_lamp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 220
+      },
+      "model": "architect_furniture:project_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 221
+      },
+      "model": "architect_furniture:push_cart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 222
+      },
+      "model": "architect_furniture:rolled_blue_print_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 223
+      },
+      "model": "architect_furniture:rolled_blue_print"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 224
+      },
+      "model": "architect_furniture:stand_oak"
+    },
+	{ "predicate": { "custom_model_data": 225 }, "model": "yungwilder:burger_suit" },
+	{ "predicate": { "custom_model_data": 226 }, "model": "yungwilder:claw_machine" },
+	{ "predicate": { "custom_model_data": 227 }, "model": "yungwilder:gear" },
+	{ "predicate": { "custom_model_data": 228 }, "model": "yungwilder:giant_scroll" },
+	{ "predicate": { "custom_model_data": 229 }, "model": "yungwilder:life_preserver" },
+	{ "predicate": { "custom_model_data": 230 }, "model": "yungwilder:pauldrons" },
+	{ "predicate": { "custom_model_data": 231 }, "model": "yungwilder:sword" },
+	{ "predicate": { "custom_model_data": 232 }, "model": "yungwilder:treadmill" },
+	{ "predicate": { "custom_model_data": 233 }, "model": "yungwilder:turtle_shell_blue" },
+	{ "predicate": { "custom_model_data": 234 }, "model": "yungwilder:turtle_shell_green" },
+	{ "predicate": { "custom_model_data": 235 }, "model": "yungwilder:turtle_shell_red" },
+	{ "predicate": { "custom_model_data": 236 }, "model": "yungwilder:wind_up" },
+	{
+         "predicate":{
+            "custom_model_data":950
+         },
+         "model":"rpgmobs_1:loots/bat_horn"
+      },
+      {
+         "predicate":{
+            "custom_model_data":951
+         },
+         "model":"rpgmobs_1:loots/boar_leather"
+      },
+      {
+         "predicate":{
+            "custom_model_data":952
+         },
+         "model":"rpgmobs_1:loots/magical_feather"
+      },
+      {
+         "predicate":{
+            "custom_model_data":953
+         },
+         "model":"rpgmobs_1:loots/mushroom_of_life"
+      },
+      {
+         "predicate":{
+            "custom_model_data":954
+         },
+         "model":"rpgmobs_1:loots/shiny_bone"
+      },
+      {
+         "predicate":{
+            "custom_model_data":955
+         },
+         "model":"rpgmobs_1:loots/slime_goo"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":956
+         },
+         "model":"rpgmobs_1:loots/blue_slime_goo"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":957
+         },
+         "model":"rpgmobs_1:loots/snow_boar_leather"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":958
+         },
+         "model":"rpgmobs_1:loots/mushroom_of_curse"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":959
+         },
+         "model":"rpgmobs_1:loots/crimson_feather"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":960
+         },
+         "model":"rpgmobs_1:loots/fire_feather"
+      },
+	  {
+         "predicate":{
+            "custom_model_data":961
+         },
+         "model":"rpgmobs_1:loots/glacial_feather"
+      }
+  ]
+}

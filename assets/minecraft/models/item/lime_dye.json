@@ -1,0 +1,86 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/lime_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "snights_cosmetics_v1:dog_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "snights_cosmetics_v1:dog_rope"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "snights_cosmetics_v1:dog_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "snights_cosmetics_v1:dragon_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "snights_cosmetics_v1:dragon_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "snights_cosmetics_v1:dragon_claw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "snights_cosmetics_v1:redpanda_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "snights_cosmetics_v1:redpanda_claw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "snights_cosmetics_v1:redpanda_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "snights_cosmetics_v1:royal_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "snights_cosmetics_v1:royal_scepter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "snights_cosmetics_v1:royal_cloak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "snights_cosmetics_v1:mannequin"
+    }
+  ]
+}

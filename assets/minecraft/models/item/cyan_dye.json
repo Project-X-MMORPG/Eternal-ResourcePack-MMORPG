@@ -1,0 +1,62 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/generated"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "fantasy_backpacks:warrior_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "fantasy_backpacks:antlers_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "fantasy_backpacks:arcane_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "fantasy_backpacks:angelic_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "fantasy_backpacks:cultist_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "fantasy_backpacks:demonic_whisper_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "fantasy_backpacks:glutony_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "fantasy_backpacks:scroll_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "fantasy_backpacks:sun_and_moon"
+    }
+  ]
+}

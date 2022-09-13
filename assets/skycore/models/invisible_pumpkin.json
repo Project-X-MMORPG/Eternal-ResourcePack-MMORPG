@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "end": "skycore:invisible_pumpkin",
+        "side": "skycore:invisible_pumpkin"
+    }
+}

@@ -1,0 +1,1253 @@
+{
+	"providers": [
+        {"type": "bitmap", "file": "minecraft:custom_gui/pixel.png","ascent": -2000,"height": -3,"chars": ["\uE128"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_9.png","ascent": 13,"height": 39,"chars": ["\uE999"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_18.png","ascent": 13,"height": 57,"chars": ["\uE999"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_27.png","ascent": 13,"height": 75,"chars": ["\uE999"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_36.png","ascent": 13,"height": 93,"chars": ["\uE999"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_45.png","ascent": 13,"height": 111,"chars": ["\uE999"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_54.png","ascent": 13,"height": 129,"chars": ["\uE999"]},
+		
+        {"type": "bitmap", "file": "minecraft:custom_gui/mainmenu/mainmenu_background.png","ascent": 13,"height": 129,"chars": ["\uE129"]},
+		
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_details_background_1.png","ascent": 40,"height": 156,"chars": ["\uE130"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE131"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_details_background_3.png","ascent": 40,"height": 156,"chars": ["\uE132"]},
+		
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_details_background_1.png","ascent": 40,"height": 156,"chars": ["\uE133"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE134"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_details_background_3.png","ascent": 40,"height": 156,"chars": ["\uE135"]},
+		
+		{
+			"file": "skycore_font:icon_lead.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_admin.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_manager.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_senior_game_master.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_game_master.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_junior_game_master.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_staff.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_vip_partner.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_partner.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_creator_plus.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_creator.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_vip.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_master.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_elite.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_pro.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_premium.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icon_player.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/0.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/1.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/2.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/3.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/4.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/5.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/6.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/7.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/8.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:09/9.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/0.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/1.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/2.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/3.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/4.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/5.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/6.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/7.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/8.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:1019/9.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/0.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/1.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/2.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/3.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/4.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/5.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/6.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/7.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/8.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:2029/9.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/0.png",
+			"chars": [
+				""
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:3039/1.png",
+			"chars": [
+				"\uE049"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/2.png",
+			"chars": [
+				"\uE050"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/3.png",
+			"chars": [
+				"\uE051"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/4.png",
+			"chars": [
+				"\uE052"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/5.png",
+			"chars": [
+				"\uE053"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/6.png",
+			"chars": [
+				"\uE054"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/7.png",
+			"chars": [
+				"\uE055"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/8.png",
+			"chars": [
+				"\uE056"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:3039/9.png",
+			"chars": [
+				"\uE057"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/0.png",
+			"chars": [
+				"\uE058"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:4049/1.png",
+			"chars": [
+				"\uE059"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/2.png",
+			"chars": [
+				"\uE060"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/3.png",
+			"chars": [
+				"\uE061"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/4.png",
+			"chars": [
+				"\uE062"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/5.png",
+			"chars": [
+				"\uE063"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/6.png",
+			"chars": [
+				"\uE064"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/7.png",
+			"chars": [
+				"\uE065"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/8.png",
+			"chars": [
+				"\uE066"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:4049/9.png",
+			"chars": [
+				"\uE067"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/0.png",
+			"chars": [
+				"\uE068"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:5059/1.png",
+			"chars": [
+				"\uE069"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/2.png",
+			"chars": [
+				"\uE070"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/3.png",
+			"chars": [
+				"\uE071"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/4.png",
+			"chars": [
+				"\uE072"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/5.png",
+			"chars": [
+				"\uE073"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/6.png",
+			"chars": [
+				"\uE074"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/7.png",
+			"chars": [
+				"\uE075"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/8.png",
+			"chars": [
+				"\uE076"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:5059/9.png",
+			"chars": [
+				"\uE077"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/0.png",
+			"chars": [
+				"\uE078"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:6069/1.png",
+			"chars": [
+				"\uE079"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/2.png",
+			"chars": [
+				"\uE080"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/3.png",
+			"chars": [
+				"\uE081"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/4.png",
+			"chars": [
+				"\uE082"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/5.png",
+			"chars": [
+				"\uE083"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/6.png",
+			"chars": [
+				"\uE084"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/7.png",
+			"chars": [
+				"\uE085"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/8.png",
+			"chars": [
+				"\uE086"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:6069/9.png",
+			"chars": [
+				"\uE087"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/0.png",
+			"chars": [
+				"\uE088"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:7079/1.png",
+			"chars": [
+				"\uE089"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/2.png",
+			"chars": [
+				"\uE090"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/3.png",
+			"chars": [
+				"\uE091"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/4.png",
+			"chars": [
+				"\uE092"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/5.png",
+			"chars": [
+				"\uE093"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/6.png",
+			"chars": [
+				"\uE094"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/7.png",
+			"chars": [
+				"\uE095"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/8.png",
+			"chars": [
+				"\uE096"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:7079/9.png",
+			"chars": [
+				"\uE097"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/0.png",
+			"chars": [
+				"\uE098"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:8089/1.png",
+			"chars": [
+				"\uE099"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/2.png",
+			"chars": [
+				"\uE100"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/3.png",
+			"chars": [
+				"\uE101"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/4.png",
+			"chars": [
+				"\uE102"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/5.png",
+			"chars": [
+				"\uE103"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/6.png",
+			"chars": [
+				"\uE104"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/7.png",
+			"chars": [
+				"\uE105"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/8.png",
+			"chars": [
+				"\uE106"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:8089/9.png",
+			"chars": [
+				"\uE107"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/0.png",
+			"chars": [
+				"\uE108"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		
+		{
+			"file": "skycore_font:90100/1.png",
+			"chars": [
+				"\uE109"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/2.png",
+			"chars": [
+				"\uE110"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/3.png",
+			"chars": [
+				"\uE111"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/4.png",
+			"chars": [
+				"\uE112"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/5.png",
+			"chars": [
+				"\uE113"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/6.png",
+			"chars": [
+				"\uE114"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/7.png",
+			"chars": [
+				"\uE115"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/8.png",
+			"chars": [
+				"\uE116"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/9.png",
+			"chars": [
+				"\uE117"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:90100/10.png",
+			"chars": [
+				"\uE118"
+			],
+			"height": 7,
+			"ascent": 7,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/1.png",
+			"chars": [
+				"\uE119"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/2.png",
+			"chars": [
+				"\uE120"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/3.png",
+			"chars": [
+				"\uE121"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/4.png",
+			"chars": [
+				"\uE122"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/5.png",
+			"chars": [
+				"\uE123"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/6.png",
+			"chars": [
+				"\uE124"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/7.png",
+			"chars": [
+				"\uE125"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:compass/8.png",
+			"chars": [
+				"\uE126"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "skycore_font:icons/decline.png",
+			"chars": [
+				"\uE127"
+			],
+			"height": 9,
+			"ascent": 8,
+			"type": "bitmap"
+		},
+		{
+         "file":"mccosmetics:ui/mccosmetics-main.png",
+         "chars":[
+            "\ue833"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-accessories.png",
+         "chars":[
+            "\ue834"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-backpacks.png",
+         "chars":[
+            "\ue835"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-emotes.png",
+         "chars":[
+            "\ue836"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-offhand.png",
+         "chars":[
+            "\ue837"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-sprays.png",
+         "chars":[
+            "\ue838"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-hats.png",
+         "chars":[
+            "\ue839"
+         ],
+         "height":256,
+         "ascent":13,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/mccosmetics-hats.png",
+         "chars":[
+            "\ue801"
+         ],
+         "height":-6,
+         "ascent":-32768,
+         "type":"bitmap"
+      },
+      {
+         "file":"mccosmetics:ui/empty_character.png",
+         "chars":[
+            "\ue802"
+         ],
+         "height":-6,
+         "ascent":-32768,
+         "type":"bitmap"
+      }
+	]
+}
