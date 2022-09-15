@@ -30,6 +30,10 @@
         {"predicate": {"custom_model_data":122}, "model": "custom_gui/questsystem/itemtypes/other"},
         {"predicate": {"custom_model_data":123}, "model": "custom_gui/questsystem/itemtypes/gem"},
 		
+        {"predicate": {"custom_model_data":124}, "model": "custom_gui/questsystem/close"},
+        {"predicate": {"custom_model_data":125}, "model": "custom_gui/questsystem/quest_main"},
+        {"predicate": {"custom_model_data":126}, "model": "custom_gui/questsystem/quest_side"},
+		
         {"predicate": {"custom_model_data":1337}, "model": "custom_gui/invisibleitem"}
     ]
 }

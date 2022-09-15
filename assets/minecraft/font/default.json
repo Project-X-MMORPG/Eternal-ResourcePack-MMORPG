@@ -18,6 +18,12 @@
         {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE134"]},
         {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_details_background_3.png","ascent": 40,"height": 156,"chars": ["\uE135"]},
 		
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_selector_background.png","ascent": 40,"height": 102,"chars": ["\uE136"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_selector_background.png","ascent": 40,"height": 102,"chars": ["\uE137"]},
+		
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_active_background.png","ascent": 40,"height": 120,"chars": ["\uE138"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/en/en_quest_active_background.png","ascent": 40,"height": 120,"chars": ["\uE139"]},
+		
 		{
 			"file": "skycore_font:icon_lead.png",
 			"chars": [
