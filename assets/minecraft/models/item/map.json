@@ -10,7 +10,7 @@
         {"predicate": {"custom_model_data":103}, "model": "custom_gui/questsystem/task_completed"},
         {"predicate": {"custom_model_data":104}, "model": "custom_gui/questsystem/gold"},
         {"predicate": {"custom_model_data":105}, "model": "custom_gui/questsystem/xp"},
-        {"predicate": {"custom_model_data":106}, "model": "custom_gui/questsystem/back"},
+        {"predicate": {"custom_model_data":106}, "model": "custom_gui/back"},
 		
         {"predicate": {"custom_model_data":107}, "model": "custom_gui/questsystem/itemtypes/sword"},
         {"predicate": {"custom_model_data":108}, "model": "custom_gui/questsystem/itemtypes/staff"},
@@ -30,9 +30,11 @@
         {"predicate": {"custom_model_data":122}, "model": "custom_gui/questsystem/itemtypes/other"},
         {"predicate": {"custom_model_data":123}, "model": "custom_gui/questsystem/itemtypes/gem"},
 		
-        {"predicate": {"custom_model_data":124}, "model": "custom_gui/questsystem/close"},
+        {"predicate": {"custom_model_data":124}, "model": "custom_gui/close"},
         {"predicate": {"custom_model_data":125}, "model": "custom_gui/questsystem/quest_main"},
         {"predicate": {"custom_model_data":126}, "model": "custom_gui/questsystem/quest_side"},
+		
+        {"predicate": {"custom_model_data":130}, "model": "custom_gui/mainmenu"},
 		
         {"predicate": {"custom_model_data":1337}, "model": "custom_gui/invisibleitem"}
     ]
