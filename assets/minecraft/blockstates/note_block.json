@@ -1,298 +1,2404 @@
 {
     "variants": {
-        "instrument=banjo,note=0,powered=false": {
-            "model": "block/ackerweg_1"
-        },
-        "instrument=banjo,note=0,powered=true": {
-            "model": "block/ackerweg_2"
-        },
-        "instrument=banjo,note=1,powered=false": {
-            "model": "block/ackerweg_3"
-        },
-        "instrument=banjo,note=1,powered=true": {
-            "model": "block/ackerweg_4"
-        },
-        "instrument=banjo,note=10,powered=false": {
-            "model": "block/creme_1"
-        },
-        "instrument=banjo,note=10,powered=true": {
-            "model": "block/creme_2"
-        },
-        "instrument=banjo,note=11,powered=false": {
-            "model": "block/dokorationsblock_1"
-        },
-        "instrument=banjo,note=11,powered=true": {
-            "model": "block/dokorationsblock_2"
-        },
-        "instrument=banjo,note=12,powered=false": {
-            "model": "block/dokorationsblock_3"
-        },
-        "instrument=banjo,note=12,powered=true": {
-            "model": "block/dokorationsblock_4"
-        },
-        "instrument=banjo,note=13,powered=false": {
-            "model": "block/dokorationsblock_5"
-        },
-        "instrument=banjo,note=13,powered=true": {
-            "model": "block/eisen_block_durchwachsen"
-        },
-        "instrument=banjo,note=14,powered=false": {
-            "model": "block/eisen_block_hochwertig"
-        },
-        "instrument=banjo,note=14,powered=true": {
-            "model": "block/eisen_erz_1"
-        },
-        "instrument=banjo,note=15,powered=false": {
-            "model": "block/eisen_erz_2"
-        },
-        "instrument=banjo,note=15,powered=true": {
-            "model": "block/eisen_erz_3"
-        },
-        "instrument=banjo,note=16,powered=false": {
-            "model": "block/eisen_erz_4"
-        },
-        "instrument=banjo,note=16,powered=true": {
-            "model": "block/holz_dunkel_1"
-        },
-        "instrument=banjo,note=17,powered=false": {
-            "model": "block/holz_dunkel_2"
-        },
-        "instrument=banjo,note=17,powered=true": {
-            "model": "block/holz_hell_1"
-        },
-        "instrument=banjo,note=18,powered=false": {
-            "model": "block/holz_hell_2"
-        },
-        "instrument=banjo,note=18,powered=true": {
-            "model": "block/holz_muster_1"
-        },
-        "instrument=banjo,note=19,powered=false": {
-            "model": "block/holz_muster_2"
-        },
-        "instrument=banjo,note=19,powered=true": {
-            "model": "block/holz_muster_3"
-        },
-        "instrument=banjo,note=2,powered=false": {
-            "model": "block/holz_muster_4"
-        },
-        "instrument=banjo,note=2,powered=true": {
-            "model": "block/kristall_block"
-        },
-        "instrument=banjo,note=20,powered=false": {
-            "model": "block/kristall_erz"
-        },
-        "instrument=banjo,note=20,powered=true": {
-            "model": "block/lagerkiste_1"
-        },
-        "instrument=banjo,note=21,powered=false": {
-            "model": "block/lagerkiste_2"
-        },
-        "instrument=banjo,note=21,powered=true": {
-            "model": "block/pflaster_1"
-        },
-        "instrument=banjo,note=22,powered=false": {
-            "model": "block/pflaster_2"
-        },
-        "instrument=banjo,note=22,powered=true": {
-            "model": "block/pflaster_3"
-        },
-        "instrument=banjo,note=23,powered=false": {
-            "model": "block/planks_1"
-        },
-        "instrument=banjo,note=23,powered=true": {
-            "model": "block/planks_2"
-        },
-        "instrument=banjo,note=24,powered=false": {
-            "model": "block/platin_block"
-        },
-        "instrument=banjo,note=24,powered=true": {
-            "model": "block/platin_erz"
-        },
-        "instrument=banjo,note=3,powered=false": {
-            "model": "block/smaragd_block"
-        },
-        "instrument=banjo,note=3,powered=true": {
-            "model": "block/smaragd_erz"
-        },
-        "instrument=banjo,note=4,powered=false": {
-            "model": "block/stein_dunkel_1"
-        },
-        "instrument=banjo,note=4,powered=true": {
-            "model": "block/stein_dunkel_2"
-        },
-        "instrument=banjo,note=5,powered=false": {
-            "model": "block/stein_hell"
-        },
-        "instrument=banjo,note=5,powered=true": {
-            "model": "block/teppich_1_blau"
-        },
-        "instrument=banjo,note=6,powered=false": {
-            "model": "block/teppich_1_gruen"
-        },
-        "instrument=banjo,note=6,powered=true": {
-            "model": "block/teppich_1_rot"
-        },
-        "instrument=banjo,note=7,powered=false": {
-            "model": "block/teppich_1_schwarz"
-        },
-        "instrument=banjo,note=7,powered=true": {
-            "model": "block/teppich_2_blau"
-        },
-        "instrument=banjo,note=8,powered=false": {
-            "model": "block/teppich_2_gruen"
-        },
-        "instrument=banjo,note=8,powered=true": {
-            "model": "block/teppich_2_rot"
-        },
-        "instrument=banjo,note=9,powered=false": {
-            "model": "block/teppich_2_schwarz"
-        },
-        "instrument=banjo,note=9,powered=true": {
-            "model": "block/totem_1"
-        },
-        "instrument=basedrum,note=0,powered=false": {
-            "model": "block/totem_2"
-        },
-        "instrument=basedrum,note=0,powered=true": {
-            "model": "block/totem_3"
-        },
-        "instrument=basedrum,note=1,powered=false": {
-            "model": "block/totem_4"
-        },
-        "instrument=basedrum,note=1,powered=true": {
-            "model": "block/waldweg_1"
-        },
-        "instrument=basedrum,note=10,powered=false": {
-            "model": "block/waldweg_2"
-        },
-        "instrument=basedrum,note=10,powered=true": {
-            "model": "block/waldweg_3"
-        },
-        "instrument=basedrum,note=11,powered=false": {
-            "model": "block/wall_1"
-        },
-        "instrument=basedrum,note=11,powered=true": {
-            "model": "block/wall_2"
-        },
-        "instrument=basedrum,note=12,powered=false": {
-            "model": "block/ziegel_gelb"
-        },
-        "instrument=basedrum,note=12,powered=true": {
-            "model": "block/ziegel_grau"
-        },
-        "instrument=basedrum,note=13,powered=false": {
-            "model": "block/ziegel_gruen"
-        },
-        "instrument=basedrum,note=13,powered=true": {
-            "model": "block/ziegel_lila"
-        },
-        "instrument=basedrum,note=14,powered=false": {
-            "model": "block/ziegel_orange"
-        },
-        "instrument=basedrum,note=14,powered=true": {
-            "model": "block/ziegel_rot"
-        },
-        "instrument=basedrum,note=15,powered=false": {
-            "model": "block/ziegel_schwarz"
-        },
-        "instrument=basedrum,note=15,powered=true": {
-            "model": "block/ziegel_tuerkis"
-        },
-        "instrument=basedrum,note=16,powered=false": {
-            "model": "block/ziegel_weiss"
-        },
-		"instrument=basedrum,note=16,powered=true": {
-            "model": "block/Dach_1"
-        },
-        "instrument=basedrum,note=17,powered=false": {
-            "model": "block/Dach_2"
-        },
-        "instrument=basedrum,note=17,powered=true": {
-            "model": "block/Dach_3"
-        },
-        "instrument=basedrum,note=18,powered=false": {
-            "model": "block/Dach_4"
-        },
-        "instrument=basedrum,note=18,powered=true": {
-            "model": "block/Dach_5"
-        },
-        "instrument=basedrum,note=19,powered=false": {
-            "model": "block/Dach_6"
-        },
-        "instrument=basedrum,note=19,powered=true": {
-            "model": "block/Dach_7"
-        },
-        "instrument=basedrum,note=2,powered=false": {
-            "model": "block/Dach_8"
-        },
-        "instrument=basedrum,note=2,powered=true": {
-            "model": "block/Dach_9"
-        },
-        "instrument=basedrum,note=20,powered=false": {
-            "model": "block/Dach_10"
-        },
-        "instrument=basedrum,note=20,powered=true": {
-            "model": "block/Dach_11"
-        },
-        "instrument=basedrum,note=21,powered=false": {
-            "model": "block/Dach_12"
-        },
-        "instrument=basedrum,note=21,powered=true": {
-            "model": "block/Dach_13"
-        },
-        "instrument=basedrum,note=22,powered=false": {
-            "model": "block/dirt1"
-        },
-        "instrument=basedrum,note=22,powered=true": {
-            "model": "block/moss"
-        },
-        "instrument=basedrum,note=23,powered=false": {
-            "model": "block/mud1"
-        },
-        "instrument=basedrum,note=23,powered=true": {
-            "model": "block/mud2"
-        },
-        "instrument=basedrum,note=24,powered=false": {
-            "model": "block/mud3"
-        },
-        "instrument=basedrum,note=24,powered=true": {
-            "model": "block/mud4"
-        },
-        "instrument=basedrum,note=3,powered=false": {
-            "model": "block/mud5"
-        },
-        "instrument=basedrum,note=3,powered=true": {
-            "model": "block/mud6"
-        },
-        "instrument=basedrum,note=4,powered=false": {
-            "model": "block/mangrove_log"
-        },
-        "instrument=basedrum,note=4,powered=true": {
-            "model": "block/baobab_log"
-        },
-        "instrument=basedrum,note=5,powered=false": {
-            "model": "block/magic"
-        },
-        "instrument=basedrum,note=5,powered=true": {
-            "model": "block/magic2"
-        },
-		"instrument=basedrum,note=6,powered=false": {
-            "model": "block/stone_light30"
-        },
-        "instrument=basedrum,note=6,powered=true": {
-            "model": "block/stone_light15"
-        },
-        "instrument=basedrum,note=7,powered=false": {
-            "model": "block/stone_dark_105"
-        },
-        "instrument=basedrum,note=7,powered=true": {
-            "model": "block/stone_dark_90"
-        },
-        "instrument=basedrum,note=8,powered=false": {
-            "model": "block/stone_dark_70"
-        },
-        "instrument=basedrum,note=8,powered=true": {
-            "model": "block/stone_dark_15"
-        }
+      "instrument=harp,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=harp,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=pling,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=banjo,note=0,powered=false": {
+          "model": "minecraft:block/ackerweg_1"
+      },
+      "instrument=banjo,note=1,powered=false": {
+          "model": "minecraft:block/ackerweg_3"
+      },
+      "instrument=banjo,note=2,powered=false": {
+          "model": "minecraft:block/holz_muster_4"
+      },
+      "instrument=banjo,note=3,powered=false": {
+          "model": "minecraft:block/smaragd_block"
+      },
+      "instrument=banjo,note=4,powered=false": {
+          "model": "minecraft:block/stein_dunkel_1"
+      },
+      "instrument=banjo,note=5,powered=false": {
+          "model": "minecraft:block/stein_hell"
+      },
+      "instrument=banjo,note=6,powered=false": {
+          "model": "minecraft:block/teppich_1_gruen"
+      },
+      "instrument=banjo,note=7,powered=false": {
+          "model": "minecraft:block/teppich_1_schwarz"
+      },
+      "instrument=banjo,note=8,powered=false": {
+          "model": "minecraft:block/teppich_2_gruen"
+      },
+      "instrument=banjo,note=9,powered=false": {
+          "model": "minecraft:block/teppich_2_schwarz"
+      },
+      "instrument=banjo,note=10,powered=false": {
+          "model": "minecraft:block/creme_1"
+      },
+      "instrument=banjo,note=11,powered=false": {
+          "model": "minecraft:block/dokorationsblock_1"
+      },
+      "instrument=banjo,note=12,powered=false": {
+          "model": "minecraft:block/dokorationsblock_3"
+      },
+      "instrument=banjo,note=13,powered=false": {
+          "model": "minecraft:block/dokorationsblock_5"
+      },
+      "instrument=banjo,note=14,powered=false": {
+          "model": "minecraft:block/eisen_block_hochwertig"
+      },
+      "instrument=banjo,note=15,powered=false": {
+          "model": "minecraft:block/eisen_erz_2"
+      },
+      "instrument=banjo,note=16,powered=false": {
+          "model": "minecraft:block/eisen_erz_4"
+      },
+      "instrument=banjo,note=17,powered=false": {
+          "model": "minecraft:block/holz_dunkel_2"
+      },
+      "instrument=banjo,note=18,powered=false": {
+          "model": "minecraft:block/holz_hell_2"
+      },
+      "instrument=banjo,note=19,powered=false": {
+          "model": "minecraft:block/holz_muster_2"
+      },
+      "instrument=banjo,note=20,powered=false": {
+          "model": "minecraft:block/kristall_erz"
+      },
+      "instrument=banjo,note=21,powered=false": {
+          "model": "minecraft:block/lagerkiste_2"
+      },
+      "instrument=banjo,note=22,powered=false": {
+          "model": "minecraft:block/pflaster_2"
+      },
+      "instrument=banjo,note=23,powered=false": {
+          "model": "minecraft:block/planks_1"
+      },
+      "instrument=banjo,note=24,powered=false": {
+          "model": "minecraft:block/platin_block"
+      },
+      "instrument=banjo,note=0,powered=true": {
+          "model": "minecraft:block/ackerweg_2"
+      },
+      "instrument=banjo,note=1,powered=true": {
+          "model": "minecraft:block/ackerweg_4"
+      },
+      "instrument=banjo,note=2,powered=true": {
+          "model": "minecraft:block/kristall_block"
+      },
+      "instrument=banjo,note=3,powered=true": {
+          "model": "minecraft:block/smaragd_erz"
+      },
+      "instrument=banjo,note=4,powered=true": {
+          "model": "minecraft:block/stein_dunkel_2"
+      },
+      "instrument=banjo,note=5,powered=true": {
+          "model": "minecraft:block/teppich_1_blau"
+      },
+      "instrument=banjo,note=6,powered=true": {
+          "model": "minecraft:block/teppich_1_rot"
+      },
+      "instrument=banjo,note=7,powered=true": {
+          "model": "minecraft:block/teppich_2_blau"
+      },
+      "instrument=banjo,note=8,powered=true": {
+          "model": "minecraft:block/teppich_2_rot"
+      },
+      "instrument=banjo,note=9,powered=true": {
+          "model": "minecraft:block/totem_1"
+      },
+      "instrument=banjo,note=10,powered=true": {
+          "model": "minecraft:block/creme_2"
+      },
+      "instrument=banjo,note=11,powered=true": {
+          "model": "minecraft:block/dokorationsblock_2"
+      },
+      "instrument=banjo,note=12,powered=true": {
+          "model": "minecraft:block/dokorationsblock_4"
+      },
+      "instrument=banjo,note=13,powered=true": {
+          "model": "minecraft:block/eisen_block_durchwachsen"
+      },
+      "instrument=banjo,note=14,powered=true": {
+          "model": "minecraft:block/eisen_erz_1"
+      },
+      "instrument=banjo,note=15,powered=true": {
+          "model": "minecraft:block/eisen_erz_3"
+      },
+      "instrument=banjo,note=16,powered=true": {
+          "model": "minecraft:block/holz_dunkel_1"
+      },
+      "instrument=banjo,note=17,powered=true": {
+          "model": "minecraft:block/holz_hell_1"
+      },
+      "instrument=banjo,note=18,powered=true": {
+          "model": "minecraft:block/holz_muster_1"
+      },
+      "instrument=banjo,note=19,powered=true": {
+          "model": "minecraft:block/holz_muster_3"
+      },
+      "instrument=banjo,note=20,powered=true": {
+          "model": "minecraft:block/lagerkiste_1"
+      },
+      "instrument=banjo,note=21,powered=true": {
+          "model": "minecraft:block/pflaster_1"
+      },
+      "instrument=banjo,note=22,powered=true": {
+          "model": "minecraft:block/pflaster_3"
+      },
+      "instrument=banjo,note=23,powered=true": {
+          "model": "minecraft:block/planks_2"
+      },
+      "instrument=banjo,note=24,powered=true": {
+          "model": "minecraft:block/platin_erz"
+      },
+      "instrument=bit,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bit,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=didgeridoo,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=cow_bell,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=iron_xylophone,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=xylophone,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=guitar,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=chime,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=flute,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bell,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=basedrum,note=0,powered=false": {
+          "model": "minecraft:block/totem_2"
+      },
+      "instrument=basedrum,note=0,powered=true": {
+          "model": "minecraft:block/totem_3"
+      },
+      "instrument=basedrum,note=1,powered=false": {
+          "model": "minecraft:block/totem_4"
+      },
+      "instrument=basedrum,note=1,powered=true": {
+          "model": "minecraft:block/waldweg_1"
+      },
+      "instrument=basedrum,note=10,powered=false": {
+          "model": "minecraft:block/waldweg_2"
+      },
+      "instrument=basedrum,note=10,powered=true": {
+          "model": "minecraft:block/waldweg_3"
+      },
+      "instrument=basedrum,note=11,powered=false": {
+          "model": "minecraft:block/wall_1"
+      },
+      "instrument=basedrum,note=11,powered=true": {
+          "model": "minecraft:block/wall_2"
+      },
+      "instrument=basedrum,note=12,powered=false": {
+          "model": "minecraft:block/ziegel_gelb"
+      },
+      "instrument=basedrum,note=12,powered=true": {
+          "model": "minecraft:block/ziegel_grau"
+      },
+      "instrument=basedrum,note=13,powered=false": {
+          "model": "minecraft:block/ziegel_gruen"
+      },
+      "instrument=basedrum,note=13,powered=true": {
+          "model": "minecraft:block/ziegel_lila"
+      },
+      "instrument=basedrum,note=14,powered=false": {
+          "model": "minecraft:block/ziegel_orange"
+      },
+      "instrument=basedrum,note=14,powered=true": {
+          "model": "minecraft:block/ziegel_rot"
+      },
+      "instrument=basedrum,note=15,powered=false": {
+          "model": "minecraft:block/ziegel_schwarz"
+      },
+      "instrument=basedrum,note=15,powered=true": {
+          "model": "minecraft:block/ziegel_tuerkis"
+      },
+      "instrument=basedrum,note=16,powered=false": {
+          "model": "minecraft:block/ziegel_weiss"
+      },
+      "instrument=basedrum,note=16,powered=true": {
+          "model": "minecraft:block/dach_1"
+      },
+      "instrument=basedrum,note=17,powered=false": {
+          "model": "minecraft:block/dach_2"
+      },
+      "instrument=basedrum,note=17,powered=true": {
+          "model": "minecraft:block/dach_3"
+      },
+      "instrument=basedrum,note=18,powered=false": {
+          "model": "minecraft:block/dach_4"
+      },
+      "instrument=basedrum,note=18,powered=true": {
+          "model": "minecraft:block/dach_5"
+      },
+      "instrument=basedrum,note=19,powered=false": {
+          "model": "minecraft:block/dach_6"
+      },
+      "instrument=basedrum,note=19,powered=true": {
+          "model": "minecraft:block/dach_7"
+      },
+      "instrument=basedrum,note=2,powered=false": {
+          "model": "minecraft:block/dach_8"
+      },
+      "instrument=basedrum,note=2,powered=true": {
+          "model": "minecraft:block/dach_9"
+      },
+      "instrument=basedrum,note=20,powered=false": {
+          "model": "minecraft:block/dach_10"
+      },
+      "instrument=basedrum,note=20,powered=true": {
+          "model": "minecraft:block/dach_11"
+      },
+      "instrument=basedrum,note=21,powered=false": {
+          "model": "minecraft:block/dach_12"
+      },
+      "instrument=basedrum,note=21,powered=true": {
+          "model": "minecraft:block/dach_13"
+      },
+      "instrument=basedrum,note=22,powered=false": {
+          "model": "minecraft:block/dirt1"
+      },
+      "instrument=basedrum,note=22,powered=true": {
+          "model": "minecraft:block/moss"
+      },
+      "instrument=basedrum,note=23,powered=false": {
+          "model": "minecraft:block/mud1"
+      },
+      "instrument=basedrum,note=23,powered=true": {
+          "model": "minecraft:block/mud2"
+      },
+      "instrument=basedrum,note=24,powered=false": {
+          "model": "minecraft:block/mud3"
+      },
+      "instrument=basedrum,note=24,powered=true": {
+          "model": "minecraft:block/mud4"
+      },
+      "instrument=basedrum,note=3,powered=false": {
+          "model": "minecraft:block/mud5"
+      },
+      "instrument=basedrum,note=3,powered=true": {
+          "model": "minecraft:block/mud6"
+      },
+      "instrument=basedrum,note=4,powered=false": {
+          "model": "minecraft:block/mangrove_log"
+      },
+      "instrument=basedrum,note=4,powered=true": {
+          "model": "minecraft:block/baobab_log"
+      },
+      "instrument=basedrum,note=5,powered=false": {
+          "model": "minecraft:block/magic"
+      },
+      "instrument=basedrum,note=5,powered=true": {
+          "model": "minecraft:block/magic2"
+      },
+      "instrument=basedrum,note=6,powered=false": {
+          "model": "minecraft:block/stone_light30"
+      },
+      "instrument=basedrum,note=6,powered=true": {
+          "model": "minecraft:block/stone_light15"
+      },
+      "instrument=basedrum,note=7,powered=false": {
+          "model": "minecraft:block/stone_dark_105"
+      },
+      "instrument=basedrum,note=7,powered=true": {
+          "model": "minecraft:block/stone_dark_90"
+      },
+      "instrument=basedrum,note=8,powered=false": {
+          "model": "minecraft:block/stone_dark_70"
+      },
+      "instrument=basedrum,note=8,powered=true": {
+          "model": "minecraft:block/stone_dark_15"
+      },
+      "instrument=basedrum,note=9,powered=false": {
+          "model": "minecraft:block/na"
+      },
+      "instrument=basedrum,note=9,powered=true": {
+          "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=hat,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=snare,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=0,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=1,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=2,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=3,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=4,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=5,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=6,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=7,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=8,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=9,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=10,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=11,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=12,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=13,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=14,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=15,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=16,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=17,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=18,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=19,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=20,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=21,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=22,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=23,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=24,powered=false": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=0,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=1,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=2,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=3,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=4,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=5,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=6,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=7,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=8,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=9,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=10,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=11,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=12,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=13,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=14,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=15,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=16,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=17,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=18,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=19,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=20,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=21,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=22,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=23,powered=true": {
+        "model": "minecraft:block/na"
+      },
+      "instrument=bass,note=24,powered=true": {
+        "model": "minecraft:block/na"
+      }
     }
-}
+  }

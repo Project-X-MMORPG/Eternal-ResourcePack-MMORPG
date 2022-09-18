@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/Dach_7"
+    "all": "minecraft:block/dach_7"
   }
 }
