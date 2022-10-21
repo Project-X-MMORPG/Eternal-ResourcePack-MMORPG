@@ -8,7 +8,7 @@
         {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_45.png","ascent": 13,"height": 111,"chars": ["\uE999"]},
         {"type": "bitmap", "file": "minecraft:custom_gui/templates/TEMPLATE_54.png","ascent": 13,"height": 129,"chars": ["\uE999"]},
 		
-        {"type": "bitmap", "file": "minecraft:custom_gui/mainmenu/mainmenu_background.png","ascent": 13,"height": 156,"chars": ["\uE129"]},
+        {"type": "bitmap", "file": "minecraft:custom_gui/mainmenu/mainmenu_background.png","ascent": 40,"height": 156,"chars": ["\uE129"]},
 		
         {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_details_background_1.png","ascent": 40,"height": 156,"chars": ["\uE130"]},
         {"type": "bitmap", "file": "minecraft:custom_gui/questsystem/de/de_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE131"]},
