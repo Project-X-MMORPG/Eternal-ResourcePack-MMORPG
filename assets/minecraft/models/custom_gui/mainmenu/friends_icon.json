@@ -22,7 +22,7 @@
 		},
 		"gui": {
 			"rotation": [90, 0, 0],
-			"translation": [-11.5, -2, 0],
+			"translation": [-47.5, -2, 0],
 			"scale": [2.5, 1, 2.5]
 		}
 	}
