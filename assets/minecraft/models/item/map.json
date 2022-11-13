@@ -4,40 +4,40 @@
         "layer0": "item/map"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":100}, "model": "custom_gui/questsystem/quest_tracking_on"},
-        {"predicate": {"custom_model_data":101}, "model": "custom_gui/questsystem/quest_tracking_off"},
-        {"predicate": {"custom_model_data":102}, "model": "custom_gui/questsystem/task"},
-        {"predicate": {"custom_model_data":103}, "model": "custom_gui/questsystem/task_completed"},
-        {"predicate": {"custom_model_data":104}, "model": "custom_gui/questsystem/gold"},
-        {"predicate": {"custom_model_data":105}, "model": "custom_gui/questsystem/xp"},
-        {"predicate": {"custom_model_data":106}, "model": "custom_gui/back"},
-		
-        {"predicate": {"custom_model_data":107}, "model": "custom_gui/questsystem/itemtypes/sword"},
-        {"predicate": {"custom_model_data":108}, "model": "custom_gui/questsystem/itemtypes/staff"},
-        {"predicate": {"custom_model_data":109}, "model": "custom_gui/questsystem/itemtypes/axe"},
-        {"predicate": {"custom_model_data":110}, "model": "custom_gui/questsystem/itemtypes/bow"},
-        {"predicate": {"custom_model_data":111}, "model": "custom_gui/questsystem/itemtypes/shield"},
-        {"predicate": {"custom_model_data":112}, "model": "custom_gui/questsystem/itemtypes/pickaxe"},
-        {"predicate": {"custom_model_data":113}, "model": "custom_gui/questsystem/itemtypes/shovel"},
-        {"predicate": {"custom_model_data":114}, "model": "custom_gui/questsystem/itemtypes/hoe"},
-        {"predicate": {"custom_model_data":115}, "model": "custom_gui/questsystem/itemtypes/helmet"},
-        {"predicate": {"custom_model_data":116}, "model": "custom_gui/questsystem/itemtypes/chestplate"},
-        {"predicate": {"custom_model_data":117}, "model": "custom_gui/questsystem/itemtypes/leggings"},
-        {"predicate": {"custom_model_data":118}, "model": "custom_gui/questsystem/itemtypes/boots"},
-        {"predicate": {"custom_model_data":119}, "model": "custom_gui/questsystem/itemtypes/block"},
-        {"predicate": {"custom_model_data":120}, "model": "custom_gui/questsystem/itemtypes/food"},
-        {"predicate": {"custom_model_data":121}, "model": "custom_gui/questsystem/itemtypes/ingredient"},
-        {"predicate": {"custom_model_data":122}, "model": "custom_gui/questsystem/itemtypes/other"},
-        {"predicate": {"custom_model_data":123}, "model": "custom_gui/questsystem/itemtypes/gem"},
-		
-        {"predicate": {"custom_model_data":124}, "model": "custom_gui/close"},
-        {"predicate": {"custom_model_data":125}, "model": "custom_gui/questsystem/quest_main"},
-        {"predicate": {"custom_model_data":126}, "model": "custom_gui/questsystem/quest_side"},
+        {"predicate": {"custom_model_data":100}, "model": "skycore:custom_gui/questsystem/quest_tracking_on"},
+        {"predicate": {"custom_model_data":101}, "model": "skycore:custom_gui/questsystem/quest_tracking_off"},
+        {"predicate": {"custom_model_data":102}, "model": "skycore:custom_gui/questsystem/task"},
+        {"predicate": {"custom_model_data":103}, "model": "skycore:custom_gui/questsystem/task_completed"},
+        {"predicate": {"custom_model_data":104}, "model": "skycore:custom_gui/questsystem/gold"},
+        {"predicate": {"custom_model_data":105}, "model": "skycore:custom_gui/questsystem/xp"},
+        {"predicate": {"custom_model_data":106}, "model": "skycore:custom_gui/back"},
 
-        {"predicate": {"custom_model_data":127}, "model": "custom_gui/mainmenu/friends_icon"},	
+        {"predicate": {"custom_model_data":107}, "model": "skycore:custom_gui/questsystem/itemtypes/sword"},
+        {"predicate": {"custom_model_data":108}, "model": "skycore:custom_gui/questsystem/itemtypes/staff"},
+        {"predicate": {"custom_model_data":109}, "model": "skycore:custom_gui/questsystem/itemtypes/axe"},
+        {"predicate": {"custom_model_data":110}, "model": "skycore:custom_gui/questsystem/itemtypes/bow"},
+        {"predicate": {"custom_model_data":111}, "model": "skycore:custom_gui/questsystem/itemtypes/shield"},
+        {"predicate": {"custom_model_data":112}, "model": "skycore:custom_gui/questsystem/itemtypes/pickaxe"},
+        {"predicate": {"custom_model_data":113}, "model": "skycore:custom_gui/questsystem/itemtypes/shovel"},
+        {"predicate": {"custom_model_data":114}, "model": "skycore:custom_gui/questsystem/itemtypes/hoe"},
+        {"predicate": {"custom_model_data":115}, "model": "skycore:custom_gui/questsystem/itemtypes/helmet"},
+        {"predicate": {"custom_model_data":116}, "model": "skycore:custom_gui/questsystem/itemtypes/chestplate"},
+        {"predicate": {"custom_model_data":117}, "model": "skycore:custom_gui/questsystem/itemtypes/leggings"},
+        {"predicate": {"custom_model_data":118}, "model": "skycore:custom_gui/questsystem/itemtypes/boots"},
+        {"predicate": {"custom_model_data":119}, "model": "skycore:custom_gui/questsystem/itemtypes/block"},
+        {"predicate": {"custom_model_data":120}, "model": "skycore:custom_gui/questsystem/itemtypes/food"},
+        {"predicate": {"custom_model_data":121}, "model": "skycore:custom_gui/questsystem/itemtypes/ingredient"},
+        {"predicate": {"custom_model_data":122}, "model": "skycore:custom_gui/questsystem/itemtypes/other"},
+        {"predicate": {"custom_model_data":123}, "model": "skycore:custom_gui/questsystem/itemtypes/gem"},
 
-        {"predicate": {"custom_model_data":130}, "model": "custom_gui/mainmenu"},
+        {"predicate": {"custom_model_data":124}, "model": "skycore:custom_gui/close"},
+        {"predicate": {"custom_model_data":125}, "model": "skycore:custom_gui/questsystem/quest_main"},
+        {"predicate": {"custom_model_data":126}, "model": "skycore:custom_gui/questsystem/quest_side"},
+
+        {"predicate": {"custom_model_data":127}, "model": "skycore:custom_gui/mainmenu/friends_icon"},	
+
+        {"predicate": {"custom_model_data":130}, "model": "skycore:custom_gui/mainmenu"},
 		
-        {"predicate": {"custom_model_data":1337}, "model": "custom_gui/invisibleitem"}
+        {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
 }

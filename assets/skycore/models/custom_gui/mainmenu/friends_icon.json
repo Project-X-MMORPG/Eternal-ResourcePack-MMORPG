@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [70, 70],
+	"textures": {
+		"0": "skycore:custom_gui/mainmenu/friends_icon",
+		"particle": "unknown"
+	},
+	"elements": [
+		{
+			"from": [-12, 0, 0],
+			"to": [16, 1, 6.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 3.2]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_lefthand": {
+			"translation": [0, 24.75, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [42, -12.1, 0],
+			"scale": [2.5, 1, 2.5]
+		}
+	}
+}
