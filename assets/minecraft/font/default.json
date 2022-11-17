@@ -8,8 +8,6 @@
         {"type": "bitmap", "file": "skycore:custom_gui/templates/TEMPLATE_45.png","ascent": 13,"height": 111,"chars": ["\uE999"]},
         {"type": "bitmap", "file": "skycore:custom_gui/templates/TEMPLATE_54.png","ascent": 13,"height": 129,"chars": ["\uE999"]},
 		
-        {"type": "bitmap", "file": "skycore:custom_gui/mainmenu/mainmenu_background.png","ascent": 40,"height": 156,"chars": ["\uE129"]},
-		
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_details_background_1.png","ascent": 40,"height": 156,"chars": ["\uE130"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE131"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_details_background_3.png","ascent": 40,"height": 156,"chars": ["\uE132"]},
@@ -23,6 +21,12 @@
 		
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_active_background.png","ascent": 40,"height": 120,"chars": ["\uE138"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/en/en_quest_active_background.png","ascent": 40,"height": 120,"chars": ["\uE139"]},
+
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng.png","ascent": 40,"height": 156,"chars": ["\uE140"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE141"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger.png","ascent": 40,"height": 156,"chars": ["\uE142"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE143"]},
+
 		
 		{
 			"file": "skycore_font:icon_lead.png",

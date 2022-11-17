@@ -34,8 +34,6 @@
         {"predicate": {"custom_model_data":125}, "model": "skycore:custom_gui/questsystem/quest_main"},
         {"predicate": {"custom_model_data":126}, "model": "skycore:custom_gui/questsystem/quest_side"},
 
-        {"predicate": {"custom_model_data":127}, "model": "skycore:custom_gui/mainmenu/friends_icon"},	
-
         {"predicate": {"custom_model_data":130}, "model": "skycore:custom_gui/mainmenu"},
 		
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
