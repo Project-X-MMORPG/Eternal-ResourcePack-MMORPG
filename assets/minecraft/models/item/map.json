@@ -35,7 +35,17 @@
         {"predicate": {"custom_model_data":126}, "model": "skycore:custom_gui/questsystem/quest_side"},
 
         {"predicate": {"custom_model_data":130}, "model": "skycore:custom_gui/mainmenu"},
-		
+        {"predicate": {"custom_model_data":131}, "model": "skycore:custom_gui/icons/1x1_button_shrine_locked"},
+        {"predicate": {"custom_model_data":132}, "model": "skycore:custom_gui/icons/1x1_button_shrine_unlocked"},
+        {"predicate": {"custom_model_data":133}, "model": "skycore:custom_gui/icons/button_accept"},
+        {"predicate": {"custom_model_data":134}, "model": "skycore:custom_gui/icons/button_add_profile"},
+        {"predicate": {"custom_model_data":135}, "model": "skycore:custom_gui/icons/button_back"},
+        {"predicate": {"custom_model_data":136}, "model": "skycore:custom_gui/icons/button_decline"},
+        {"predicate": {"custom_model_data":137}, "model": "skycore:custom_gui/icons/button_left"},
+        {"predicate": {"custom_model_data":138}, "model": "skycore:custom_gui/icons/button_profile_active"},
+        {"predicate": {"custom_model_data":139}, "model": "skycore:custom_gui/icons/button_profile_inactive"},
+        {"predicate": {"custom_model_data":140}, "model": "skycore:custom_gui/icons/button_right"},
+
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
 }

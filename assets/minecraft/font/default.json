@@ -11,14 +11,11 @@
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_details_background_1.png","ascent": 40,"height": 156,"chars": ["\uE130"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE131"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_details_background_3.png","ascent": 40,"height": 156,"chars": ["\uE132"]},
-		
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/en/en_quest_details_background_1.png","ascent": 40,"height": 156,"chars": ["\uE133"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/en/en_quest_details_background_2.png","ascent": 40,"height": 156,"chars": ["\uE134"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/en/en_quest_details_background_3.png","ascent": 40,"height": 156,"chars": ["\uE135"]},
-		
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_selector_background.png","ascent": 40,"height": 102,"chars": ["\uE136"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/en/en_quest_selector_background.png","ascent": 40,"height": 102,"chars": ["\uE137"]},
-		
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/de/de_quest_active_background.png","ascent": 40,"height": 120,"chars": ["\uE138"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/en/en_quest_active_background.png","ascent": 40,"height": 120,"chars": ["\uE139"]},
 
@@ -26,179 +23,39 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE141"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger.png","ascent": 40,"height": 156,"chars": ["\uE142"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE143"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_eng.png","ascent": 40,"height": 156,"chars": ["\uE144"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_ger.png","ascent": 40,"height": 156,"chars": ["\uE145"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_requests_accept_short_eng.png","ascent": 40,"height": 120,"chars": ["\uE146"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_requests_accept_short_ger.png","ascent": 40,"height": 120,"chars": ["\uE147"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_requests_eng.png","ascent": 40,"height": 156,"chars": ["\uE148"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_requests_ger.png","ascent": 40,"height": 156,"chars": ["\uE149"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_profiles_short_eng.png","ascent": 40,"height": 120,"chars": ["\uE150"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_profiles_short_ger.png","ascent": 40,"height": 120,"chars": ["\uE151"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_shrines_eng.png","ascent": 40,"height": 156,"chars": ["\uE152"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_shrines_ger.png","ascent": 40,"height": 156,"chars": ["\uE153"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_trading_players_eng.png","ascent": 40,"height": 156,"chars": ["\uE154"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_trading_players_ger.png","ascent": 40,"height": 156,"chars": ["\uE155"]},
 
-		
-		{
-			"file": "skycore_font:icon_lead.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_admin.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_manager.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_senior_game_master.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_game_master.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_junior_game_master.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_staff.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_vip_partner.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_partner.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_creator_plus.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_creator.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_vip.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_master.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_elite.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_pro.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_premium.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:icon_player.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:09/0.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
-		{
-			"file": "skycore_font:09/1.png",
-			"chars": [
-				""
-			],
-			"height": 7,
-			"ascent": 7,
-			"type": "bitmap"
-		},
+		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_manager.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_senior_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_junior_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_staff.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_vip_partner.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_partner.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_creator_plus.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_creator.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_vip.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_elite.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_pro.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_premium.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_player.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+
+		{"file": "skycore_font:09/0.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:09/1.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{
 			"file": "skycore_font:09/2.png",
 			"chars": [
