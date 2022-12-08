@@ -5,6 +5,8 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "skycore:custom_items/rune-item" },
-    { "predicate": { "custom_model_data": 2 }, "model": "skycore:custom_items/crystal-item" }
+    { "predicate": { "custom_model_data": 2 }, "model": "skycore:custom_items/crystal-item" },
+    { "predicate": { "custom_model_data": 3 }, "model": "skycore:custom_items/xfibii-teddy" },
+    { "predicate": { "custom_model_data": 4 }, "model": "skycore:custom_items/rune_block" }
   ]
 }

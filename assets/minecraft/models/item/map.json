@@ -45,6 +45,7 @@
         {"predicate": {"custom_model_data":138}, "model": "skycore:custom_gui/icons/button_profile_active"},
         {"predicate": {"custom_model_data":139}, "model": "skycore:custom_gui/icons/button_profile_inactive"},
         {"predicate": {"custom_model_data":140}, "model": "skycore:custom_gui/icons/button_right"},
+        {"predicate": {"custom_model_data":141}, "model": "skycore:custom_gui/icons/button_accept_disabled"},
 
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
