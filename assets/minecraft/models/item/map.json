@@ -4,13 +4,8 @@
         "layer0": "item/map"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":100}, "model": "skycore:custom_gui/questsystem/quest_tracking_on"},
-        {"predicate": {"custom_model_data":101}, "model": "skycore:custom_gui/questsystem/quest_tracking_off"},
-        {"predicate": {"custom_model_data":102}, "model": "skycore:custom_gui/questsystem/task"},
-        {"predicate": {"custom_model_data":103}, "model": "skycore:custom_gui/questsystem/task_completed"},
         {"predicate": {"custom_model_data":104}, "model": "skycore:custom_gui/questsystem/gold"},
         {"predicate": {"custom_model_data":105}, "model": "skycore:custom_gui/questsystem/xp"},
-        {"predicate": {"custom_model_data":106}, "model": "skycore:custom_gui/back"},
 
         {"predicate": {"custom_model_data":107}, "model": "skycore:custom_gui/questsystem/itemtypes/sword"},
         {"predicate": {"custom_model_data":108}, "model": "skycore:custom_gui/questsystem/itemtypes/staff"},
@@ -30,10 +25,6 @@
         {"predicate": {"custom_model_data":122}, "model": "skycore:custom_gui/questsystem/itemtypes/other"},
         {"predicate": {"custom_model_data":123}, "model": "skycore:custom_gui/questsystem/itemtypes/gem"},
 
-        {"predicate": {"custom_model_data":124}, "model": "skycore:custom_gui/close"},
-        {"predicate": {"custom_model_data":125}, "model": "skycore:custom_gui/questsystem/quest_main"},
-        {"predicate": {"custom_model_data":126}, "model": "skycore:custom_gui/questsystem/quest_side"},
-
         {"predicate": {"custom_model_data":130}, "model": "skycore:custom_gui/mainmenu"},
         {"predicate": {"custom_model_data":131}, "model": "skycore:custom_gui/icons/1x1_button_shrine_locked"},
         {"predicate": {"custom_model_data":132}, "model": "skycore:custom_gui/icons/1x1_button_shrine_unlocked"},
@@ -46,6 +37,22 @@
         {"predicate": {"custom_model_data":139}, "model": "skycore:custom_gui/icons/button_profile_inactive"},
         {"predicate": {"custom_model_data":140}, "model": "skycore:custom_gui/icons/button_right"},
         {"predicate": {"custom_model_data":141}, "model": "skycore:custom_gui/icons/button_accept_disabled"},
+        {"predicate": {"custom_model_data":142}, "model": "skycore:custom_gui/icons/button_decline_disabled"},
+        {"predicate": {"custom_model_data":143}, "model": "skycore:custom_gui/icons/button_everyone_off"},
+        {"predicate": {"custom_model_data":144}, "model": "skycore:custom_gui/icons/button_everyone_on"},
+        {"predicate": {"custom_model_data":145}, "model": "skycore:custom_gui/icons/button_friends_off"},
+        {"predicate": {"custom_model_data":146}, "model": "skycore:custom_gui/icons/button_friends_on"},
+        {"predicate": {"custom_model_data":147}, "model": "skycore:custom_gui/icons/button_guild_off"},
+        {"predicate": {"custom_model_data":148}, "model": "skycore:custom_gui/icons/button_guild_on"},
+        {"predicate": {"custom_model_data":149}, "model": "skycore:custom_gui/icons/button_profile_disabled"},
+        {"predicate": {"custom_model_data":150}, "model": "skycore:custom_gui/icons/button_title_active"},
+        {"predicate": {"custom_model_data":151}, "model": "skycore:custom_gui/icons/button_title_inactive"},
+        {"predicate": {"custom_model_data":152}, "model": "skycore:custom_gui/icons/button_mainquest"},
+        {"predicate": {"custom_model_data":153}, "model": "skycore:custom_gui/icons/button_sidequest"},
+        {"predicate": {"custom_model_data":154}, "model": "skycore:custom_gui/icons/button_task"},
+        {"predicate": {"custom_model_data":155}, "model": "skycore:custom_gui/icons/button_task_completed"},
+        {"predicate": {"custom_model_data":156}, "model": "skycore:custom_gui/icons/compass_off"},
+        {"predicate": {"custom_model_data":157}, "model": "skycore:custom_gui/icons/compass_on"},
 
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
