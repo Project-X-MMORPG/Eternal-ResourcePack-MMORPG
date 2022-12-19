@@ -50,6 +50,8 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_events_ger.png","ascent": 40,"height": 102,"chars": ["\uE217"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_pets_eng.png","ascent": 40,"height": 156,"chars": ["\uE218"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_pets_ger.png","ascent": 40,"height": 156,"chars": ["\uE219"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_trading_players_accept_eng.png","ascent": 40,"height": 156,"chars": ["\uE220"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_trading_players_accept_ger.png","ascent": 40,"height": 156,"chars": ["\uE221"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/housing/gui_housing1_eng.png","ascent": 40,"height": 102,"chars": ["\uE156"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/housing/gui_housing1_ger.png","ascent": 40,"height": 102,"chars": ["\uE157"]},
