@@ -11,9 +11,9 @@
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_quest_selection_ger.png","ascent": 40,"height": 102,"chars": ["\uE135"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng.png","ascent": 40,"height": 156,"chars": ["\uE140"]},
-		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE141"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng_ohne_auction.png","ascent": 40,"height": 156,"chars": ["\uE141"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger.png","ascent": 40,"height": 156,"chars": ["\uE142"]},
-		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE143"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_ger_ohne_auction.png","ascent": 40,"height": 156,"chars": ["\uE143"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_eng.png","ascent": 40,"height": 156,"chars": ["\uE144"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_ger.png","ascent": 40,"height": 156,"chars": ["\uE145"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_friends_requests_accept_short_eng.png","ascent": 40,"height": 120,"chars": ["\uE146"]},
