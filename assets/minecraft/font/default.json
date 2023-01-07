@@ -96,6 +96,9 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe2_eng.png","ascent": 40,"height": 156,"chars": ["\uE214"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe2_ger.png","ascent": 40,"height": 156,"chars": ["\uE215"]},
 
+		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_eng.png","ascent": 40,"height": 102,"chars": ["\uE222"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_ger.png","ascent": 40,"height": 102,"chars": ["\uE223"]},
+
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_manager.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
