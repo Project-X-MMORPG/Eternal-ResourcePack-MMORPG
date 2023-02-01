@@ -86,6 +86,18 @@
         {"predicate": {"custom_model_data":187}, "model": "skycore:item/icons/button_crafting_item"},
         {"predicate": {"custom_model_data":188}, "model": "skycore:item/icons/button_minus"},
 
+        {"predicate": {"custom_model_data":189}, "model": "skycore:item/icons/button_elitequest"},
+        {"predicate": {"custom_model_data":190}, "model": "skycore:item/icons/button_elitequest_done"},
+        {"predicate": {"custom_model_data":191}, "model": "skycore:item/questsystem/eliteranks/elite_rank_1"},
+        {"predicate": {"custom_model_data":192}, "model": "skycore:item/questsystem/eliteranks/elite_rank_2"},
+        {"predicate": {"custom_model_data":193}, "model": "skycore:item/questsystem/eliteranks/elite_rank_3"},
+        {"predicate": {"custom_model_data":194}, "model": "skycore:item/questsystem/eliteranks/elite_rank_4"},
+        {"predicate": {"custom_model_data":195}, "model": "skycore:item/questsystem/eliteranks/elite_rank_5"},
+        {"predicate": {"custom_model_data":196}, "model": "skycore:item/questsystem/eliteranks/elite_rank_6"},
+        {"predicate": {"custom_model_data":197}, "model": "skycore:item/questsystem/eliteranks/elite_rank_7"},
+        {"predicate": {"custom_model_data":198}, "model": "skycore:item/questsystem/eliteranks/elite_rank_8"},
+        {"predicate": {"custom_model_data":199}, "model": "skycore:item/questsystem/eliteranks/elite_rank_9"},
+        {"predicate": {"custom_model_data":200}, "model": "skycore:item/questsystem/eliteranks/elite_rank_10"},
 
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]

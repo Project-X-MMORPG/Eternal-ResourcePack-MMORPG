@@ -9,6 +9,10 @@
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_quest_ger.png","ascent": 40,"height": 156,"chars": ["\uE133"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_quest_selection_eng.png","ascent": 40,"height": 102,"chars": ["\uE134"]},
         {"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_quest_selection_ger.png","ascent": 40,"height": 102,"chars": ["\uE135"]},
+        {"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_daily_quests_eng.png","ascent": 40,"height": 102,"chars": ["\uE224"]},
+        {"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_daily_quests_ger.png","ascent": 40,"height": 102,"chars": ["\uE225"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_epic_quests_eng.png","ascent": 40,"height": 156,"chars": ["\uE226"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/questsystem/gui_epic_quests_ger.png","ascent": 40,"height": 156,"chars": ["\uE227"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng.png","ascent": 40,"height": 156,"chars": ["\uE140"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/mainmenu/gui_main_menu_eng_ohne_housing.png","ascent": 40,"height": 156,"chars": ["\uE141"]},
@@ -98,6 +102,12 @@
 
 		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_eng.png","ascent": 40,"height": 102,"chars": ["\uE222"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_ger.png","ascent": 40,"height": 102,"chars": ["\uE223"]},
+
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_1.png","ascent": 40,"height": 102,"chars": ["\uE228"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_2_eng.png","ascent": 40,"height": 156,"chars": ["\uE229"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_2_ger.png","ascent": 40,"height": 156,"chars": ["\uE239"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_shop_eng.png","ascent": 40,"height": 156,"chars": ["\uE240"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_shop_ger.png","ascent": 40,"height": 156,"chars": ["\uE241"]},
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
