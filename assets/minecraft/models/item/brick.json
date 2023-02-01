@@ -4,13 +4,13 @@
     "layer0": "minecraft:item/brick"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "skycore:custom_items/rune-item" },
-    { "predicate": { "custom_model_data": 2 }, "model": "skycore:custom_items/crystal-item" },
-    { "predicate": { "custom_model_data": 3 }, "model": "skycore:custom_items/xfibii-teddy" },
-    { "predicate": { "custom_model_data": 4 }, "model": "skycore:custom_items/rune_block" },
-    { "predicate": { "custom_model_data": 5 }, "model": "skycore:custom_items/trophy" },
-    { "predicate": { "custom_model_data": 6 }, "model": "skycore:custom_items/quest_green" },
-    { "predicate": { "custom_model_data": 7 }, "model": "skycore:custom_items/quest_blue" },
-    { "predicate": { "custom_model_data": 8 }, "model": "skycore:custom_items/quest_red" }
+    { "predicate": { "custom_model_data": 1 }, "model": "skycore:item/items/rune-item" },
+    { "predicate": { "custom_model_data": 2 }, "model": "skycore:item/items/crystal-item" },
+    { "predicate": { "custom_model_data": 3 }, "model": "skycore:item/items/xfibii-teddy" },
+    { "predicate": { "custom_model_data": 4 }, "model": "skycore:item/items/rune_block" },
+    { "predicate": { "custom_model_data": 5 }, "model": "skycore:item/items/trophy" },
+    { "predicate": { "custom_model_data": 6 }, "model": "skycore:item/items/quest_green" },
+    { "predicate": { "custom_model_data": 7 }, "model": "skycore:item/items/quest_blue" },
+    { "predicate": { "custom_model_data": 8 }, "model": "skycore:item/items/quest_red" }
   ]
 }

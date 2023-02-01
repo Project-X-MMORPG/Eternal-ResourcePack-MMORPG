@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "rpgmobs_1:rpgmob1_texture/slime_goo"
-  }
-}
-

@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rpgmobs_1:item/rpgmob1_texture/magical_feather"
+  }
+}
+

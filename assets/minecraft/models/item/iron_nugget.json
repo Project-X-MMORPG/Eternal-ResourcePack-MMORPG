@@ -8,2779 +8,2779 @@
 			"predicate": {
 				"custom_model_data": 9999
 			},
-			"model": "must_have_props:basket"
+			"model": "must_have_props:item/basket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "must_have_props:bone_pile"
+			"model": "must_have_props:item/bone_pile"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "must_have_props:bone"
+			"model": "must_have_props:item/bone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "must_have_props:book_pile_2"
+			"model": "must_have_props:item/book_pile_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "must_have_props:book_pile"
+			"model": "must_have_props:item/book_pile"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "must_have_props:coffee_tray"
+			"model": "must_have_props:item/coffee_tray"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 6
 			},
-			"model": "must_have_props:coins"
+			"model": "must_have_props:item/coins"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "must_have_props:eating_set"
+			"model": "must_have_props:item/eating_set"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "must_have_props:flower_1"
+			"model": "must_have_props:item/flower_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "must_have_props:flower_2"
+			"model": "must_have_props:item/flower_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "must_have_props:flower_3"
+			"model": "must_have_props:item/flower_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "must_have_props:fruit_basket"
+			"model": "must_have_props:item/fruit_basket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "must_have_props:glass_cup"
+			"model": "must_have_props:item/glass_cup"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "must_have_props:glass_cups"
+			"model": "must_have_props:item/glass_cups"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "must_have_props:glass_jar"
+			"model": "must_have_props:item/glass_jar"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "must_have_props:glass_jars"
+			"model": "must_have_props:item/glass_jars"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "must_have_props:money"
+			"model": "must_have_props:item/money"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "must_have_props:organized_books"
+			"model": "must_have_props:item/organized_books"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "must_have_props:organized_log_pile"
+			"model": "must_have_props:item/organized_log_pile"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "must_have_props:picture_frame"
+			"model": "must_have_props:item/picture_frame"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "must_have_props:piggy_bank"
+			"model": "must_have_props:item/piggy_bank"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "must_have_props:plate_pile"
+			"model": "must_have_props:item/plate_pile"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "must_have_props:plate"
+			"model": "must_have_props:item/plate"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 23
 			},
-			"model": "must_have_props:scroll"
+			"model": "must_have_props:item/scroll"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "must_have_props:scrolls"
+			"model": "must_have_props:item/scrolls"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "must_have_props:study_mess"
+			"model": "must_have_props:item/study_mess"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "must_have_props:trophy"
+			"model": "must_have_props:item/trophy"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "must_have_props:wooden_bucket_water"
+			"model": "must_have_props:item/wooden_bucket_water"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "must_have_props:wooden_bucket"
+			"model": "must_have_props:item/wooden_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "must_have_props:bottle"
+			"model": "must_have_props:item/bottle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 30
 			},
-			"model": "must_have_props:bottles"
+			"model": "must_have_props:item/bottles"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 31
 			},
-			"model": "must_have_props:closed_book"
+			"model": "must_have_props:item/closed_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 32
 			},
-			"model": "must_have_props:open_book"
+			"model": "must_have_props:item/open_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "must_have_props:spilled_bottle"
+			"model": "must_have_props:item/spilled_bottle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "must_have_props:vase_1"
+			"model": "must_have_props:item/vase_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "must_have_props:vase_2"
+			"model": "must_have_props:item/vase_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "medieval_pack:acacia_blood_bucket"
+			"model": "medieval_pack:item/acacia_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 37
 			},
-			"model": "medieval_pack:acacia_bucket"
+			"model": "medieval_pack:item/acacia_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 38
 			},
-			"model": "medieval_pack:acacia_chair"
+			"model": "medieval_pack:item/acacia_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 39
 			},
-			"model": "medieval_pack:acacia_chair_2"
+			"model": "medieval_pack:item/acacia_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 40
 			},
-			"model": "medieval_pack:acacia_chair_3"
+			"model": "medieval_pack:item/acacia_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "medieval_pack:acacia_figure"
+			"model": "medieval_pack:item/acacia_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "medieval_pack:acacia_flag"
+			"model": "medieval_pack:item/acacia_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "medieval_pack:acacia_stand_1x1"
+			"model": "medieval_pack:item/acacia_stand_1x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "medieval_pack:acacia_stand_2x1"
+			"model": "medieval_pack:item/acacia_stand_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "medieval_pack:acacia_stand_bottom"
+			"model": "medieval_pack:item/acacia_stand_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "medieval_pack:acacia_stand_transition"
+			"model": "medieval_pack:item/acacia_stand_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "medieval_pack:acacia_table"
+			"model": "medieval_pack:item/acacia_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "medieval_pack:acacia_table_1x2"
+			"model": "medieval_pack:item/acacia_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "medieval_pack:acacia_table_1x3"
+			"model": "medieval_pack:item/acacia_table_1x3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "medieval_pack:acacia_target"
+			"model": "medieval_pack:item/acacia_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "medieval_pack:acacia_wheel"
+			"model": "medieval_pack:item/acacia_wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "medieval_pack:acacia_window_1x3_close"
+			"model": "medieval_pack:item/acacia_window_1x3_close"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "medieval_pack:acacia_window_1x3_open"
+			"model": "medieval_pack:item/acacia_window_1x3_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "medieval_pack:anchor_stone"
+			"model": "medieval_pack:item/anchor_stone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "medieval_pack:ancient_sword"
+			"model": "medieval_pack:item/ancient_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "medieval_pack:birch_blood_bucket"
+			"model": "medieval_pack:item/birch_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "medieval_pack:birch_bucket"
+			"model": "medieval_pack:item/birch_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "medieval_pack:birch_chair"
+			"model": "medieval_pack:item/birch_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "medieval_pack:birch_chair_2"
+			"model": "medieval_pack:item/birch_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "medieval_pack:spruce_table"
+			"model": "medieval_pack:item/spruce_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "medieval_pack:spruce_table_1x2"
+			"model": "medieval_pack:item/spruce_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "medieval_pack:spruce_table_1x3"
+			"model": "medieval_pack:item/spruce_table_1x3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "medieval_pack:spruce_target"
+			"model": "medieval_pack:item/spruce_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "medieval_pack:spruce_wheel"
+			"model": "medieval_pack:item/spruce_wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "medieval_pack:spruce_window_1x3_close"
+			"model": "medieval_pack:item/spruce_window_1x3_close"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "medieval_pack:spruce_window_1x3_open"
+			"model": "medieval_pack:item/spruce_window_1x3_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 67
 			},
-			"model": "medieval_pack:stone_wall_bottom"
+			"model": "medieval_pack:item/stone_wall_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 68
 			},
-			"model": "medieval_pack:stone_wall_bottom_transition"
+			"model": "medieval_pack:item/stone_wall_bottom_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 69
 			},
-			"model": "medieval_pack:stone_wall_top"
+			"model": "medieval_pack:item/stone_wall_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 70
 			},
-			"model": "medieval_pack:stone_wall_top_transition"
+			"model": "medieval_pack:item/stone_wall_top_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "medieval_pack:warped_blood_bucket"
+			"model": "medieval_pack:item/warped_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "medieval_pack:warped_chair"
+			"model": "medieval_pack:item/warped_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "medieval_pack:warped_chair_2"
+			"model": "medieval_pack:item/warped_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 74
 			},
-			"model": "medieval_pack:warped_chair_3"
+			"model": "medieval_pack:item/warped_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 75
 			},
-			"model": "medieval_pack:warped_figure"
+			"model": "medieval_pack:item/warped_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 76
 			},
-			"model": "medieval_pack:warped_table"
+			"model": "medieval_pack:item/warped_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 77
 			},
-			"model": "medieval_pack:warped_table_1x2"
+			"model": "medieval_pack:item/warped_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 78
 			},
-			"model": "medieval_pack:warped_target"
+			"model": "medieval_pack:item/warped_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 79
 			},
-			"model": "medieval_pack:white_backpack"
+			"model": "medieval_pack:item/white_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 80
 			},
-			"model": "medieval_pack:yellow_backpack"
+			"model": "medieval_pack:item/yellow_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 81
 			},
-			"model": "medieval_pack:birch_chair_3"
+			"model": "medieval_pack:item/birch_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 82
 			},
-			"model": "medieval_pack:birch_figure"
+			"model": "medieval_pack:item/birch_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 83
 			},
-			"model": "medieval_pack:birch_flag"
+			"model": "medieval_pack:item/birch_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 84
 			},
-			"model": "medieval_pack:birch_stand_1x1"
+			"model": "medieval_pack:item/birch_stand_1x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 85
 			},
-			"model": "medieval_pack:birch_stand_2x1"
+			"model": "medieval_pack:item/birch_stand_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 86
 			},
-			"model": "medieval_pack:birch_stand_bottom"
+			"model": "medieval_pack:item/birch_stand_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 87
 			},
-			"model": "medieval_pack:birch_stand_transition"
+			"model": "medieval_pack:item/birch_stand_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 88
 			},
-			"model": "medieval_pack:birch_table"
+			"model": "medieval_pack:item/birch_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 89
 			},
-			"model": "medieval_pack:birch_table_1x2"
+			"model": "medieval_pack:item/birch_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 90
 			},
-			"model": "medieval_pack:birch_table_1x3"
+			"model": "medieval_pack:item/birch_table_1x3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 91
 			},
-			"model": "medieval_pack:birch_target"
+			"model": "medieval_pack:item/birch_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 92
 			},
-			"model": "medieval_pack:birch_wheel"
+			"model": "medieval_pack:item/birch_wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 93
 			},
-			"model": "medieval_pack:birch_window_1x3_close"
+			"model": "medieval_pack:item/birch_window_1x3_close"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 94
 			},
-			"model": "medieval_pack:birch_window_1x3_open"
+			"model": "medieval_pack:item/birch_window_1x3_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 95
 			},
-			"model": "medieval_pack:black_backpack"
+			"model": "medieval_pack:item/black_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 96
 			},
-			"model": "medieval_pack:blue_book"
+			"model": "medieval_pack:item/blue_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 97
 			},
-			"model": "medieval_pack:blue_book_open"
+			"model": "medieval_pack:item/blue_book_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 98
 			},
-			"model": "medieval_pack:books_1"
+			"model": "medieval_pack:item/books_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 99
 			},
-			"model": "medieval_pack:books_2"
+			"model": "medieval_pack:item/books_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 100
 			},
-			"model": "medieval_pack:brown_backpack"
+			"model": "medieval_pack:item/brown_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 101
 			},
-			"model": "medieval_pack:brown_book"
+			"model": "medieval_pack:item/brown_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 102
 			},
-			"model": "medieval_pack:brown_book_open"
+			"model": "medieval_pack:item/brown_book_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 103
 			},
-			"model": "medieval_pack:ceramics_1"
+			"model": "medieval_pack:item/ceramics_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 104
 			},
-			"model": "medieval_pack:ceramics_2"
+			"model": "medieval_pack:item/ceramics_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 105
 			},
-			"model": "medieval_pack:ceramics_3"
+			"model": "medieval_pack:item/ceramics_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 106
 			},
-			"model": "medieval_pack:ceramics_4"
+			"model": "medieval_pack:item/ceramics_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 107
 			},
-			"model": "medieval_pack:ceramics_5"
+			"model": "medieval_pack:item/ceramics_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 108
 			},
-			"model": "medieval_pack:crimson_blood_bucket"
+			"model": "medieval_pack:item/crimson_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 109
 			},
-			"model": "medieval_pack:crimson_chair"
+			"model": "medieval_pack:item/crimson_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 110
 			},
-			"model": "medieval_pack:crimson_chair_2"
+			"model": "medieval_pack:item/crimson_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 111
 			},
-			"model": "medieval_pack:crimson_chair_3"
+			"model": "medieval_pack:item/crimson_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 112
 			},
-			"model": "medieval_pack:crimson_figure"
+			"model": "medieval_pack:item/crimson_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 113
 			},
-			"model": "medieval_pack:crimson_table"
+			"model": "medieval_pack:item/crimson_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 114
 			},
-			"model": "medieval_pack:crimson_table_1x2"
+			"model": "medieval_pack:item/crimson_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 115
 			},
-			"model": "medieval_pack:crimson_target"
+			"model": "medieval_pack:item/crimson_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 116
 			},
-			"model": "medieval_pack:cyan_backpack"
+			"model": "medieval_pack:item/cyan_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 117
 			},
-			"model": "medieval_pack:dark_oak_blood_bucket"
+			"model": "medieval_pack:item/dark_oak_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 118
 			},
-			"model": "medieval_pack:dark_oak_bucket"
+			"model": "medieval_pack:item/dark_oak_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 119
 			},
-			"model": "medieval_pack:dark_oak_chair"
+			"model": "medieval_pack:item/dark_oak_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 120
 			},
-			"model": "medieval_pack:dark_oak_chair_2"
+			"model": "medieval_pack:item/dark_oak_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 121
 			},
-			"model": "medieval_pack:dark_oak_chair_3"
+			"model": "medieval_pack:item/dark_oak_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 122
 			},
-			"model": "medieval_pack:dark_oak_figure"
+			"model": "medieval_pack:item/dark_oak_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 123
 			},
-			"model": "medieval_pack:dark_oak_flag"
+			"model": "medieval_pack:item/dark_oak_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 124
 			},
-			"model": "medieval_pack:dark_oak_stand_1x1"
+			"model": "medieval_pack:item/dark_oak_stand_1x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 125
 			},
-			"model": "medieval_pack:dark_oak_stand_2x1"
+			"model": "medieval_pack:item/dark_oak_stand_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 126
 			},
-			"model": "medieval_pack:dark_oak_stand_bottom"
+			"model": "medieval_pack:item/dark_oak_stand_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 127
 			},
-			"model": "medieval_pack:dark_oak_stand_transition"
+			"model": "medieval_pack:item/dark_oak_stand_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 128
 			},
-			"model": "medieval_pack:dark_oak_table"
+			"model": "medieval_pack:item/dark_oak_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 129
 			},
-			"model": "medieval_pack:dark_oak_table_1x2"
+			"model": "medieval_pack:item/dark_oak_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 130
 			},
-			"model": "medieval_pack:dark_oak_table_1x3"
+			"model": "medieval_pack:item/dark_oak_table_1x3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 131
 			},
-			"model": "medieval_pack:dark_oak_target"
+			"model": "medieval_pack:item/dark_oak_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 132
 			},
-			"model": "medieval_pack:dark_oak_wheel"
+			"model": "medieval_pack:item/dark_oak_wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 133
 			},
-			"model": "medieval_pack:dark_oak_window_1x3_close"
+			"model": "medieval_pack:item/dark_oak_window_1x3_close"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 134
 			},
-			"model": "medieval_pack:dark_oak_window_1x3_open"
+			"model": "medieval_pack:item/dark_oak_window_1x3_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 135
 			},
-			"model": "medieval_pack:diamond_chalice_1"
+			"model": "medieval_pack:item/diamond_chalice_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 136
 			},
-			"model": "medieval_pack:diamond_chalice_2"
+			"model": "medieval_pack:item/diamond_chalice_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 137
 			},
-			"model": "medieval_pack:emerald_chalice_1"
+			"model": "medieval_pack:item/emerald_chalice_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 138
 			},
-			"model": "medieval_pack:emerald_chalice_2"
+			"model": "medieval_pack:item/emerald_chalice_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 139
 			},
-			"model": "medieval_pack:enchant_book"
+			"model": "medieval_pack:item/enchant_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 140
 			},
-			"model": "medieval_pack:enchant_book_open"
+			"model": "medieval_pack:item/enchant_book_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 141
 			},
-			"model": "medieval_pack:flag_blue"
+			"model": "medieval_pack:item/flag_blue"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 142
 			},
-			"model": "medieval_pack:flag_green"
+			"model": "medieval_pack:item/flag_green"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 143
 			},
-			"model": "medieval_pack:flag_light_blue"
+			"model": "medieval_pack:item/flag_light_blue"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 144
 			},
-			"model": "medieval_pack:flag_lime"
+			"model": "medieval_pack:item/flag_lime"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 145
 			},
-			"model": "medieval_pack:flag_magenta"
+			"model": "medieval_pack:item/flag_magenta"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 146
 			},
-			"model": "medieval_pack:flag_orange"
+			"model": "medieval_pack:item/flag_orange"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 147
 			},
-			"model": "medieval_pack:flag_pink"
+			"model": "medieval_pack:item/flag_pink"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 148
 			},
-			"model": "medieval_pack:flag_purple"
+			"model": "medieval_pack:item/flag_purple"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 149
 			},
-			"model": "medieval_pack:flag_red"
+			"model": "medieval_pack:item/flag_red"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 150
 			},
-			"model": "medieval_pack:flag_white"
+			"model": "medieval_pack:item/flag_white"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 151
 			},
-			"model": "medieval_pack:flag_yellow"
+			"model": "medieval_pack:item/flag_yellow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 152
 			},
-			"model": "medieval_pack:gold_chalice_1"
+			"model": "medieval_pack:item/gold_chalice_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 153
 			},
-			"model": "medieval_pack:gold_chalice_2"
+			"model": "medieval_pack:item/gold_chalice_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 154
 			},
-			"model": "medieval_pack:gray_backpack"
+			"model": "medieval_pack:item/gray_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 155
 			},
-			"model": "medieval_pack:green_backpack"
+			"model": "medieval_pack:item/green_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 156
 			},
-			"model": "medieval_pack:green_book"
+			"model": "medieval_pack:item/green_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 157
 			},
-			"model": "medieval_pack:green_book_open"
+			"model": "medieval_pack:item/green_book_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 158
 			},
-			"model": "medieval_pack:jungle_blood_bucket"
+			"model": "medieval_pack:item/jungle_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 159
 			},
-			"model": "medieval_pack:jungle_bucket"
+			"model": "medieval_pack:item/jungle_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 160
 			},
-			"model": "medieval_pack:jungle_chair"
+			"model": "medieval_pack:item/jungle_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 161
 			},
-			"model": "medieval_pack:jungle_chair_2"
+			"model": "medieval_pack:item/jungle_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 162
 			},
-			"model": "medieval_pack:jungle_chair_3"
+			"model": "medieval_pack:item/jungle_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 163
 			},
-			"model": "medieval_pack:jungle_figure"
+			"model": "medieval_pack:item/jungle_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 164
 			},
-			"model": "medieval_pack:jungle_flag"
+			"model": "medieval_pack:item/jungle_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 165
 			},
-			"model": "medieval_pack:jungle_stand_1x1"
+			"model": "medieval_pack:item/jungle_stand_1x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 166
 			},
-			"model": "medieval_pack:jungle_stand_2x1"
+			"model": "medieval_pack:item/jungle_stand_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 167
 			},
-			"model": "medieval_pack:jungle_stand_bottom"
+			"model": "medieval_pack:item/jungle_stand_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 168
 			},
-			"model": "medieval_pack:jungle_stand_transition"
+			"model": "medieval_pack:item/jungle_stand_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 169
 			},
-			"model": "medieval_pack:jungle_table_v1"
+			"model": "medieval_pack:item/jungle_table_v1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 170
 			},
-			"model": "medieval_pack:jungle_table_1x2"
+			"model": "medieval_pack:item/jungle_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 171
 			},
-			"model": "medieval_pack:jungle_table_1x3"
+			"model": "medieval_pack:item/jungle_table_1x3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 172
 			},
-			"model": "medieval_pack:jungle_target"
+			"model": "medieval_pack:item/jungle_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 173
 			},
-			"model": "medieval_pack:jungle_wheel"
+			"model": "medieval_pack:item/jungle_wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 174
 			},
-			"model": "medieval_pack:jungle_window_1x3_close"
+			"model": "medieval_pack:item/jungle_window_1x3_close"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 175
 			},
-			"model": "medieval_pack:jungle_window_1x3_open"
+			"model": "medieval_pack:item/jungle_window_1x3_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 176
 			},
-			"model": "medieval_pack:light_blue_backpack"
+			"model": "medieval_pack:item/light_blue_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 177
 			},
-			"model": "medieval_pack:light_gray_backpack"
+			"model": "medieval_pack:item/light_gray_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 178
 			},
-			"model": "medieval_pack:lime_backpack"
+			"model": "medieval_pack:item/lime_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 179
 			},
-			"model": "medieval_pack:magenta_backpack"
+			"model": "medieval_pack:item/magenta_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 180
 			},
-			"model": "medieval_pack:oak_blood_bucket"
+			"model": "medieval_pack:item/oak_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 181
 			},
-			"model": "medieval_pack:oak_bucket"
+			"model": "medieval_pack:item/oak_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 182
 			},
-			"model": "medieval_pack:oak_chair"
+			"model": "medieval_pack:item/oak_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 183
 			},
-			"model": "medieval_pack:oak_chair_2"
+			"model": "medieval_pack:item/oak_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 184
 			},
-			"model": "medieval_pack:oak_chair_3"
+			"model": "medieval_pack:item/oak_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 185
 			},
-			"model": "medieval_pack:oak_figure"
+			"model": "medieval_pack:item/oak_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 186
 			},
-			"model": "medieval_pack:oak_flag"
+			"model": "medieval_pack:item/oak_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 187
 			},
-			"model": "medieval_pack:oak_stand_1x1"
+			"model": "medieval_pack:item/oak_stand_1x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 188
 			},
-			"model": "medieval_pack:oak_stand_2x1"
+			"model": "medieval_pack:item/oak_stand_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 189
 			},
-			"model": "medieval_pack:oak_stand_bottom"
+			"model": "medieval_pack:item/oak_stand_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 190
 			},
-			"model": "medieval_pack:oak_stand_transition"
+			"model": "medieval_pack:item/oak_stand_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 191
 			},
-			"model": "medieval_pack:oak_table"
+			"model": "medieval_pack:item/oak_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 192
 			},
-			"model": "medieval_pack:oak_table_1x2"
+			"model": "medieval_pack:item/oak_table_1x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 193
 			},
-			"model": "medieval_pack:oak_table_1x3"
+			"model": "medieval_pack:item/oak_table_1x3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 194
 			},
-			"model": "medieval_pack:oak_target"
+			"model": "medieval_pack:item/oak_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 195
 			},
-			"model": "medieval_pack:oak_wheel"
+			"model": "medieval_pack:item/oak_wheel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 196
 			},
-			"model": "medieval_pack:oak_window_1x3_close"
+			"model": "medieval_pack:item/oak_window_1x3_close"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 197
 			},
-			"model": "medieval_pack:oak_window_1x3_open"
+			"model": "medieval_pack:item/oak_window_1x3_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 198
 			},
-			"model": "medieval_pack:one_block_acacia_fence"
+			"model": "medieval_pack:item/one_block_acacia_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 199
 			},
-			"model": "medieval_pack:one_block_acacia_fence_transition"
+			"model": "medieval_pack:item/one_block_acacia_fence_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 200
 			},
-			"model": "medieval_pack:one_block_birch_fence"
+			"model": "medieval_pack:item/one_block_birch_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 201
 			},
-			"model": "medieval_pack:one_block_birch_fence_transition"
+			"model": "medieval_pack:item/one_block_birch_fence_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 202
 			},
-			"model": "medieval_pack:one_block_dark_oak_fence"
+			"model": "medieval_pack:item/one_block_dark_oak_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 203
 			},
-			"model": "medieval_pack:one_block_dark_oak_fence_transition"
+			"model": "medieval_pack:item/one_block_dark_oak_fence_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 204
 			},
-			"model": "medieval_pack:one_block_jungle_fence"
+			"model": "medieval_pack:item/one_block_jungle_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 205
 			},
-			"model": "medieval_pack:one_block_jungle_fence_transition"
+			"model": "medieval_pack:item/one_block_jungle_fence_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 206
 			},
-			"model": "medieval_pack:one_block_oak_fence"
+			"model": "medieval_pack:item/one_block_oak_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 207
 			},
-			"model": "medieval_pack:one_block_oak_fence_transition"
+			"model": "medieval_pack:item/one_block_oak_fence_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 208
 			},
-			"model": "medieval_pack:one_block_spruce_fence"
+			"model": "medieval_pack:item/one_block_spruce_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 209
 			},
-			"model": "medieval_pack:one_block_spruce_fence_transition"
+			"model": "medieval_pack:item/one_block_spruce_fence_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 210
 			},
-			"model": "medieval_pack:orange_backpack"
+			"model": "medieval_pack:item/orange_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 211
 			},
-			"model": "medieval_pack:pink_backpack"
+			"model": "medieval_pack:item/pink_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 212
 			},
-			"model": "medieval_pack:purple_backpack"
+			"model": "medieval_pack:item/purple_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 213
 			},
-			"model": "medieval_pack:purple_book"
+			"model": "medieval_pack:item/purple_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 214
 			},
-			"model": "medieval_pack:purple_book_open"
+			"model": "medieval_pack:item/purple_book_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 215
 			},
-			"model": "medieval_pack:red_backpack"
+			"model": "medieval_pack:item/red_backpack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 216
 			},
-			"model": "medieval_pack:red_book"
+			"model": "medieval_pack:item/red_book"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 217
 			},
-			"model": "medieval_pack:red_book_open"
+			"model": "medieval_pack:item/red_book_open"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 218
 			},
-			"model": "medieval_pack:rock_1"
+			"model": "medieval_pack:item/rock_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 219
 			},
-			"model": "medieval_pack:rock_2"
+			"model": "medieval_pack:item/rock_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 220
 			},
-			"model": "medieval_pack:rock_3"
+			"model": "medieval_pack:item/rock_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 221
 			},
-			"model": "medieval_pack:rock_4"
+			"model": "medieval_pack:item/rock_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 222
 			},
-			"model": "medieval_pack:rock_5"
+			"model": "medieval_pack:item/rock_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 223
 			},
-			"model": "medieval_pack:rock_6"
+			"model": "medieval_pack:item/rock_6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 224
 			},
-			"model": "medieval_pack:silver_chalice_1"
+			"model": "medieval_pack:item/silver_chalice_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 225
 			},
-			"model": "medieval_pack:silver_chalice_2"
+			"model": "medieval_pack:item/silver_chalice_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 226
 			},
-			"model": "medieval_pack:small_ceramics_1"
+			"model": "medieval_pack:item/small_ceramics_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 227
 			},
-			"model": "medieval_pack:small_ceramics_2"
+			"model": "medieval_pack:item/small_ceramics_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 228
 			},
-			"model": "medieval_pack:small_ceramics_3"
+			"model": "medieval_pack:item/small_ceramics_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 229
 			},
-			"model": "medieval_pack:small_ceramics_4"
+			"model": "medieval_pack:item/small_ceramics_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 230
 			},
-			"model": "medieval_pack:small_ceramics_5"
+			"model": "medieval_pack:item/small_ceramics_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 231
 			},
-			"model": "medieval_pack:spruce_blood_bucket"
+			"model": "medieval_pack:item/spruce_blood_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 232
 			},
-			"model": "medieval_pack:spruce_bucket"
+			"model": "medieval_pack:item/spruce_bucket"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 233
 			},
-			"model": "medieval_pack:spruce_chair"
+			"model": "medieval_pack:item/spruce_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 234
 			},
-			"model": "medieval_pack:spruce_chair_2"
+			"model": "medieval_pack:item/spruce_chair_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 235
 			},
-			"model": "medieval_pack:spruce_chair_3"
+			"model": "medieval_pack:item/spruce_chair_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 236
 			},
-			"model": "medieval_pack:spruce_figure"
+			"model": "medieval_pack:item/spruce_figure"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 237
 			},
-			"model": "medieval_pack:spruce_flag"
+			"model": "medieval_pack:item/spruce_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 238
 			},
-			"model": "medieval_pack:spruce_stand_1x1"
+			"model": "medieval_pack:item/spruce_stand_1x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 239
 			},
-			"model": "medieval_pack:spruce_stand_2x1"
+			"model": "medieval_pack:item/spruce_stand_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 240
 			},
-			"model": "medieval_pack:spruce_stand_bottom"
+			"model": "medieval_pack:item/spruce_stand_bottom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 241
 			},
-			"model": "medieval_pack:spruce_stand_transition"
+			"model": "medieval_pack:item/spruce_stand_transition"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 242
 			},
-			"model": "lzfurniture:medievalroyal_banner"
+			"model": "lzfurniture:item/medievalroyal_banner"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 243
 			},
-			"model": "lzfurniture:medievalroyal_books"
+			"model": "lzfurniture:item/medievalroyal_books"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 244
 			},
-			"model": "lzfurniture:medievalroyal_bookshelf"
+			"model": "lzfurniture:item/medievalroyal_bookshelf"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 245
 			},
-			"model": "lzfurniture:medievalroyal_candle"
+			"model": "lzfurniture:item/medievalroyal_candle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 246
 			},
-			"model": "lzfurniture:medievalroyal_candleholder"
+			"model": "lzfurniture:item/medievalroyal_candleholder"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 247
 			},
-			"model": "lzfurniture:medievalroyal_chair"
+			"model": "lzfurniture:item/medievalroyal_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 248
 			},
-			"model": "lzfurniture:medievalroyal_dish"
+			"model": "lzfurniture:item/medievalroyal_dish"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 249
 			},
-			"model": "lzfurniture:medievalroyal_dish_fruits"
+			"model": "lzfurniture:item/medievalroyal_dish_fruits"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 250
 			},
-			"model": "lzfurniture:medievalroyal_shelf_small"
+			"model": "lzfurniture:item/medievalroyal_shelf_small"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 251
 			},
-			"model": "lzfurniture:medievalroyal_sofa"
+			"model": "lzfurniture:item/medievalroyal_sofa"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 252
 			},
-			"model": "lzfurniture:medievalroyal_sofa_big"
+			"model": "lzfurniture:item/medievalroyal_sofa_big"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 253
 			},
-			"model": "lzfurniture:medievalroyal_stool"
+			"model": "lzfurniture:item/medievalroyal_stool"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 254
 			},
-			"model": "lzfurniture:medievalroyal_table"
+			"model": "lzfurniture:item/medievalroyal_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 255
 			},
-			"model": "npc_village_pack:cooking_knives_2"
+			"model": "npc_village_pack:item/cooking_knives_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 256
 			},
-			"model": "npc_village_pack:cooking_knives_3"
+			"model": "npc_village_pack:item/cooking_knives_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 257
 			},
-			"model": "npc_village_pack:cooking_plate_1"
+			"model": "npc_village_pack:item/cooking_plate_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 258
 			},
-			"model": "npc_village_pack:cooking_plate_2_acacia"
+			"model": "npc_village_pack:item/cooking_plate_2_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 259
 			},
-			"model": "npc_village_pack:cooking_plate_2_birch"
+			"model": "npc_village_pack:item/cooking_plate_2_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 260
 			},
-			"model": "npc_village_pack:cooking_plate_2_crimson"
+			"model": "npc_village_pack:item/cooking_plate_2_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 261
 			},
-			"model": "npc_village_pack:cooking_plate_2_dark_oak"
+			"model": "npc_village_pack:item/cooking_plate_2_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 262
 			},
-			"model": "npc_village_pack:cooking_plate_2_default"
+			"model": "npc_village_pack:item/cooking_plate_2_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 263
 			},
-			"model": "npc_village_pack:cooking_plate_2_jungle"
+			"model": "npc_village_pack:item/cooking_plate_2_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 264
 			},
-			"model": "npc_village_pack:cooking_plate_2_oak"
+			"model": "npc_village_pack:item/cooking_plate_2_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 265
 			},
-			"model": "npc_village_pack:cooking_plate_2_spruce"
+			"model": "npc_village_pack:item/cooking_plate_2_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 266
 			},
-			"model": "npc_village_pack:cooking_plate_2_warped"
+			"model": "npc_village_pack:item/cooking_plate_2_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 267
 			},
-			"model": "npc_village_pack:food_bread_1"
+			"model": "npc_village_pack:item/food_bread_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 268
 			},
-			"model": "npc_village_pack:food_bread_2"
+			"model": "npc_village_pack:item/food_bread_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 269
 			},
-			"model": "npc_village_pack:food_carrots_1"
+			"model": "npc_village_pack:item/food_carrots_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 270
 			},
-			"model": "npc_village_pack:food_crate_empty_acacia"
+			"model": "npc_village_pack:item/food_crate_empty_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 271
 			},
-			"model": "npc_village_pack:food_crate_empty_birch"
+			"model": "npc_village_pack:item/food_crate_empty_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 272
 			},
-			"model": "npc_village_pack:food_crate_empty_crimson"
+			"model": "npc_village_pack:item/food_crate_empty_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 273
 			},
-			"model": "npc_village_pack:food_crate_empty_dark_oak"
+			"model": "npc_village_pack:item/food_crate_empty_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 274
 			},
-			"model": "npc_village_pack:food_crate_empty_default"
+			"model": "npc_village_pack:item/food_crate_empty_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 275
 			},
-			"model": "npc_village_pack:food_crate_empty_jungle"
+			"model": "npc_village_pack:item/food_crate_empty_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 276
 			},
-			"model": "npc_village_pack:food_crate_empty_oak"
+			"model": "npc_village_pack:item/food_crate_empty_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 277
 			},
-			"model": "npc_village_pack:food_crate_empty_spruce"
+			"model": "npc_village_pack:item/food_crate_empty_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 278
 			},
-			"model": "npc_village_pack:food_crate_empty_warped"
+			"model": "npc_village_pack:item/food_crate_empty_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 279
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_acacia"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 280
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_birch"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 281
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_crimson"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 282
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_dark_oak"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 283
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_default"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 284
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_jungle"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 285
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_oak"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 286
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_spruce"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 287
 			},
-			"model": "npc_village_pack:food_crate_enchanted_golden_apples_warped"
+			"model": "npc_village_pack:item/food_crate_enchanted_golden_apples_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 288
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_acacia"
+			"model": "npc_village_pack:item/food_crate_golden_apples_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 289
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_birch"
+			"model": "npc_village_pack:item/food_crate_golden_apples_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 290
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_crimson"
+			"model": "npc_village_pack:item/food_crate_golden_apples_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 291
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_dark_oak"
+			"model": "npc_village_pack:item/food_crate_golden_apples_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 292
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_default"
+			"model": "npc_village_pack:item/food_crate_golden_apples_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 293
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_jungle"
+			"model": "npc_village_pack:item/food_crate_golden_apples_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 294
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_oak"
+			"model": "npc_village_pack:item/food_crate_golden_apples_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 295
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_spruce"
+			"model": "npc_village_pack:item/food_crate_golden_apples_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 296
 			},
-			"model": "npc_village_pack:food_crate_golden_apples_warped"
+			"model": "npc_village_pack:item/food_crate_golden_apples_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 297
 			},
-			"model": "npc_village_pack:food_crate_green_apples_acacia"
+			"model": "npc_village_pack:item/food_crate_green_apples_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 298
 			},
-			"model": "npc_village_pack:food_crate_green_apples_birch"
+			"model": "npc_village_pack:item/food_crate_green_apples_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 299
 			},
-			"model": "npc_village_pack:food_crate_green_apples_crimson"
+			"model": "npc_village_pack:item/food_crate_green_apples_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 300
 			},
-			"model": "npc_village_pack:food_crate_green_apples_dark_oak"
+			"model": "npc_village_pack:item/food_crate_green_apples_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 301
 			},
-			"model": "npc_village_pack:food_crate_green_apples_default"
+			"model": "npc_village_pack:item/food_crate_green_apples_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 302
 			},
-			"model": "npc_village_pack:food_crate_green_apples_jungle"
+			"model": "npc_village_pack:item/food_crate_green_apples_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 303
 			},
-			"model": "npc_village_pack:food_crate_green_apples_oak"
+			"model": "npc_village_pack:item/food_crate_green_apples_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 304
 			},
-			"model": "npc_village_pack:food_crate_green_apples_spruce"
+			"model": "npc_village_pack:item/food_crate_green_apples_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 305
 			},
-			"model": "npc_village_pack:food_crate_green_apples_warped"
+			"model": "npc_village_pack:item/food_crate_green_apples_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 306
 			},
-			"model": "npc_village_pack:food_crate_melons_acacia"
+			"model": "npc_village_pack:item/food_crate_melons_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 307
 			},
-			"model": "npc_village_pack:food_crate_melons_birch"
+			"model": "npc_village_pack:item/food_crate_melons_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 308
 			},
-			"model": "npc_village_pack:food_crate_melons_crimson"
+			"model": "npc_village_pack:item/food_crate_melons_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 309
 			},
-			"model": "npc_village_pack:food_crate_melons_dark_oak"
+			"model": "npc_village_pack:item/food_crate_melons_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 310
 			},
-			"model": "npc_village_pack:food_crate_melons_default"
+			"model": "npc_village_pack:item/food_crate_melons_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 311
 			},
-			"model": "npc_village_pack:food_crate_melons_jungle"
+			"model": "npc_village_pack:item/food_crate_melons_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 312
 			},
-			"model": "npc_village_pack:food_crate_melons_oak"
+			"model": "npc_village_pack:item/food_crate_melons_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 313
 			},
-			"model": "npc_village_pack:food_crate_melons_spruce"
+			"model": "npc_village_pack:item/food_crate_melons_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 314
 			},
-			"model": "npc_village_pack:food_crate_melons_warped"
+			"model": "npc_village_pack:item/food_crate_melons_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 315
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_acacia"
+			"model": "npc_village_pack:item/food_crate_pumpkins_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 316
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_birch"
+			"model": "npc_village_pack:item/food_crate_pumpkins_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 317
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_crimson"
+			"model": "npc_village_pack:item/food_crate_pumpkins_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 318
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_dark_oak"
+			"model": "npc_village_pack:item/food_crate_pumpkins_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 319
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_default"
+			"model": "npc_village_pack:item/food_crate_pumpkins_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_jungle"
+			"model": "npc_village_pack:item/food_crate_pumpkins_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 321
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_oak"
+			"model": "npc_village_pack:item/food_crate_pumpkins_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 322
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_spruce"
+			"model": "npc_village_pack:item/food_crate_pumpkins_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 323
 			},
-			"model": "npc_village_pack:food_crate_pumpkins_warped"
+			"model": "npc_village_pack:item/food_crate_pumpkins_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 324
 			},
-			"model": "npc_village_pack:food_crate_red_apples_acacia"
+			"model": "npc_village_pack:item/food_crate_red_apples_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 325
 			},
-			"model": "npc_village_pack:food_crate_red_apples_birch"
+			"model": "npc_village_pack:item/food_crate_red_apples_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 326
 			},
-			"model": "npc_village_pack:food_crate_red_apples_crimson"
+			"model": "npc_village_pack:item/food_crate_red_apples_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 327
 			},
-			"model": "npc_village_pack:food_crate_red_apples_dark_oak"
+			"model": "npc_village_pack:item/food_crate_red_apples_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 328
 			},
-			"model": "npc_village_pack:food_crate_red_apples_default"
+			"model": "npc_village_pack:item/food_crate_red_apples_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 329
 			},
-			"model": "npc_village_pack:food_crate_red_apples_jungle"
+			"model": "npc_village_pack:item/food_crate_red_apples_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 330
 			},
-			"model": "npc_village_pack:food_crate_red_apples_oak"
+			"model": "npc_village_pack:item/food_crate_red_apples_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 331
 			},
-			"model": "npc_village_pack:food_crate_red_apples_spruce"
+			"model": "npc_village_pack:item/food_crate_red_apples_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 332
 			},
-			"model": "npc_village_pack:food_crate_red_apples_warped"
+			"model": "npc_village_pack:item/food_crate_red_apples_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 333
 			},
-			"model": "npc_village_pack:food_enchanted_golden_apples_1"
+			"model": "npc_village_pack:item/food_enchanted_golden_apples_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 334
 			},
-			"model": "npc_village_pack:food_enchanted_golden_apples_2"
+			"model": "npc_village_pack:item/food_enchanted_golden_apples_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 335
 			},
-			"model": "npc_village_pack:food_enchanted_golden_apples_3"
+			"model": "npc_village_pack:item/food_enchanted_golden_apples_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 336
 			},
-			"model": "npc_village_pack:food_golden_apples_1"
+			"model": "npc_village_pack:item/food_golden_apples_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 337
 			},
-			"model": "npc_village_pack:food_golden_apples_2"
+			"model": "npc_village_pack:item/food_golden_apples_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 338
 			},
-			"model": "npc_village_pack:food_golden_apples_3"
+			"model": "npc_village_pack:item/food_golden_apples_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 339
 			},
-			"model": "npc_village_pack:food_golden_carrots_1"
+			"model": "npc_village_pack:item/food_golden_carrots_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 340
 			},
-			"model": "npc_village_pack:food_green_apples_1"
+			"model": "npc_village_pack:item/food_green_apples_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 341
 			},
-			"model": "npc_village_pack:food_green_apples_2"
+			"model": "npc_village_pack:item/food_green_apples_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 342
 			},
-			"model": "npc_village_pack:food_melons_1"
+			"model": "npc_village_pack:item/food_melons_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 343
 			},
-			"model": "npc_village_pack:food_potatoes_1"
+			"model": "npc_village_pack:item/food_potatoes_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 344
 			},
-			"model": "npc_village_pack:food_pumpkins_1"
+			"model": "npc_village_pack:item/food_pumpkins_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 345
 			},
-			"model": "npc_village_pack:food_red_apples_1"
+			"model": "npc_village_pack:item/food_red_apples_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 346
 			},
-			"model": "npc_village_pack:food_red_apples_2"
+			"model": "npc_village_pack:item/food_red_apples_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 347
 			},
-			"model": "npc_village_pack:furniture_basket_1"
+			"model": "npc_village_pack:item/furniture_basket_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 348
 			},
-			"model": "npc_village_pack:furniture_basket_2"
+			"model": "npc_village_pack:item/furniture_basket_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 349
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_acacia"
+			"model": "npc_village_pack:item/furniture_chair_long_1_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_birch"
+			"model": "npc_village_pack:item/furniture_chair_long_1_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 351
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_crimson"
+			"model": "npc_village_pack:item/furniture_chair_long_1_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 352
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_dark_oak"
+			"model": "npc_village_pack:item/furniture_chair_long_1_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 353
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_default"
+			"model": "npc_village_pack:item/furniture_chair_long_1_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 354
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_jungle"
+			"model": "npc_village_pack:item/furniture_chair_long_1_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 355
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_oak"
+			"model": "npc_village_pack:item/furniture_chair_long_1_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 356
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_spruce"
+			"model": "npc_village_pack:item/furniture_chair_long_1_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 357
 			},
-			"model": "npc_village_pack:furniture_chair_long_1_warped"
+			"model": "npc_village_pack:item/furniture_chair_long_1_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 358
 			},
-			"model": "npc_village_pack:furniture_crate_closed_acacia"
+			"model": "npc_village_pack:item/furniture_crate_closed_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 359
 			},
-			"model": "npc_village_pack:furniture_crate_closed_birch"
+			"model": "npc_village_pack:item/furniture_crate_closed_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 360
 			},
-			"model": "npc_village_pack:furniture_crate_closed_crimson"
+			"model": "npc_village_pack:item/furniture_crate_closed_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 361
 			},
-			"model": "npc_village_pack:furniture_crate_closed_dark_oak"
+			"model": "npc_village_pack:item/furniture_crate_closed_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 362
 			},
-			"model": "npc_village_pack:furniture_crate_closed_default"
+			"model": "npc_village_pack:item/furniture_crate_closed_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 363
 			},
-			"model": "npc_village_pack:furniture_crate_closed_jungle"
+			"model": "npc_village_pack:item/furniture_crate_closed_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 364
 			},
-			"model": "npc_village_pack:furniture_crate_closed_oak"
+			"model": "npc_village_pack:item/furniture_crate_closed_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 365
 			},
-			"model": "npc_village_pack:furniture_crate_closed_spruce"
+			"model": "npc_village_pack:item/furniture_crate_closed_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 366
 			},
-			"model": "npc_village_pack:furniture_crate_closed_warped"
+			"model": "npc_village_pack:item/furniture_crate_closed_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 367
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_acacia"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 368
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_birch"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 369
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_crimson"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 370
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_dark_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 371
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_default"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 372
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_jungle"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 373
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 374
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_spruce"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 375
 			},
-			"model": "npc_village_pack:furniture_crate_open_carrots_warped"
+			"model": "npc_village_pack:item/furniture_crate_open_carrots_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 376
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_acacia"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 377
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_birch"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 378
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_crimson"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 379
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_dark_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 380
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_default"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 381
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_jungle"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 382
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 383
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_spruce"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 384
 			},
-			"model": "npc_village_pack:furniture_crate_open_empty_warped"
+			"model": "npc_village_pack:item/furniture_crate_open_empty_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 385
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_acacia"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 386
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_birch"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 387
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_crimson"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 388
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_dark_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 389
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_default"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 390
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_jungle"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 391
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 392
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_spruce"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 393
 			},
-			"model": "npc_village_pack:furniture_crate_open_golden_carrots_warped"
+			"model": "npc_village_pack:item/furniture_crate_open_golden_carrots_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 394
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_acacia"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 395
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_birch"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 396
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_crimson"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 397
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_dark_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 398
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_default"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 399
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_jungle"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 400
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_oak"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 401
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_spruce"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 402
 			},
-			"model": "npc_village_pack:furniture_crate_open_potatoes_warped"
+			"model": "npc_village_pack:item/furniture_crate_open_potatoes_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 403
 			},
-			"model": "npc_village_pack:furniture_table_1_acacia"
+			"model": "npc_village_pack:item/furniture_table_1_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 404
 			},
-			"model": "npc_village_pack:furniture_table_1_birch"
+			"model": "npc_village_pack:item/furniture_table_1_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 405
 			},
-			"model": "npc_village_pack:furniture_table_1_crimson"
+			"model": "npc_village_pack:item/furniture_table_1_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 406
 			},
-			"model": "npc_village_pack:furniture_table_1_dark_oak"
+			"model": "npc_village_pack:item/furniture_table_1_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 407
 			},
-			"model": "npc_village_pack:furniture_table_1_default"
+			"model": "npc_village_pack:item/furniture_table_1_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 408
 			},
-			"model": "npc_village_pack:furniture_table_1_jungle"
+			"model": "npc_village_pack:item/furniture_table_1_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 409
 			},
-			"model": "npc_village_pack:furniture_table_1_oak"
+			"model": "npc_village_pack:item/furniture_table_1_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 410
 			},
-			"model": "npc_village_pack:furniture_table_1_spruce"
+			"model": "npc_village_pack:item/furniture_table_1_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 411
 			},
-			"model": "npc_village_pack:furniture_table_1_warped"
+			"model": "npc_village_pack:item/furniture_table_1_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 412
 			},
-			"model": "npc_village_pack:furniture_table_2_acacia"
+			"model": "npc_village_pack:item/furniture_table_2_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 413
 			},
-			"model": "npc_village_pack:furniture_table_2_birch"
+			"model": "npc_village_pack:item/furniture_table_2_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 414
 			},
-			"model": "npc_village_pack:furniture_table_2_crimson"
+			"model": "npc_village_pack:item/furniture_table_2_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 415
 			},
-			"model": "npc_village_pack:furniture_table_2_dark_oak"
+			"model": "npc_village_pack:item/furniture_table_2_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 416
 			},
-			"model": "npc_village_pack:furniture_table_2_default"
+			"model": "npc_village_pack:item/furniture_table_2_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 417
 			},
-			"model": "npc_village_pack:furniture_table_2_jungle"
+			"model": "npc_village_pack:item/furniture_table_2_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 418
 			},
-			"model": "npc_village_pack:furniture_table_2_oak"
+			"model": "npc_village_pack:item/furniture_table_2_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 419
 			},
-			"model": "npc_village_pack:furniture_table_2_spruce"
+			"model": "npc_village_pack:item/furniture_table_2_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 420
 			},
-			"model": "npc_village_pack:furniture_table_2_warped"
+			"model": "npc_village_pack:item/furniture_table_2_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 421
 			},
-			"model": "npc_village_pack:house_cart_1_acacia"
+			"model": "npc_village_pack:item/house_cart_1_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 422
 			},
-			"model": "npc_village_pack:house_cart_1_birch"
+			"model": "npc_village_pack:item/house_cart_1_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 423
 			},
-			"model": "npc_village_pack:house_cart_1_crimson"
+			"model": "npc_village_pack:item/house_cart_1_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 424
 			},
-			"model": "npc_village_pack:house_cart_1_dark_oak"
+			"model": "npc_village_pack:item/house_cart_1_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 425
 			},
-			"model": "npc_village_pack:house_cart_1_default"
+			"model": "npc_village_pack:item/house_cart_1_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 426
 			},
-			"model": "npc_village_pack:house_cart_1_jungle"
+			"model": "npc_village_pack:item/house_cart_1_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 427
 			},
-			"model": "npc_village_pack:house_cart_1_oak"
+			"model": "npc_village_pack:item/house_cart_1_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 428
 			},
-			"model": "npc_village_pack:house_cart_1_spruce"
+			"model": "npc_village_pack:item/house_cart_1_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 429
 			},
-			"model": "npc_village_pack:house_cart_1_warped"
+			"model": "npc_village_pack:item/house_cart_1_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 430
 			},
-			"model": "npc_village_pack:house_cart_2_acacia"
+			"model": "npc_village_pack:item/house_cart_2_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 431
 			},
-			"model": "npc_village_pack:house_cart_2_birch"
+			"model": "npc_village_pack:item/house_cart_2_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 432
 			},
-			"model": "npc_village_pack:house_cart_2_crimson"
+			"model": "npc_village_pack:item/house_cart_2_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 433
 			},
-			"model": "npc_village_pack:house_cart_2_dark_oak"
+			"model": "npc_village_pack:item/house_cart_2_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 434
 			},
-			"model": "npc_village_pack:house_cart_2_default"
+			"model": "npc_village_pack:item/house_cart_2_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 435
 			},
-			"model": "npc_village_pack:house_cart_2_jungle"
+			"model": "npc_village_pack:item/house_cart_2_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 436
 			},
-			"model": "npc_village_pack:house_cart_2_oak"
+			"model": "npc_village_pack:item/house_cart_2_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 437
 			},
-			"model": "npc_village_pack:house_cart_2_spruce"
+			"model": "npc_village_pack:item/house_cart_2_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 438
 			},
-			"model": "npc_village_pack:house_cart_2_warped"
+			"model": "npc_village_pack:item/house_cart_2_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 439
 			},
-			"model": "npc_village_pack:house_mailbox_acacia"
+			"model": "npc_village_pack:item/house_mailbox_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 440
 			},
-			"model": "npc_village_pack:house_mailbox_birch"
+			"model": "npc_village_pack:item/house_mailbox_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 441
 			},
-			"model": "npc_village_pack:house_mailbox_crimson"
+			"model": "npc_village_pack:item/house_mailbox_crimson"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 442
 			},
-			"model": "npc_village_pack:house_mailbox_dark_oak"
+			"model": "npc_village_pack:item/house_mailbox_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 443
 			},
-			"model": "npc_village_pack:house_mailbox_default"
+			"model": "npc_village_pack:item/house_mailbox_default"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 444
 			},
-			"model": "npc_village_pack:house_mailbox_jungle"
+			"model": "npc_village_pack:item/house_mailbox_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 445
 			},
-			"model": "npc_village_pack:house_mailbox_oak"
+			"model": "npc_village_pack:item/house_mailbox_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 446
 			},
-			"model": "npc_village_pack:house_mailbox_spruce"
+			"model": "npc_village_pack:item/house_mailbox_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 447
 			},
-			"model": "npc_village_pack:house_mailbox_warped"
+			"model": "npc_village_pack:item/house_mailbox_warped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 448
 			},
-			"model": "npc_village_pack:cooking_cauldron_1_empty"
+			"model": "npc_village_pack:item/cooking_cauldron_1_empty"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 449
 			},
-			"model": "npc_village_pack:cooking_cauldron_1_water"
+			"model": "npc_village_pack:item/cooking_cauldron_1_water"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 450
 			},
-			"model": "npc_village_pack:cooking_cauldron_1_witch"
+			"model": "npc_village_pack:item/cooking_cauldron_1_witch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 451
 			},
-			"model": "npc_village_pack:cooking_knives_1"
+			"model": "npc_village_pack:item/cooking_knives_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 452
 			},
-			"model": "medieval_pack_v2:medievalroyal_carpet"
+			"model": "medieval_pack_v2:item/medievalroyal_carpet"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 453
 			},
-			"model": "medieval_pack_v2:medievalroyal_chandelier"
+			"model": "medieval_pack_v2:item/medievalroyal_chandelier"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 454
 			},
-			"model": "medieval_pack_v2:medievalroyal_mirror"
+			"model": "medieval_pack_v2:item/medievalroyal_mirror"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 455
 			},
-			"model": "medieval_pack_v2:medievalroyal_painting_2x1"
+			"model": "medieval_pack_v2:item/medievalroyal_painting_2x1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 456
 			},
-			"model": "medieval_pack_v2:medievalroyal_painting_3x2"
+			"model": "medieval_pack_v2:item/medievalroyal_painting_3x2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 457
 			},
-			"model": "medieval_pack_v2:medievalroyal_pillow"
+			"model": "medieval_pack_v2:item/medievalroyal_pillow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 458
 			},
-			"model": "medieval_pack_v2:medievalroyal_tablecandleholder"
+			"model": "medieval_pack_v2:item/medievalroyal_tablecandleholder"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 459
 			},
-			"model": "medieval_pack_v2:medievalroyal_throne"
+			"model": "medieval_pack_v2:item/medievalroyal_throne"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 460
 			},
-			"model": "medieval_pack_v2:medievalroyal_torch"
+			"model": "medieval_pack_v2:item/medievalroyal_torch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 461
 			},
-			"model": "medieval_pack_v2:medievalroyal_bed"
+			"model": "medieval_pack_v2:item/medievalroyal_bed"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 462
 			},
-			"model": "skycore:sky"
+			"model": "skycore:item/models/sky"
 		},
 		{
 			"predicate": {
@@ -2792,691 +2792,691 @@
 			"predicate": {
 				"custom_model_data": 464
 			},
-			"model": "plants_furniture_pack:plants_big_monstera"
+			"model": "plants_furniture_pack:item/plants_big_monstera"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 465
 			},
-			"model": "plants_furniture_pack:plants_big_sagopalm"
+			"model": "plants_furniture_pack:item/plants_big_sagopalm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 466
 			},
-			"model": "plants_furniture_pack:plants_bigbox_tulips"
+			"model": "plants_furniture_pack:item/plants_bigbox_tulips"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 467
 			},
-			"model": "plants_furniture_pack:plants_bigbox_violets"
+			"model": "plants_furniture_pack:item/plants_bigbox_violets"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 468
 			},
-			"model": "plants_furniture_pack:plants_box_tulips"
+			"model": "plants_furniture_pack:item/plants_box_tulips"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 469
 			},
-			"model": "plants_furniture_pack:plants_box_violets"
+			"model": "plants_furniture_pack:item/plants_box_violets"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 470
 			},
-			"model": "plants_furniture_pack:plants_hanging_daisy"
+			"model": "plants_furniture_pack:item/plants_hanging_daisy"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 471
 			},
-			"model": "plants_furniture_pack:plants_hanging_pothos"
+			"model": "plants_furniture_pack:item/plants_hanging_pothos"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 472
 			},
-			"model": "plants_furniture_pack:plants_small_aralia"
+			"model": "plants_furniture_pack:item/plants_small_aralia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 473
 			},
-			"model": "plants_furniture_pack:plants_small_fir"
+			"model": "plants_furniture_pack:item/plants_small_fir"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 474
 			},
-			"model": "plants_furniture_pack:plants_small_tulip"
+			"model": "plants_furniture_pack:item/plants_small_tulip"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 475
 			},
-			"model": "plants_furniture_pack:plants_small_violet"
+			"model": "plants_furniture_pack:item/plants_small_violet"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 476
 			},
-			"model": "plants_furniture_pack:plants_vines_flowering"
+			"model": "plants_furniture_pack:item/plants_vines_flowering"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 477
 			},
-			"model": "plants_furniture_pack:plants_big_bonsai"
+			"model": "plants_furniture_pack:item/plants_big_bonsai"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 478
 			},
-			"model": "plants_furniture_pack:plants_big_bowhemp"
+			"model": "plants_furniture_pack:item/plants_big_bowhemp"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 479
 			},
-			"model": "plants_furniture_pack:plants_big_cactus"
+			"model": "plants_furniture_pack:item/plants_big_cactus"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 480
 			},
-			"model": "plants_furniture_pack:plants_big_ficustree"
+			"model": "plants_furniture_pack:item/plants_big_ficustree"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 481
 			},
-			"model": "plants_furniture_pack:plants_big_fiddleleaffig"
+			"model": "plants_furniture_pack:item/plants_big_fiddleleaffig"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 482
 			},
-			"model": "plants_furniture_pack:plants_big_fir"
+			"model": "plants_furniture_pack:item/plants_big_fir"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 483
 			},
-			"model": "medieval_pack:jungle_table_v2"
+			"model": "medieval_pack:item/jungle_table_v2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 484
 			},
-			"model": "summer_001:oak3"
+			"model": "summer_001:item/oak3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 485
 			},
-			"model": "summer_001:oakchair"
+			"model": "summer_001:item/oakchair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 486
 			},
-			"model": "summer_001:oakchair2"
+			"model": "summer_001:item/oakchair2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 487
 			},
-			"model": "summer_001:oakchair3"
+			"model": "summer_001:item/oakchair3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 488
 			},
-			"model": "summer_001:oakchair4"
+			"model": "summer_001:item/oakchair4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 489
 			},
-			"model": "summer_001:oakchair5"
+			"model": "summer_001:item/oakchair5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 490
 			},
-			"model": "summer_001:oakfench"
+			"model": "summer_001:item/oakfench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 491
 			},
-			"model": "summer_001:oaklog"
+			"model": "summer_001:item/oaklog"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 492
 			},
-			"model": "summer_001:oakminilog"
+			"model": "summer_001:item/oakminilog"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 493
 			},
-			"model": "summer_001:oakplank"
+			"model": "summer_001:item/oakplank"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 494
 			},
-			"model": "summer_001:oakplant"
+			"model": "summer_001:item/oakplant"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 495
 			},
-			"model": "summer_001:oakplant2"
+			"model": "summer_001:item/oakplant2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 496
 			},
-			"model": "summer_001:oakstick"
+			"model": "summer_001:item/oakstick"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 497
 			},
-			"model": "summer_001:oaktree"
+			"model": "summer_001:item/oaktree"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 498
 			},
-			"model": "summer_001:oaktree2"
+			"model": "summer_001:item/oaktree2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 499
 			},
-			"model": "summer_001:oaktree3"
+			"model": "summer_001:item/oaktree3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 500
 			},
-			"model": "skycore:alchemist_bench"
+			"model": "skycore:item/models/alchemist_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 501
 			},
-			"model": "skycore:architect_bench"
+			"model": "skycore:item/models/architect_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 502
 			},
-			"model": "skycore:armorsmithing_bench"
+			"model": "skycore:item/models/armorsmithing_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 503
 			},
-			"model": "skycore:cooking_bench"
+			"model": "skycore:item/models/cooking_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 504
 			},
-			"model": "skycore:jewelry_bench"
+			"model": "skycore:item/models/jewelry_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 505
 			},
-			"model": "skycore:ranger_bench"
+			"model": "skycore:item/models/ranger_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 506
 			},
-			"model": "skycore:weaponsmithing_bench"
+			"model": "skycore:item/models/weaponsmithing_bench"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 507
 			},
-			"model": "summer_001:scarecrow"
+			"model": "summer_001:item/scarecrow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 508
 			},
-			"model": "summer_001:scarecrow2"
+			"model": "summer_001:item/scarecrow2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 509
 			},
-			"model": "summer_001:stone"
+			"model": "summer_001:item/stone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 510
 			},
-			"model": "summer_001:stone2"
+			"model": "summer_001:item/stone2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 511
 			},
-			"model": "summer_001:stone3"
+			"model": "summer_001:item/stone3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 512
 			},
-			"model": "summer_001:frog"
+			"model": "summer_001:item/frog"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 513
 			},
-			"model": "summer_001:oak"
+			"model": "summer_001:item/oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 514
 			},
-			"model": "summer_001:oak2"
+			"model": "summer_001:item/oak2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 515
 			},
-			"model": "skycore:small_table"
+			"model": "skycore:item/models/small_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 516
 			},
-			"model": "skycore:cauldron_green"
+			"model": "skycore:item/models/cauldron_green"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 517
 			},
-			"model": "skycore:alchemist_bench_2"
+			"model": "skycore:item/models/alchemist_bench_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 518
 			},
-			"model": "skycore:iron_fence"
+			"model": "skycore:item/models/iron_fence"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 604
 			},
-			"model": "skycore:ackerweg_1"
+			"model": "skycore:item/models/ackerweg_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 605
 			},
-			"model": "skycore:ackerweg_2"
+			"model": "skycore:item/models/ackerweg_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 606
 			},
-			"model": "skycore:ackerweg_3"
+			"model": "skycore:item/models/ackerweg_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 607
 			},
-			"model": "skycore:ackerweg_4"
+			"model": "skycore:item/models/ackerweg_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 608
 			},
-			"model": "skycore:leaf_carpet_yellow"
+			"model": "skycore:item/models/leaf_carpet_yellow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 609
 			},
-			"model": "skycore:leave_block_acacia"
+			"model": "skycore:item/models/leave_block_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 610
 			},
-			"model": "skycore:leave_block_azalea"
+			"model": "skycore:item/models/leave_block_azalea"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 611
 			},
-			"model": "skycore:leave_block_birch"
+			"model": "skycore:item/models/leave_block_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 612
 			},
-			"model": "skycore:leave_block_cherry"
+			"model": "skycore:item/models/leave_block_cherry"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 613
 			},
-			"model": "skycore:leave_block_cherry_2"
+			"model": "skycore:item/models/leave_block_cherry_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 614
 			},
-			"model": "skycore:leave_block_dark_oak"
+			"model": "skycore:item/models/leave_block_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 615
 			},
-			"model": "skycore:leave_block_jungle"
+			"model": "skycore:item/models/leave_block_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 616
 			},
-			"model": "skycore:leave_block_oak"
+			"model": "skycore:item/models/leave_block_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 617
 			},
-			"model": "skycore:leave_block_spruce"
+			"model": "skycore:item/models/leave_block_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 618
 			},
-			"model": "skycore:leave_block_yellow"
+			"model": "skycore:item/models/leave_block_yellow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 619
 			},
-			"model": "skycore:lotus_1"
+			"model": "skycore:item/models/lotus_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 620
 			},
-			"model": "skycore:lotus_2"
+			"model": "skycore:item/models/lotus_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 621
 			},
-			"model": "skycore:lotus_3"
+			"model": "skycore:item/models/lotus_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 622
 			},
-			"model": "skycore:orange_tree_stage1"
+			"model": "skycore:item/models/orange_tree_stage1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 623
 			},
-			"model": "skycore:orange_tree_stage2"
+			"model": "skycore:item/models/orange_tree_stage2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 624
 			},
-			"model": "skycore:pepper_stage_1"
+			"model": "skycore:item/models/pepper_stage_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 625
 			},
-			"model": "skycore:pepper_stage_2"
+			"model": "skycore:item/models/pepper_stage_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 626
 			},
-			"model": "skycore:pepper_stage_3"
+			"model": "skycore:item/models/pepper_stage_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 627
 			},
-			"model": "skycore:rock_1"
+			"model": "skycore:item/models/rock_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 628
 			},
-			"model": "skycore:rock_2"
+			"model": "skycore:item/models/rock_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 629
 			},
-			"model": "skycore:rock_3"
+			"model": "skycore:item/models/rock_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 630
 			},
-			"model": "skycore:rock_4"
+			"model": "skycore:item/models/rock_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 631
 			},
-			"model": "skycore:rock_5"
+			"model": "skycore:item/models/rock_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 632
 			},
-			"model": "skycore:rock_6"
+			"model": "skycore:item/models/rock_6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 633
 			},
-			"model": "skycore:rock_7"
+			"model": "skycore:item/models/rock_7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 634
 			},
-			"model": "skycore:rock_8"
+			"model": "skycore:item/models/rock_8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 635
 			},
-			"model": "skycore:seaweed_1"
+			"model": "skycore:item/models/seaweed_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 636
 			},
-			"model": "skycore:seaweed_2"
+			"model": "skycore:item/models/seaweed_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 637
 			},
-			"model": "skycore:seaweed_3"
+			"model": "skycore:item/models/seaweed_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 638
 			},
-			"model": "skycore:shroom_1"
+			"model": "skycore:item/models/shroom_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 639
 			},
-			"model": "skycore:shroom_2"
+			"model": "skycore:item/models/shroom_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 640
 			},
-			"model": "skycore:shroom_3"
+			"model": "skycore:item/models/shroom_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 641
 			},
-			"model": "skycore:shroom_4"
+			"model": "skycore:item/models/shroom_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 642
 			},
-			"model": "skycore:shroom_5"
+			"model": "skycore:item/models/shroom_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 643
 			},
-			"model": "skycore:shroom_6"
+			"model": "skycore:item/models/shroom_6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 644
 			},
-			"model": "skycore:apple_tree_stage1"
+			"model": "skycore:item/models/apple_tree_stage1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 645
 			},
-			"model": "skycore:apple_tree_stage2"
+			"model": "skycore:item/models/apple_tree_stage2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 646
 			},
-			"model": "skycore:cactus_block_1"
+			"model": "skycore:item/models/cactus_block_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 647
 			},
-			"model": "skycore:cactus_block_2"
+			"model": "skycore:item/models/cactus_block_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 648
 			},
-			"model": "skycore:cactus_block_3"
+			"model": "skycore:item/models/cactus_block_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 649
 			},
-			"model": "skycore:cactus_block_4"
+			"model": "skycore:item/models/cactus_block_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 650
 			},
-			"model": "skycore:corn_stage_1"
+			"model": "skycore:item/models/corn_stage_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 651
 			},
-			"model": "skycore:corn_stage_2"
+			"model": "skycore:item/models/corn_stage_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 652
 			},
-			"model": "skycore:corn_stage_3"
+			"model": "skycore:item/models/corn_stage_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 653
 			},
-			"model": "skycore:corn_stage_4"
+			"model": "skycore:item/models/corn_stage_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 654
 			},
-			"model": "skycore:leaf_carpet_acacia"
+			"model": "skycore:item/models/leaf_carpet_acacia"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 655
 			},
-			"model": "skycore:leaf_carpet_azalea"
+			"model": "skycore:item/models/leaf_carpet_azalea"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 656
 			},
-			"model": "skycore:leaf_carpet_birch"
+			"model": "skycore:item/models/leaf_carpet_birch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 657
 			},
-			"model": "skycore:leaf_carpet_cherry"
+			"model": "skycore:item/models/leaf_carpet_cherry"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 658
 			},
-			"model": "skycore:leaf_carpet_dark_oak"
+			"model": "skycore:item/models/leaf_carpet_dark_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 659
 			},
-			"model": "skycore:leaf_carpet_jungle"
+			"model": "skycore:item/models/leaf_carpet_jungle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 660
 			},
-			"model": "skycore:leaf_carpet_oak"
+			"model": "skycore:item/models/leaf_carpet_oak"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 661
 			},
-			"model": "skycore:leaf_carpet_spruce"
+			"model": "skycore:item/models/leaf_carpet_spruce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 662
 			},
-			"model": "just_things:just_things_001"
+			"model": "just_things:item/just_things_001"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 663
 			},
-			"model": "just_things:just_things_002"
+			"model": "just_things:item/just_things_002"
 		},
 		{
 			"predicate": {
@@ -12398,541 +12398,541 @@
 			"predicate": {
 				"custom_model_data": 2150
 			},
-			"model": "goth_furniture:goth_dressing_table"
+			"model": "goth_furniture:item/goth_dressing_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2151
 			},
-			"model": "goth_furniture:goth_chandelier"
+			"model": "goth_furniture:item/goth_chandelier"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2152
 			},
-			"model": "goth_furniture:goth_crate"
+			"model": "goth_furniture:item/goth_crate"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2153
 			},
-			"model": "goth_furniture:goth_desk"
+			"model": "goth_furniture:item/goth_desk"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2154
 			},
-			"model": "goth_furniture:goth_dinner_table"
+			"model": "goth_furniture:item/goth_dinner_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2155
 			},
-			"model": "goth_furniture:goth_key"
+			"model": "goth_furniture:item/goth_key"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2156
 			},
-			"model": "goth_furniture:goth_lamp"
+			"model": "goth_furniture:item/goth_lamp"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2157
 			},
-			"model": "goth_furniture:goth_painting"
+			"model": "goth_furniture:item/goth_painting"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2158
 			},
-			"model": "goth_furniture:goth_painting_2"
+			"model": "goth_furniture:item/goth_painting_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2159
 			},
-			"model": "goth_furniture:goth_painting_3"
+			"model": "goth_furniture:item/goth_painting_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2160
 			},
-			"model": "goth_furniture:goth_poster"
+			"model": "goth_furniture:item/goth_poster"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2161
 			},
-			"model": "goth_furniture:goth_poster_2"
+			"model": "goth_furniture:item/goth_poster_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2162
 			},
-			"model": "goth_furniture:goth_shelf"
+			"model": "goth_furniture:item/goth_shelf"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2163
 			},
-			"model": "goth_furniture:goth_side_table"
+			"model": "goth_furniture:item/goth_side_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2164
 			},
-			"model": "goth_furniture:goth_table"
+			"model": "goth_furniture:item/goth_table"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2165
 			},
-			"model": "goth_furniture:goth_table_torch"
+			"model": "goth_furniture:item/goth_table_torch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2166
 			},
-			"model": "goth_furniture:goth_torch"
+			"model": "goth_furniture:item/goth_torch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2167
 			},
-			"model": "goth_furniture:goth_wardrobe"
+			"model": "goth_furniture:item/goth_wardrobe"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2168
 			},
-			"model": "goth_furniture:goth_armchair"
+			"model": "goth_furniture:item/goth_armchair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2169
 			},
-			"model": "goth_furniture:goth_chair"
+			"model": "goth_furniture:item/goth_chair"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2170
 			},
-			"model": "goth_furniture:goth_stool"
+			"model": "goth_furniture:item/goth_stool"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2171
 			},
-			"model": "goth_furniture:goth_couch"
+			"model": "goth_furniture:item/goth_couch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2172
 			},
-			"model": "goth_furniture:goth_curtains"
+			"model": "goth_furniture:item/goth_curtains"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2173
 			},
-			"model": "goth_furniture_v2:brazier"
+			"model": "goth_furniture_v2:item/brazier"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2174
 			},
-			"model": "goth_furniture_v2:ceiling_brazier"
+			"model": "goth_furniture_v2:item/ceiling_brazier"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2175
 			},
-			"model": "goth_furniture_v2:gargoyle"
+			"model": "goth_furniture_v2:item/gargoyle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2176
 			},
-			"model": "goth_furniture_v2:goth_bookshelf_filled"
+			"model": "goth_furniture_v2:item/goth_bookshelf_filled"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2177
 			},
-			"model": "goth_furniture_v2:goth_bookshelf"
+			"model": "goth_furniture_v2:item/goth_bookshelf"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2178
 			},
-			"model": "goth_furniture_v2:goth_mirror"
+			"model": "goth_furniture_v2:item/goth_mirror"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2179
 			},
-			"model": "goth_furniture_v2:goth_painting_4"
+			"model": "goth_furniture_v2:item/goth_painting_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2180
 			},
-			"model": "goth_furniture_v2:goth_painting_5"
+			"model": "goth_furniture_v2:item/goth_painting_5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2181
 			},
-			"model": "goth_furniture_v2:goth_statue_holding"
+			"model": "goth_furniture_v2:item/goth_statue_holding"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2182
 			},
-			"model": "goth_furniture_v2:goth_statue"
+			"model": "goth_furniture_v2:item/goth_statue"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2183
 			},
-			"model": "goth_furniture_v2:goth_bed"
+			"model": "goth_furniture_v2:item/goth_bed"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2184
 			},
-			"model": "goth_furniture_v2:goth_fancy_bed"
+			"model": "goth_furniture_v2:item/goth_fancy_bed"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2185
 			},
-			"model": "mini_dungeon_set:books"
+			"model": "mini_dungeon_set:item/books"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2186
 			},
-			"model": "mini_dungeon_set:candle_holder"
+			"model": "mini_dungeon_set:item/candle_holder"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2187
 			},
-			"model": "mini_dungeon_set:chest"
+			"model": "mini_dungeon_set:item/chest"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2188
 			},
-			"model": "mini_dungeon_set:flower_jar"
+			"model": "mini_dungeon_set:item/flower_jar"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2189
 			},
-			"model": "mini_dungeon_set:ink_and_pen"
+			"model": "mini_dungeon_set:item/ink_and_pen"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2190
 			},
-			"model": "forest_pack:leaf_blade"
+			"model": "forest_pack:item/leaf_blade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2191
 			},
-			"model": "forest_pack:staff_of_nature"
+			"model": "forest_pack:item/staff_of_nature"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2192
 			},
-			"model": "forest_pack:hardwood_bow"
+			"model": "forest_pack:item/hardwood_bow"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2193
 			},
-			"model": "forest_pack:acorn"
+			"model": "forest_pack:item/acorn"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2194
 			},
-			"model": "forest_pack:mushroom"
+			"model": "forest_pack:item/mushroom"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2195
 			},
-			"model": "forest_pack:stump"
+			"model": "forest_pack:item/stump"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320010
 			},
-			"model": "griims_deco_01:hanging_metal_rack"
+			"model": "griims_deco_01:item/hanging_metal_rack"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320011
 			},
-			"model": "griims_deco_01:hanging_metal_rack_g"
+			"model": "griims_deco_01:item/hanging_metal_rack_g"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320012
 			},
-			"model": "griims_deco_01:hanging_metal_rack_r"
+			"model": "griims_deco_01:item/hanging_metal_rack_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320013
 			},
-			"model": "griims_deco_01:campfire_roasting_spit"
+			"model": "griims_deco_01:item/campfire_roasting_spit"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 320014
 			},
-			"model": "griims_deco_01:wall_sconce_torch"
+			"model": "griims_deco_01:item/wall_sconce_torch"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350010
 			},
-			"model": "dungeon_decorations:caged_skeleton"
+			"model": "dungeon_decorations:item/caged_skeleton"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350011
 			},
-			"model": "dungeon_decorations:candle_holder"
+			"model": "dungeon_decorations:item/candle_holder"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350012
 			},
-			"model": "dungeon_decorations:candle_holder_wall"
+			"model": "dungeon_decorations:item/candle_holder_wall"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350013
 			},
-			"model": "dungeon_decorations:day_marks"
+			"model": "dungeon_decorations:item/day_marks"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350014
 			},
-			"model": "dungeon_decorations:dungeon_cage"
+			"model": "dungeon_decorations:item/dungeon_cage"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350015
 			},
-			"model": "dungeon_decorations:dungeon_pot"
+			"model": "dungeon_decorations:item/dungeon_pot"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350016
 			},
-			"model": "dungeon_decorations:dungeon_pots"
+			"model": "dungeon_decorations:item/dungeon_pots"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350017
 			},
-			"model": "dungeon_decorations:practice_target"
+			"model": "dungeon_decorations:item/practice_target"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350018
 			},
-			"model": "dungeon_decorations:skeleton_1"
+			"model": "dungeon_decorations:item/skeleton_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350019
 			},
-			"model": "dungeon_decorations:skeleton_2"
+			"model": "dungeon_decorations:item/skeleton_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350020
 			},
-			"model": "dungeon_decorations:skeleton_3"
+			"model": "dungeon_decorations:item/skeleton_3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350021
 			},
-			"model": "dungeon_decorations:skeleton_4"
+			"model": "dungeon_decorations:item/skeleton_4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350022
 			},
-			"model": "dungeon_decorations:tombstone"
+			"model": "dungeon_decorations:item/tombstone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350023
 			},
-			"model": "dungeon_decorations:tombstone_big"
+			"model": "dungeon_decorations:item/tombstone_big"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350024
 			},
-			"model": "dungeon_decorations:wall_fountain"
+			"model": "dungeon_decorations:item/wall_fountain"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350025
 			},
-			"model": "dungeon_decorations:wall_key"
+			"model": "dungeon_decorations:item/wall_key"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350026
 			},
-			"model": "dungeon_decorations:wall_shackle"
+			"model": "dungeon_decorations:item/wall_shackle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350027
 			},
-			"model": "dungeon_decorations:wall_shackle_bone"
+			"model": "dungeon_decorations:item/wall_shackle_bone"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350028
 			},
-			"model": "dungeon_decorations:metal_bar_copper"
+			"model": "dungeon_decorations:item/metal_bar_copper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350029
 			},
-			"model": "dungeon_decorations:metal_bar_iron"
+			"model": "dungeon_decorations:item/metal_bar_iron"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350030
 			},
-			"model": "dungeon_decorations:metal_bar_gold"
+			"model": "dungeon_decorations:item/metal_bar_gold"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350031
 			},
-			"model": "dungeon_decorations:metal_bar_netherite"
+			"model": "dungeon_decorations:item/metal_bar_netherite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350032
 			},
-			"model": "dungeon_decorations:metal_bars_stacked_copper"
+			"model": "dungeon_decorations:item/metal_bars_stacked_copper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350033
 			},
-			"model": "dungeon_decorations:metal_bars_stacked_iron"
+			"model": "dungeon_decorations:item/metal_bars_stacked_iron"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350034
 			},
-			"model": "dungeon_decorations:metal_bars_stacked_gold"
+			"model": "dungeon_decorations:item/metal_bars_stacked_gold"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350035
 			},
-			"model": "dungeon_decorations:metal_bars_stacked_netherite"
+			"model": "dungeon_decorations:item/metal_bars_stacked_netherite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350036
 			},
-			"model": "dungeon_decorations:dungeon_crate"
+			"model": "dungeon_decorations:item/dungeon_crate"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350037
 			},
-			"model": "dungeon_decorations:messy_metal_bars_copper"
+			"model": "dungeon_decorations:item/messy_metal_bars_copper"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350038
 			},
-			"model": "dungeon_decorations:messy_metal_bars_iron"
+			"model": "dungeon_decorations:item/messy_metal_bars_iron"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350039
 			},
-			"model": "dungeon_decorations:messy_metal_bars_gold"
+			"model": "dungeon_decorations:item/messy_metal_bars_gold"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350040
 			},
-			"model": "dungeon_decorations:messy_metal_bars_netherite"
+			"model": "dungeon_decorations:item/messy_metal_bars_netherite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350041
 			},
-			"model": "dungeon_decorations:dungeon_banner"
+			"model": "dungeon_decorations:item/dungeon_banner"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350042
 			},
-			"model": "dungeon_decorations:dungeon_banner_ripped"
+			"model": "dungeon_decorations:item/dungeon_banner_ripped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350043
 			},
-			"model": "dungeon_decorations:dungeon_triangle_banner"
+			"model": "dungeon_decorations:item/dungeon_triangle_banner"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350044
 			},
-			"model": "dungeon_decorations:dungeon_triangle_banner_ripped"
+			"model": "dungeon_decorations:item/dungeon_triangle_banner_ripped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350045
 			},
-			"model": "dungeon_decorations:dungeon_banner_flag"
+			"model": "dungeon_decorations:item/dungeon_banner_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350046
 			},
-			"model": "dungeon_decorations:dungeon_banner_flag_ripped"
+			"model": "dungeon_decorations:item/dungeon_banner_flag_ripped"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350047
 			},
-			"model": "dungeon_decorations:dungeon_triangle_banner_flag"
+			"model": "dungeon_decorations:item/dungeon_triangle_banner_flag"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 350048
 			},
-			"model": "dungeon_decorations:dungeon_triangle_banner_flag_ripped"
+			"model": "dungeon_decorations:item/dungeon_triangle_banner_flag_ripped"
 		}
 	]
 }

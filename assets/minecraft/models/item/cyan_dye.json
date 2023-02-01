@@ -8,55 +8,55 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "fantasy_backpacks:warrior_backpack"
+      "model": "fantasy_backpacks:item/warrior_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "fantasy_backpacks:antlers_backpack"
+      "model": "fantasy_backpacks:item/antlers_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "fantasy_backpacks:arcane_crystals"
+      "model": "fantasy_backpacks:item/arcane_crystals"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "fantasy_backpacks:angelic_backpack"
+      "model": "fantasy_backpacks:item/angelic_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "fantasy_backpacks:cultist_backpack"
+      "model": "fantasy_backpacks:item/cultist_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "fantasy_backpacks:demonic_whisper_backpack"
+      "model": "fantasy_backpacks:item/demonic_whisper_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "fantasy_backpacks:glutony_backpack"
+      "model": "fantasy_backpacks:item/glutony_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 8
       },
-      "model": "fantasy_backpacks:scroll_backpack"
+      "model": "fantasy_backpacks:item/scroll_backpack"
     },
     {
       "predicate": {
         "custom_model_data": 9
       },
-      "model": "fantasy_backpacks:sun_and_moon"
+      "model": "fantasy_backpacks:item/sun_and_moon"
     }
   ]
 }

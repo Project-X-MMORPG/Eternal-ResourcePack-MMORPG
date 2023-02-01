@@ -8,85 +8,85 @@
          "predicate":{
             "custom_model_data":1501
          },
-         "model":"mccosmetics:cosmetics/toffy_backpack"
+         "model":"mccosmetics:item/cosmetics/toffy_backpack"
       },
       {
          "predicate":{
             "custom_model_data":1502
          },
-         "model":"mccosmetics:cosmetics/nocsy_fruit_basket"
+         "model":"mccosmetics:item/cosmetics/nocsy_fruit_basket"
       },
       {
          "predicate":{
             "custom_model_data":1503
          },
-         "model":"mccosmetics:cosmetics/nocsy_warrior_belt"
+         "model":"mccosmetics:item/cosmetics/nocsy_warrior_belt"
       },
       {
          "predicate":{
             "custom_model_data":1504
          },
-         "model":"mccosmetics:cosmetics/bunny_backpack"
+         "model":"mccosmetics:item/cosmetics/bunny_backpack"
       },
       {
          "predicate":{
             "custom_model_data":1505
          },
-         "model":"mccosmetics:cosmetics/colorful_backpack"
+         "model":"mccosmetics:item/cosmetics/colorful_backpack"
       },
       {
          "predicate":{
             "custom_model_data":1507
          },
-         "model":"mccosmetics:cosmetics/mechanical_wings"
+         "model":"mccosmetics:item/cosmetics/mechanical_wings"
       },
       {
          "predicate":{
             "custom_model_data":1508
          },
-         "model":"mccosmetics:cosmetics/toffy_tophat"
+         "model":"mccosmetics:item/cosmetics/toffy_tophat"
       },
       {
          "predicate":{
             "custom_model_data":1509
          },
-         "model":"mccosmetics:cosmetics/toffy_anubismask"
+         "model":"mccosmetics:item/cosmetics/toffy_anubismask"
       },
       {
          "predicate":{
             "custom_model_data":1510
          },
-         "model":"mccosmetics:cosmetics/nocsy_pirate_hat"
+         "model":"mccosmetics:item/cosmetics/nocsy_pirate_hat"
       },
       {
          "predicate":{
             "custom_model_data":1511
          },
-         "model":"mccosmetics:cosmetics/shrek_ears"
+         "model":"mccosmetics:item/cosmetics/shrek_ears"
       },
       {
          "predicate":{
             "custom_model_data":1512
          },
-         "model":"mccosmetics:cosmetics/nocsy_jester_hat"
+         "model":"mccosmetics:item/cosmetics/nocsy_jester_hat"
       },
       {
          "predicate":{
             "custom_model_data":1513
          },
-         "model":"mccosmetics:cosmetics/toffy_lanternhat"
+         "model":"mccosmetics:item/cosmetics/toffy_lanternhat"
       },
       {
          "predicate":{
             "custom_model_data":1514
          },
-         "model":"mccosmetics:cosmetics/flame_fist"
+         "model":"mccosmetics:item/cosmetics/flame_fist"
       },
       {
          "predicate":{
             "custom_model_data":1515
          },
-         "model":"mccosmetics:cosmetics/golden_anvil_staff"
+         "model":"mccosmetics:item/cosmetics/golden_anvil_staff"
       }
    ]
 }

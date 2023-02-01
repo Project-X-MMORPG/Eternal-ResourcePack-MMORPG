@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "skycore:custom_gui/icons/1x1_button_shrine_unlocked"
-    }
-
-}
