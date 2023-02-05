@@ -1,6 +1,5 @@
 ﻿{
 	"credit": "Made with Blockbench",
-	"parent": "nocsy_warrior_belt",
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "mccosmetics:item/cosmetics/nocsy_warrior_belt",

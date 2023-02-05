@@ -1,6 +1,5 @@
 ﻿{
 	"credit": "Made with Blockbench",
-	"parent": "nocsy_fruit_basket",
 	"texture_size": [128, 128],
 	"textures": {
 		"1": "mccosmetics:item/cosmetics/nocsy_fruit_basket",

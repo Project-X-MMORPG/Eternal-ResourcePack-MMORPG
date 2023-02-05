@@ -6,6 +6,6 @@
     "side": "minecraft:block/pumpkin_side"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "skycore:invisible_pumpkin" }
+    { "predicate": { "custom_model_data": 1}, "model": "skycore:item/invisible_pumpkin" }
   ]
 }

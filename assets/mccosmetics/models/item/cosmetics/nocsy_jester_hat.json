@@ -1,6 +1,5 @@
 ﻿{
 	"credit": "Made with Blockbench",
-	"parent": "nocsy_jester_hat",
 	"texture_size": [128, 128],
 	"textures": {
 		"2": "mccosmetics:item/cosmetics/nocsy_jester_hat",

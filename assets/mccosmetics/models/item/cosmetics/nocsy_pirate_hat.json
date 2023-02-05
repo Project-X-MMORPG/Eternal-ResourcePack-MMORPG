@@ -1,6 +1,5 @@
 ﻿{
 	"credit": "Made with Blockbench",
-	"parent": "nocsy_pirate_hat",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "mccosmetics:item/cosmetics/nocsy_pirate_hat",

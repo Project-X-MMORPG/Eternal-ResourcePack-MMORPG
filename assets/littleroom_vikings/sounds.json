@@ -164,11 +164,6 @@
 			"littleroom/vikings/miniboss_death"
 		 ]
 	},
-   "littleroom.vikings.viking_death_choke":{
-		 "sounds": [
-			"littleroom/vikings/viking_death_choke"
-		 ]
-	},
    "littleroom.vikings.viking_death1":{
 		 "sounds": [
 			"littleroom/vikings/viking_death1"
