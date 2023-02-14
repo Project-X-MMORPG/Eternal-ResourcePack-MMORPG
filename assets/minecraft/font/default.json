@@ -111,6 +111,8 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_case.png","ascent": 40,"height": 102,"chars": ["\uE242"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_buy_eng.png","ascent": 40,"height": 156,"chars": ["\uE243"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_buy_ger.png","ascent": 40,"height": 156,"chars": ["\uE244"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_content_eng.png","ascent": 40,"height": 156,"chars": ["\uE245"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_content_ger.png","ascent": 40,"height": 156,"chars": ["\uE246"]},
 
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
