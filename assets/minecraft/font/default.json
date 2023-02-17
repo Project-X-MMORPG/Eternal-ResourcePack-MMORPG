@@ -114,6 +114,8 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_content_eng.png","ascent": 40,"height": 156,"chars": ["\uE246"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/crates/gui_cases_content_ger.png","ascent": 40,"height": 156,"chars": ["\uE247"]},
 
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_menu_eng.png","ascent": 40,"height": 156,"chars": ["\uE251"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_menu_ger.png","ascent": 40,"height": 156,"chars": ["\uE252"]},
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
