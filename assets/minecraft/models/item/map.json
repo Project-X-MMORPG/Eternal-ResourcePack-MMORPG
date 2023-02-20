@@ -99,6 +99,10 @@
         {"predicate": {"custom_model_data":199}, "model": "skycore:item/questsystem/eliteranks/elite_rank_9"},
         {"predicate": {"custom_model_data":200}, "model": "skycore:item/questsystem/eliteranks/elite_rank_10"},
 
+        {"predicate": {"custom_model_data":201}, "model": "skycore:item/icons/button_despawn_pet"},
+        {"predicate": {"custom_model_data":202}, "model": "skycore:item/icons/button_feed_pet"},
+        {"predicate": {"custom_model_data":203}, "model": "skycore:item/icons/button_spawn_pet"},
+
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
 }

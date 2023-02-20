@@ -69,6 +69,7 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/housing/gui_housing4_ger.png","ascent": 40,"height": 156,"chars": ["\uE165"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/housing/gui_housing5_eng.png","ascent": 40,"height": 156,"chars": ["\uE166"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/housing/gui_housing5_ger.png","ascent": 40,"height": 156,"chars": ["\uE167"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/housing/gui_housing_shop.png","ascent": 40,"height": 156,"chars": ["\uE257"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/auctions/gui_auctions_all_eng.png","ascent": 40,"height": 156,"chars": ["\uE188"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/auctions/gui_auctions_all_ger.png","ascent": 40,"height": 156,"chars": ["\uE189"]},
@@ -116,6 +117,11 @@
 
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_menu_eng.png","ascent": 40,"height": 156,"chars": ["\uE251"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_menu_ger.png","ascent": 40,"height": 156,"chars": ["\uE252"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_settings_eng.png","ascent": 40,"height": 156,"chars": ["\uE253"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_settings_ger.png","ascent": 40,"height": 156,"chars": ["\uE254"]},
+
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pets_pet_eng.png","ascent": 40,"height": 156,"chars": ["\uE255"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pets_pet_ger.png","ascent": 40,"height": 156,"chars": ["\uE256"]},
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
