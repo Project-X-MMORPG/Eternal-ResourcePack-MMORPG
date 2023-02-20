@@ -120,8 +120,8 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_settings_eng.png","ascent": 40,"height": 156,"chars": ["\uE253"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_settings_ger.png","ascent": 40,"height": 156,"chars": ["\uE254"]},
 
-		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pets_pet_eng.png","ascent": 40,"height": 156,"chars": ["\uE255"]},
-		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pets_pet_ger.png","ascent": 40,"height": 156,"chars": ["\uE256"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_pet_eng.png","ascent": 40,"height": 156,"chars": ["\uE255"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_pet_ger.png","ascent": 40,"height": 156,"chars": ["\uE256"]},
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
