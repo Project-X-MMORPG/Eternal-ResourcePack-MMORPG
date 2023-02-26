@@ -102,6 +102,7 @@
         {"predicate": {"custom_model_data":201}, "model": "skycore:item/icons/button_despawn_pet"},
         {"predicate": {"custom_model_data":202}, "model": "skycore:item/icons/button_feed_pet"},
         {"predicate": {"custom_model_data":203}, "model": "skycore:item/icons/button_spawn_pet"},
+        {"predicate": {"custom_model_data":204}, "model": "skycore:item/icons/button_asleep_pet"},
 
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]

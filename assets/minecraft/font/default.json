@@ -122,6 +122,10 @@
 
 		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_pet_eng.png","ascent": 40,"height": 156,"chars": ["\uE255"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_pet_ger.png","ascent": 40,"height": 156,"chars": ["\uE256"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_inventory_eng.png","ascent": 40,"height": 156,"chars": ["\uE258"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_inventory_ger.png","ascent": 40,"height": 156,"chars": ["\uE259"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_rightclick_eng.png","ascent": 40,"height": 156,"chars": ["\uE260"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_rightclick_ger.png","ascent": 40,"height": 156,"chars": ["\uE261"]},
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
@@ -155,6 +159,8 @@
 		{"file": "skycore_font:icon_junior_game_designer.png","chars": ["\uE250"],"height": 7,"ascent": 7,"type": "bitmap"},
 
 		{"type": "bitmap", "file": "skycore_font:icons/icon_elite_quests.png","ascent": 9,"height": 12,"chars": ["\uE245"]},
+
+		{"type": "bitmap", "file": "skycore_font:icons/afk.png","ascent": 40,"height": 156,"chars": ["\uE257"]},
 
 		{"file": "skycore_font:09/0.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:09/1.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
