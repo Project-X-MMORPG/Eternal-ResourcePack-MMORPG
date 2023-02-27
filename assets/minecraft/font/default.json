@@ -160,7 +160,7 @@
 
 		{"type": "bitmap", "file": "skycore_font:icons/icon_elite_quests.png","ascent": 9,"height": 12,"chars": ["\uE245"]},
 
-		{"type": "bitmap", "file": "skycore_font:icons/afk.png","ascent": 40,"height": 156,"chars": ["\uE257"]},
+		{"type": "bitmap", "file": "skycore_font:icons/afk.png","ascent": 40,"height": 156,"chars": ["\uE262"]},
 
 		{"file": "skycore_font:09/0.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:09/1.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
