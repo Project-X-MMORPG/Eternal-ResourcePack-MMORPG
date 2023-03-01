@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "skycore:item/icons/button_bucket_off"
+    }
+
+}

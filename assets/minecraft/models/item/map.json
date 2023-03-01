@@ -104,6 +104,27 @@
         {"predicate": {"custom_model_data":203}, "model": "skycore:item/icons/button_spawn_pet"},
         {"predicate": {"custom_model_data":204}, "model": "skycore:item/icons/button_asleep_pet"},
 
+        {"predicate": {"custom_model_data":205}, "model": "skycore:item/icons/button_blocks_off"},
+        {"predicate": {"custom_model_data":206}, "model": "skycore:item/icons/button_blocks_on"},
+        {"predicate": {"custom_model_data":207}, "model": "skycore:item/icons/button_bucket_off"},
+        {"predicate": {"custom_model_data":208}, "model": "skycore:item/icons/button_bucket_on"},
+        {"predicate": {"custom_model_data":209}, "model": "skycore:item/icons/button_flowers_off"},
+        {"predicate": {"custom_model_data":210}, "model": "skycore:item/icons/button_flowers_on"},
+        {"predicate": {"custom_model_data":211}, "model": "skycore:item/icons/button_food_off"},
+        {"predicate": {"custom_model_data":212}, "model": "skycore:item/icons/button_food_on"},
+        {"predicate": {"custom_model_data":213}, "model": "skycore:item/icons/button_rails_off"},
+        {"predicate": {"custom_model_data":214}, "model": "skycore:item/icons/button_rails_on"},
+        {"predicate": {"custom_model_data":215}, "model": "skycore:item/icons/button_redstone_off"},
+        {"predicate": {"custom_model_data":216}, "model": "skycore:item/icons/button_redstone_on"},
+        {"predicate": {"custom_model_data":217}, "model": "skycore:item/icons/button_spawns_off"},
+        {"predicate": {"custom_model_data":218}, "model": "skycore:item/icons/button_spawns_on"},
+        {"predicate": {"custom_model_data":219}, "model": "skycore:item/icons/button_tools_off"},
+        {"predicate": {"custom_model_data":220}, "model": "skycore:item/icons/button_tools_on"},
+        {"predicate": {"custom_model_data":221}, "model": "skycore:item/icons/button_weapons_off"},
+        {"predicate": {"custom_model_data":222}, "model": "skycore:item/icons/button_weapons_on"},
+        {"predicate": {"custom_model_data":223}, "model": "skycore:item/icons/button_search_off"},
+        {"predicate": {"custom_model_data":224}, "model": "skycore:item/icons/button_search_on"},
+
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
 }
