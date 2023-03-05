@@ -125,6 +125,12 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_invite_ger.png","ascent": 40,"height": 120,"chars": ["\uE267"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_battle_eng.png","ascent": 40,"height": 156,"chars": ["\uE268"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_battle_ger.png","ascent": 40,"height": 156,"chars": ["\uE269"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_shop_eng.png","ascent": 40,"height": 156,"chars": ["\uE270"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_shop_ger.png","ascent": 40,"height": 156,"chars": ["\uE271"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_top10_eng.png","ascent": 40,"height": 156,"chars": ["\uE272"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_top10_ger.png","ascent": 40,"height": 156,"chars": ["\uE273"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_top10_guilds_eng.png","ascent": 40,"height": 156,"chars": ["\uE274"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/pvp/gui_pvp_top10_guilds_ger.png","ascent": 40,"height": 156,"chars": ["\uE275"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_pet_eng.png","ascent": 40,"height": 156,"chars": ["\uE255"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/pets/gui_pets_pet_ger.png","ascent": 40,"height": 156,"chars": ["\uE256"]},
