@@ -145,7 +145,7 @@
 
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_eng.png","ascent": 40,"height": 156,"chars": ["\uE280"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_ger.png","ascent": 40,"height": 156,"chars": ["\uE281"]},
-		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_level.png","ascent": 40,"height": 102,"chars": ["\uE282"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_level.png","ascent": 40,"height": 84,"chars": ["\uE282"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_menu_eng.png","ascent": 40,"height": 102,"chars": ["\uE283"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_menu_ger.png","ascent": 40,"height": 102,"chars": ["\uE284"]},
 
