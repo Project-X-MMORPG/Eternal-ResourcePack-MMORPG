@@ -94,12 +94,14 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_jobs_ger.png","ascent": 40,"height": 102,"chars": ["\uE207"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_eng.png","ascent": 40,"height": 156,"chars": ["\uE208"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_ger.png","ascent": 40,"height": 156,"chars": ["\uE209"]},
-		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_items_eng.png","ascent": 40,"height": 120,"chars": ["\uE210"]},
-		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_items_ger.png","ascent": 40,"height": 120,"chars": ["\uE211"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_items_eng.png","ascent": 40,"height": 156,"chars": ["\uE210"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_items_ger.png","ascent": 40,"height": 156,"chars": ["\uE211"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe_eng.png","ascent": 40,"height": 156,"chars": ["\uE212"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe_ger.png","ascent": 40,"height": 156,"chars": ["\uE213"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe2_eng.png","ascent": 40,"height": 156,"chars": ["\uE214"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe2_ger.png","ascent": 40,"height": 156,"chars": ["\uE215"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipe_list_eng.png","ascent": 40,"height": 102,"chars": ["\uE291"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipe_list_ger.png","ascent": 40,"height": 102,"chars": ["\uE292"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_eng.png","ascent": 40,"height": 102,"chars": ["\uE222"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_ger.png","ascent": 40,"height": 102,"chars": ["\uE223"]},
@@ -148,6 +150,15 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_level.png","ascent": 40,"height": 84,"chars": ["\uE282"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_menu_eng.png","ascent": 40,"height": 102,"chars": ["\uE283"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/upgrade/gui_items_upgrade_menu_ger.png","ascent": 40,"height": 102,"chars": ["\uE284"]},
+
+		{"type": "bitmap", "file": "skycore:custom_gui/booster/gui_boosters_eng.png","ascent": 40,"height": 120,"chars": ["\uE285"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/booster/gui_boosters_ger.png","ascent": 40,"height": 120,"chars": ["\uE286"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/booster/gui_boosters_menu_eng.png","ascent": 40,"height": 156,"chars": ["\uE287"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/booster/gui_boosters_menu_ger.png","ascent": 40,"height": 156,"chars": ["\uE288"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/booster/gui_boosters_shop_eng.png","ascent": 40,"height": 120,"chars": ["\uE289"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/booster/gui_boosters_shop_ger.png","ascent": 40,"height": 120,"chars": ["\uE290"]},
+
+		{"type": "bitmap", "file": "skycore:custom_gui/lootchest/gui_lootchest.png","ascent": 40,"height": 102,"chars": ["\uE293"]},
 
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
