@@ -102,6 +102,8 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipes_recipe2_ger.png","ascent": 40,"height": 156,"chars": ["\uE215"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipe_list_eng.png","ascent": 40,"height": 102,"chars": ["\uE291"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_recipe_list_ger.png","ascent": 40,"height": 102,"chars": ["\uE292"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_crafting_options_eng.png","ascent": 40,"height": 102,"chars": ["\uE294"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/jobs/gui_crafting_options_ger.png","ascent": 40,"height": 102,"chars": ["\uE295"]},
 
 		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_eng.png","ascent": 40,"height": 102,"chars": ["\uE222"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/verify/gui_verification_ger.png","ascent": 40,"height": 102,"chars": ["\uE223"]},

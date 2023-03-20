@@ -127,6 +127,9 @@
         {"predicate": {"custom_model_data":225}, "model": "skycore:item/icons/button_potions_off"},
         {"predicate": {"custom_model_data":226}, "model": "skycore:item/icons/button_potions_on"},
 
+        {"predicate": {"custom_model_data":227}, "model": "skycore:item/icons/button_full"},
+        {"predicate": {"custom_model_data":228}, "model": "skycore:item/icons/button_half"},
+
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
 }
