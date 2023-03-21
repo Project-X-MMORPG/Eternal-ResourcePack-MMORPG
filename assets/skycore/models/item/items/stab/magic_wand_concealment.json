@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "skycore:item/items/stab/magic_wand_concealment"
+    }
+
+}

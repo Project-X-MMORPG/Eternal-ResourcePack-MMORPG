@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "skycore:item/items/stab/magic_wand" },
+    { "predicate": { "custom_model_data": 2 }, "model": "skycore:item/items/stab/magic_wand_concealment" },
+    { "predicate": { "custom_model_data": 3 }, "model": "skycore:item/items/stab/magic_wand_dimensions" },
+    { "predicate": { "custom_model_data": 4 }, "model": "skycore:item/items/stab/magic_wand_disorientation" },
+    { "predicate": { "custom_model_data": 5 }, "model": "skycore:item/items/stab/magic_wand_famine" },
+    { "predicate": { "custom_model_data": 6 }, "model": "skycore:item/items/stab/magic_wand_fire" },
+    { "predicate": { "custom_model_data": 7 }, "model": "skycore:item/items/stab/magic_wand_healing" },
+    { "predicate": { "custom_model_data": 8 }, "model": "skycore:item/items/stab/magic_wand_health" },
+    { "predicate": { "custom_model_data": 9 }, "model": "skycore:item/items/stab/magic_wand_heart" },
+    { "predicate": { "custom_model_data": 10 }, "model": "skycore:item/items/stab/magic_wand_ice" },
+    { "predicate": { "custom_model_data": 11 }, "model": "skycore:item/items/stab/magic_wand_lightning" },
+    { "predicate": { "custom_model_data": 12 }, "model": "skycore:item/items/stab/magic_wand_spider" },
+    { "predicate": { "custom_model_data": 13 }, "model": "skycore:item/items/stab/magic_wand_wind" }
+  ]
+}
