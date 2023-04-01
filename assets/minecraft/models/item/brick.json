@@ -14,6 +14,9 @@
     { "predicate": { "custom_model_data": 8 }, "model": "skycore:item/items/quest_red" },
     { "predicate": { "custom_model_data": 9 }, "model": "skycore:item/items/key" },
     { "predicate": { "custom_model_data": 10 }, "model": "skycore:item/items/fragment" },
-    { "predicate": { "custom_model_data": 11 }, "model": "skycore:item/items/coin_demeter" }
+    { "predicate": { "custom_model_data": 11 }, "model": "skycore:item/items/coin_demeter" },
+
+
+    {"predicate": {"custom_model_data": 10000},"model": "malikaset:item/key"}
   ]
 }

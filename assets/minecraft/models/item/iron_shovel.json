@@ -9,6 +9,12 @@
                 "custom_model_data": 10101
             },
             "model": "default_tools:iron/iron_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10000
+            },
+            "model": "malikaset:item/shovel"
         }
     ]
 }
