@@ -130,6 +130,9 @@
         {"predicate": {"custom_model_data":227}, "model": "skycore:item/icons/button_full"},
         {"predicate": {"custom_model_data":228}, "model": "skycore:item/icons/button_half"},
 
+        {"predicate": {"custom_model_data":229}, "model": "skycore:item/icons/button_english_on"},
+        {"predicate": {"custom_model_data":230}, "model": "skycore:item/icons/button_german_on"},
+
         {"predicate": {"custom_model_data":1337}, "model": "skycore:custom_gui/invisibleitem"}
     ]
 }
