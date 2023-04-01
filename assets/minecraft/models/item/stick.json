@@ -16,6 +16,8 @@
     { "predicate": { "custom_model_data": 10 }, "model": "skycore:item/items/stab/magic_wand_ice" },
     { "predicate": { "custom_model_data": 11 }, "model": "skycore:item/items/stab/magic_wand_lightning" },
     { "predicate": { "custom_model_data": 12 }, "model": "skycore:item/items/stab/magic_wand_spider" },
-    { "predicate": { "custom_model_data": 13 }, "model": "skycore:item/items/stab/magic_wand_wind" }
+    { "predicate": { "custom_model_data": 13 }, "model": "skycore:item/items/stab/magic_wand_wind" },
+
+    { "predicate": { "custom_model_data": 10000 }, "model": "malikaset:item/staff" }
   ]
 }

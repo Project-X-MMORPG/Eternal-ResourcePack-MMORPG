@@ -1,0 +1,44 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/iron_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10000
+            },
+            "model": "malikaset:item/scythe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "malikaset:item/spear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10002
+            },
+            "model": "malikaset:item/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10003
+            },
+            "model": "malikaset:item/greatsword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10004
+            },
+            "model": "malikaset:item/hammer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10005
+            },
+            "model": "malikaset:item/trident"
+        }
+    ]
+}

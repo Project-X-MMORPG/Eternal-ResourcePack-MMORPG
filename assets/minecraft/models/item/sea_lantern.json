@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/sea_lantern",
+    "overrides": [
+        {"predicate": {"custom_model_data": 10000},"model": "malikaset:item/chest"},
+        {"predicate": {"custom_model_data": 10001},"model": "malikaset:item/chest_opening"}
+    ]
+}
