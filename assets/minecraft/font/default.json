@@ -165,6 +165,10 @@
 		{"type": "bitmap", "file": "skycore:custom_gui/backpack/gui_backpack_eng.png","ascent": 40,"height": 156,"chars": ["\uE296"]},
 		{"type": "bitmap", "file": "skycore:custom_gui/backpack/gui_backpack_ger.png","ascent": 40,"height": 156,"chars": ["\uE297"]},
 
+		{"type": "bitmap", "file": "skycore:custom_gui/other/gui_confirmation_eng.png","ascent": 40,"height": 84,"chars": ["\uE298"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/other/gui_confirmation_ger.png","ascent": 40,"height": 84,"chars": ["\uE299"]},
+		{"type": "bitmap", "file": "skycore:custom_gui/other/gui_language.png","ascent": 40,"height": 102,"chars": ["\uE300"]},
+
 		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_manager.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
