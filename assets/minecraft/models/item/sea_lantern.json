@@ -2,6 +2,14 @@
     "parent": "minecraft:block/sea_lantern",
     "overrides": [
         {"predicate": {"custom_model_data": 10000},"model": "malikaset:item/chest"},
-        {"predicate": {"custom_model_data": 10001},"model": "malikaset:item/chest_opening"}
+        {"predicate": {"custom_model_data": 10001},"model": "malikaset:item/chest_opening"},
+        {"predicate": {"custom_model_data": 10002},"model": "evergreenset:item/chest"},
+        {"predicate": {"custom_model_data": 10003},"model": "evergreenset:item/chest_opening"},
+        {"predicate": {"custom_model_data": 10004},"model": "thunderboltset:item/chest"},
+        {"predicate": {"custom_model_data": 10005},"model": "thunderboltset:item/chest_opening"},
+        {"predicate": {"custom_model_data": 10006},"model": "crates_pack:item/lvl1_crate"},
+        {"predicate": {"custom_model_data": 10007},"model": "crates_pack:item/lvl2_crate"},
+        {"predicate": {"custom_model_data": 10008},"model": "crates_pack:item/lvl3_crate"},
+        {"predicate": {"custom_model_data": 10009},"model": "crates_pack:item/lvl4_crate"}
     ]
 }

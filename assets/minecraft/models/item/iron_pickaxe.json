@@ -3,18 +3,34 @@
     "textures": {
         "layer0": "minecraft:item/iron_pickaxe"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 10101
-            },
-            "model": "default_tools:iron/iron_pickaxe"
-        },      
+    "overrides": [      
         {
             "predicate": {
                 "custom_model_data": 10000
             },
             "model": "malikaset:item/pickaxe"
+        },      
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "evergreenset:item/pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10002
+            },
+            "model": "thunderboltset:item/pickaxe"
+        },
+
+
+
+
+        {
+            "predicate": {
+                "custom_model_data": 10101
+            },
+            "model": "default_tools:iron/iron_pickaxe"
         }
     ]
 }

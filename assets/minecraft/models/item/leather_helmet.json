@@ -1,0 +1,21 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	  "layer0": "item/leather_helmet",
+	  "layer1": "item/leather_helmet_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10002}, "model": "samus_rpgarmor:item/custom/armor/assassin_helmet" },
+		{ "predicate": { "custom_model_data": 10003}, "model": "samus_rpgarmor:item/custom/armor/warrior_helmet" },
+		{ "predicate": { "custom_model_data": 10004}, "model": "samus_rpgarmor:item/custom/armor/archer_helmet" },
+		{ "predicate": { "custom_model_data": 10005}, "model": "samus_rpgarmor:item/custom/armor/mage_helmet" },
+		{ "predicate": { "custom_model_data": 10006}, "model": "samus_rpgarmor:item/custom/armor/shaman_helmet" },
+		{ "predicate": { "custom_model_data": 10007}, "model": "samus_rpgarmor:item/custom/armor/necromancer_helmet" },
+		{ "predicate": { "custom_model_data": 10008}, "model": "samus_rpgarmor:item/custom/armor/martial_artist_helmet" },
+		{ "predicate": { "custom_model_data": 10009}, "model": "samus_rpgarmor:item/custom/armor/dragon_warrior_helmet" },
+		{ "predicate": { "custom_model_data": 10010}, "model": "samus_rpgarmor:item/custom/armor/gunner_helmet" },
+		{ "predicate": { "custom_model_data": 10011}, "model": "samus_rpgarmor:item/custom/armor/bard_helmet" },
+		{ "predicate": { "custom_model_data": 10012}, "model": "samus_rpgarmor:item/custom/armor/druid_helmet" },
+		{ "predicate": { "custom_model_data": 10013}, "model": "samus_rpgarmor:item/custom/armor/summoner_helmet" }
+	]
+}

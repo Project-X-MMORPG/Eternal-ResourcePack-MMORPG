@@ -1,0 +1,7 @@
+﻿{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "samus_rpgarmor:item/models/armor/assassin_leggings",
+        "layer1": "samus_rpgarmor:item/models/armor/assassin_leggings"
+    }
+}

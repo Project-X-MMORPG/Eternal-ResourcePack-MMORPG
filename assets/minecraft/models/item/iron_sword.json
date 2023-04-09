@@ -4,41 +4,87 @@
         "layer0": "minecraft:item/iron_sword"
     },
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 10000
-            },
-            "model": "malikaset:item/scythe"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10001
-            },
-            "model": "malikaset:item/spear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10002
-            },
-            "model": "malikaset:item/sword"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10003
-            },
-            "model": "malikaset:item/greatsword"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10004
-            },
-            "model": "malikaset:item/hammer"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10005
-            },
-            "model": "malikaset:item/trident"
-        }
+        {"predicate": {"custom_model_data": 10000},"model": "malikaset:item/scythe"},
+        {"predicate": {"custom_model_data": 10001},"model": "malikaset:item/spear"},
+        {"predicate": {"custom_model_data": 10002},"model": "malikaset:item/sword"},
+        {"predicate": {"custom_model_data": 10003},"model": "malikaset:item/greatsword"},
+        {"predicate": {"custom_model_data": 10004},"model": "malikaset:item/hammer"},
+        {"predicate": {"custom_model_data": 10005},"model": "malikaset:item/trident"},
+        {"predicate": {"custom_model_data": 10006},"model": "evergreenset:item/sword"},
+        {"predicate": {"custom_model_data": 10007},"model": "evergreenset:item/spear"},
+        {"predicate": {"custom_model_data": 10008},"model": "evergreenset:item/hammer"},
+        {"predicate": {"custom_model_data": 10009},"model": "evergreenset:item/scythe"},
+        {"predicate": {"custom_model_data": 10010},"model": "evergreenset:item/greatsword"},
+        {"predicate": {"custom_model_data": 10011},"model": "evergreenset:item/trident"},
+        {"predicate": {"custom_model_data": 10012},"model": "samus_rpgarmor:item/class_weapons/assassin_blade"},
+		{"predicate": {"custom_model_data": 10013},"model": "samus_rpgarmor:item/class_weapons/warrior_sword"},
+		{"predicate": {"custom_model_data": 10014},"model": "samus_rpgarmor:item/class_weapons_2/martial_artist_gauntlet"},
+		{"predicate": {"custom_model_data": 10015},"model": "samus_rpgarmor:item/class_weapons_2/dragon_warrior_spear"},
+        {"predicate": {"custom_model_data": 10016},"model": "thunderboltset:item/sword"},
+        {"predicate": {"custom_model_data": 10017},"model": "thunderboltset:item/spear"},
+        {"predicate": {"custom_model_data": 10018},"model": "thunderboltset:item/hammer"},
+        {"predicate": {"custom_model_data": 10019},"model": "thunderboltset:item/scythe"},
+        {"predicate": {"custom_model_data": 10020},"model": "thunderboltset:item/greatsword"},
+        {"predicate": {"custom_model_data": 10021},"model": "healong_swords:item/min_01"},
+        {"predicate": {"custom_model_data": 10022},"model": "healong_swords:item/min_02"},
+        {"predicate": {"custom_model_data": 10023},"model": "healong_swords:item/min_03"},
+        {"predicate": {"custom_model_data": 10024},"model": "healong_swords:item/min_04"},
+        {"predicate": {"custom_model_data": 10025},"model": "healong_swords:item/min_05"},
+        {"predicate": {"custom_model_data": 10026},"model": "healong_swords:item/min_06"},
+        {"predicate": {"custom_model_data": 10027},"model": "adventurer_swords_pack:item/adventurer_sword"},
+        {"predicate": {"custom_model_data": 10028},"model": "adventurer_swords_pack:item/butcher_sword"},
+        {"predicate": {"custom_model_data": 10029},"model": "adventurer_swords_pack:item/crimson_sword"},
+        {"predicate": {"custom_model_data": 10030},"model": "adventurer_swords_pack:item/crystal_sword"},
+        {"predicate": {"custom_model_data": 10031},"model": "adventurer_swords_pack:item/dragon_sword"},
+        {"predicate": {"custom_model_data": 10032},"model": "adventurer_swords_pack:item/fire_sword"},
+        {"predicate": {"custom_model_data": 10033},"model": "adventurer_swords_pack:item/king_sword"},
+        {"predicate": {"custom_model_data": 10034},"model": "adventurer_swords_pack:item/moonstone_sword"},
+        {"predicate": {"custom_model_data": 10035},"model": "adventurer_swords_pack:item/poison_sword"},
+        {"predicate": {"custom_model_data": 10036},"model": "adventurer_swords_pack:item/reaver_sword"},
+        {"predicate": {"custom_model_data": 10037},"model": "adventurer_swords_pack:item/spike_sword"},
+        {"predicate": {"custom_model_data": 10038},"model": "rpgbundle:item/weapon/weapon1"},
+        {"predicate": {"custom_model_data": 10039},"model": "rpgbundle:item/weapon/weapon2"},
+        {"predicate": {"custom_model_data": 10040},"model": "rpgbundle:item/weapon/weapon3"},
+        {"predicate": {"custom_model_data": 10041},"model": "rpgbundle:item/weapon/weapon4"},
+        {"predicate": {"custom_model_data": 10042},"model": "rpgbundle:item/weapon/weapon5"},
+        {"predicate": {"custom_model_data": 10043},"model": "rpgbundle:item/weapon/weapon6"},
+        {"predicate": {"custom_model_data": 10044},"model": "rpgbundle:item/weapon/weapon7"},
+        {"predicate": {"custom_model_data": 10045},"model": "rpgbundle:item/weapon/weapon8"},
+        {"predicate": {"custom_model_data": 10046},"model": "rpgbundle:item/weapon/weapon9"},
+        {"predicate": {"custom_model_data": 10047},"model": "rpgbundle:item/weapon/weapon10"},
+        {"predicate": {"custom_model_data": 10048},"model": "rpgbundle:item/weapon/weapon11"},
+        {"predicate": {"custom_model_data": 10049},"model": "rpgbundle:item/weapon/weapon12"},
+        {"predicate": {"custom_model_data": 10050},"model": "rpgbundle:item/weapon/weapon13"},
+        {"predicate": {"custom_model_data": 10051},"model": "rpgbundle:item/weapon/weapon14"},
+        {"predicate": {"custom_model_data": 10052},"model": "rpgbundle:item/weapon/weapon15"},
+        {"predicate": {"custom_model_data": 10053},"model": "rpgbundle:item/weapon/weapon16"},
+        {"predicate": {"custom_model_data": 10054},"model": "rpgbundle:item/weapon/weapon17"},
+        {"predicate": {"custom_model_data": 10055},"model": "rpgbundle:item/weapon/weapon18"},
+        {"predicate": {"custom_model_data": 10056},"model": "rpgbundle:item/weapon/weapon19"},
+        {"predicate": {"custom_model_data": 10057},"model": "rpgbundle:item/weapon/weapon20"},
+        {"predicate": {"custom_model_data": 10058},"model": "rpgbundle:item/weapon/weapon21"},
+        {"predicate": {"custom_model_data": 10059},"model": "rpgbundle:item/weapon/weapon22"},
+        {"predicate": {"custom_model_data": 10060},"model": "rpgbundle:item/weapon/weapon23"},
+        {"predicate": {"custom_model_data": 10061},"model": "rpgbundle:item/weapon/weapon24"},
+        {"predicate": {"custom_model_data": 10062},"model": "rpgbundle:item/weapon/weapon25"},
+        {"predicate": {"custom_model_data": 10063},"model": "rpgbundle:item/weapon/weapon26"},
+        {"predicate": {"custom_model_data": 10064},"model": "rpgbundle:item/weapon/weapon27"},
+        {"predicate": {"custom_model_data": 10065},"model": "rpgbundle:item/weapon/weapon28"},
+        {"predicate": {"custom_model_data": 10066},"model": "rpgbundle:item/weapon/weapon29"},
+        {"predicate": {"custom_model_data": 10067},"model": "rpgbundle:item/weapon2/weapon1"},
+        {"predicate": {"custom_model_data": 10068},"model": "rpgbundle:item/weapon2/weapon2"},
+        {"predicate": {"custom_model_data": 10069},"model": "rpgbundle:item/weapon2/weapon3"},
+        {"predicate": {"custom_model_data": 10070},"model": "rpgbundle:item/weapon2/weapon4"},
+        {"predicate": {"custom_model_data": 10071},"model": "rpgbundle:item/weapon2/weapon5"},
+        {"predicate": {"custom_model_data": 10072},"model": "rpgbundle:item/weapon2/weapon6"},
+        {"predicate": {"custom_model_data": 10073},"model": "rpgbundle:item/weapon2/weapon7"},
+        {"predicate": {"custom_model_data": 10074},"model": "rpgbundle:item/weapon3/weapon1"},
+        {"predicate": {"custom_model_data": 10075},"model": "rpgbundle:item/weapon3/weapon2"},
+        {"predicate": {"custom_model_data": 10076},"model": "rpgbundle:item/weapon3/weapon3"},
+        {"predicate": {"custom_model_data": 10077},"model": "rpgbundle:item/weapon3/weapon4"},
+        {"predicate": {"custom_model_data": 10078},"model": "rpgbundle:item/weapon3/weapon5"},
+        {"predicate": {"custom_model_data": 10079},"model": "rpgbundle:item/weapon3/weapon6"},
+        {"predicate": {"custom_model_data": 10080},"model": "rpgbundle:item/weapon3/weapon7"},
+        {"predicate": {"custom_model_data": 10081},"model": "rpgbundle:item/weapon3/weapon8"}
     ]
 }

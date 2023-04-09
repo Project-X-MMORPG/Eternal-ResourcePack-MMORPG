@@ -33,6 +33,91 @@
         {"predicate": { "custom_model_data": 10000 },"model": "malikaset:item/bow"},
         {"predicate": { "pulling": 1,"custom_model_data": 10000},"model": "malikaset:item/bow_0"},
         {"predicate": { "pulling": 1,"pull": 0.65, "custom_model_data": 10000},"model": "malikaset:item/bow_1"},
-        {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 10000},"model": "malikaset:item/bow_2"}
+        {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 10000},"model": "malikaset:item/bow_2"},
+
+        {"predicate": { "custom_model_data": 10001 },"model": "evergreenset:item/bow"},
+        {"predicate": { "pulling": 1,"custom_model_data": 10001},"model": "evergreenset:item/bow_0"},
+        {"predicate": { "pulling": 1,"pull": 0.65, "custom_model_data": 10001},"model": "evergreenset:item/bow_1"},
+        {"predicate": {"pulling": 1,"pull": 0.9,"custom_model_data": 10001},"model": "evergreenset:item/bow_2"},
+    
+        {"predicate": {"custom_model_data": 10002},"model": "samus_rpgarmor:item/class_weapons/archer_bow"},
+        {"predicate": {"custom_model_data": 10002,"pulling": 1},"model": "samus_rpgarmor:item/class_weapons/archer_bow_0"},
+        {"predicate": {"custom_model_data": 10002,"pulling": 1,"pull": 0.65},"model": "samus_rpgarmor:item/class_weapons/archer_bow_1"},
+        {"predicate": {"custom_model_data": 10002,"pulling": 1,"pull": 0.9},"model": "samus_rpgarmor:item/class_weapons/archer_bow_2"},
+
+        {"predicate": {"custom_model_data": 10003},"model": "thunderboltset:item/bow"},
+        {"predicate": {"custom_model_data": 10003,"pulling": 1},"model": "thunderboltset:item/bow_0"},
+        {"predicate": {"custom_model_data": 10003,"pulling": 1,"pull": 0.65},"model": "thunderboltset:item/bow_1"},
+        {"predicate": {"custom_model_data": 10003,"pulling": 1,"pull": 0.9},"model": "thunderboltset:item/bow_2"},
+
+        {"predicate": {"custom_model_data": 10004},"model": "voxelspawns_bow:item/voxelspawns/vs_asiabow"},
+        {"predicate": {"custom_model_data": 10004,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_asiabow_0"},
+        {"predicate": {"custom_model_data": 10004,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_asiabow_1"},
+        {"predicate": {"custom_model_data": 10004,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_asiabow_2"},
+
+        {"predicate": {"custom_model_data": 10005},"model": "voxelspawns_bow:item/voxelspawns/vs_compositebow"},
+        {"predicate": {"custom_model_data": 10005,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_compositebow_0"},
+        {"predicate": {"custom_model_data": 10005,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_compositebow_1"},
+        {"predicate": {"custom_model_data": 10005,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_compositebow_2"},
+
+        {"predicate": {"custom_model_data": 10006},"model": "voxelspawns_bow:item/voxelspawns/vs_elvenbow"},
+        {"predicate": {"custom_model_data": 10006,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_elvenbow_0"},
+        {"predicate": {"custom_model_data": 10006,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_elvenbow_1"},
+        {"predicate": {"custom_model_data": 10006,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_elvenbow_2"},
+
+        {"predicate": {"custom_model_data": 10007},"model": "voxelspawns_bow:item/voxelspawns/vs_frostbow"},
+        {"predicate": {"custom_model_data": 10007,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_frostbow_0"},
+        {"predicate": {"custom_model_data": 10007,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_frostbow_1"},
+        {"predicate": {"custom_model_data": 10007,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_frostbow_2"},
+
+        {"predicate": {"custom_model_data": 10008},"model": "voxelspawns_bow:item/voxelspawns/vs_goldbow"},
+        {"predicate": {"custom_model_data": 10008,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_goldbow_0"},
+        {"predicate": {"custom_model_data": 10008,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_goldbow_1"},
+        {"predicate": {"custom_model_data": 10008,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_goldbow_2"},
+
+        {"predicate": {"custom_model_data": 10009},"model": "voxelspawns_bow:item/voxelspawns/vs_longbow"},
+        {"predicate": {"custom_model_data": 10009,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_longbow_0"},
+        {"predicate": {"custom_model_data": 10009,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_longbow_1"},
+        {"predicate": {"custom_model_data": 10009,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_longbow_2"},
+
+        {"predicate": {"custom_model_data": 10010},"model": "voxelspawns_bow:item/voxelspawns/vs_magicbow"},
+        {"predicate": {"custom_model_data": 10010,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_magicbow_0"},
+        {"predicate": {"custom_model_data": 10010,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_magicbow_1"},
+        {"predicate": {"custom_model_data": 10010,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_magicbow_2"},
+
+        {"predicate": {"custom_model_data": 10011},"model": "voxelspawns_bow:item/voxelspawns/vs_prismarinebow"},
+        {"predicate": {"custom_model_data": 10011,"pulling": 1},"model": "voxelspawns_bow:item/voxelspawns/vs_prismarinebow_0"},
+        {"predicate": {"custom_model_data": 10011,"pulling": 1,"pull": 0.65},"model": "voxelspawns_bow:item/voxelspawns/vs_prismarinebow_1"},
+        {"predicate": {"custom_model_data": 10011,"pulling": 1,"pull": 0.9},"model": "voxelspawns_bow:item/voxelspawns/vs_prismarinebow_2"},
+
+        {"predicate": {"custom_model_data": 10012},"model": "rpgbundle:item/bow/bow1"},
+        {"predicate": {"custom_model_data": 10012,"pulling": 1},"model": "rpgbundle:item/bow/bow2"},
+        {"predicate": {"custom_model_data": 10012,"pulling": 1,"pull": 0.65},"model": "rpgbundle:item/bow/bow3"},
+        {"predicate": {"custom_model_data": 10012,"pulling": 1,"pull": 0.9},"model": "rpgbundle:item/bow/bow4"},
+
+        {"predicate": {"custom_model_data": 10013},"model": "rpgbundle:item/bow/bow5"},
+        {"predicate": {"custom_model_data": 10013,"pulling": 1},"model": "rpgbundle:item/bow/bow6"},
+        {"predicate": {"custom_model_data": 10013,"pulling": 1,"pull": 0.65},"model": "rpgbundle:item/bow/bow7"},
+        {"predicate": {"custom_model_data": 10013,"pulling": 1,"pull": 0.9},"model": "rpgbundle:item/bow/bow8"},
+
+        {"predicate": {"custom_model_data": 10014},"model": "rpgbundle:item/bow/bow9"},
+        {"predicate": {"custom_model_data": 10014,"pulling": 1},"model": "rpgbundle:item/bow/bow10"},
+        {"predicate": {"custom_model_data": 10014,"pulling": 1,"pull": 0.65},"model": "rpgbundle:item/bow/bow11"},
+        {"predicate": {"custom_model_data": 10014,"pulling": 1,"pull": 0.9},"model": "rpgbundle:item/bow/bow12"},
+
+        {"predicate": {"custom_model_data": 10015},"model": "rpgbundle:item/bow/bow13"},
+        {"predicate": {"custom_model_data": 10015,"pulling": 1},"model": "rpgbundle:item/bow/bow14"},
+        {"predicate": {"custom_model_data": 10015,"pulling": 1,"pull": 0.65},"model": "rpgbundle:item/bow/bow15"},
+        {"predicate": {"custom_model_data": 10015,"pulling": 1,"pull": 0.9},"model": "rpgbundle:item/bow/bow16"},
+
+        {"predicate": {"custom_model_data": 10016},"model": "rpgbundle:item/bow/bow17"},
+        {"predicate": {"custom_model_data": 10016,"pulling": 1},"model": "rpgbundle:item/bow/bow18"},
+        {"predicate": {"custom_model_data": 10016,"pulling": 1,"pull": 0.65},"model": "rpgbundle:item/bow/bow19"},
+        {"predicate": {"custom_model_data": 10016,"pulling": 1,"pull": 0.9},"model": "rpgbundle:item/bow/bow20"},
+
+        {"predicate": {"custom_model_data": 10017},"model": "rpgbundle:item/bow/bow21"},
+        {"predicate": {"custom_model_data": 10017,"pulling": 1},"model": "rpgbundle:item/bow/bow22"},
+        {"predicate": {"custom_model_data": 10017,"pulling": 1,"pull": 0.65},"model": "rpgbundle:item/bow/bow23"},
+        {"predicate": {"custom_model_data": 10017,"pulling": 1,"pull": 0.9},"model": "rpgbundle:item/bow/bow24"}
     ]
 }

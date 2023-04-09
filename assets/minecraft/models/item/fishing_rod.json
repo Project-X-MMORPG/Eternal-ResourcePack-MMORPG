@@ -22,6 +22,32 @@
                 "custom_model_data": 10000
             },
             "model": "malikaset:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "evergreenset:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 10001
+            },
+            "model": "evergreenset:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10002
+            },
+            "model": "thunderboltset:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 10002
+            },
+            "model": "thunderboltset:item/fishing_rod_cast"
         }
     ]
 }

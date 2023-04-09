@@ -1,0 +1,7 @@
+﻿{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "skycore:item/items/ingredient/goblin_haut_zerissen"
+    }
+
+}

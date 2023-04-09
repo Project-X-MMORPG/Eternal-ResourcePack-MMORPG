@@ -9,6 +9,18 @@
                 "custom_model_data": 10000
             },
             "model": "malikaset:item/helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "evergreenset:item/crown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10002
+            },
+            "model": "thunderboltset:item/helmet"
         }
     ]
 }

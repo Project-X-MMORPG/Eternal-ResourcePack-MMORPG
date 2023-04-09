@@ -18,6 +18,18 @@
     { "predicate": { "custom_model_data": 12 }, "model": "skycore:item/items/stab/magic_wand_spider" },
     { "predicate": { "custom_model_data": 13 }, "model": "skycore:item/items/stab/magic_wand_wind" },
 
-    { "predicate": { "custom_model_data": 10000 }, "model": "malikaset:item/staff" }
+    { "predicate": { "custom_model_data": 10000 }, "model": "malikaset:item/staff" },
+    { "predicate": { "custom_model_data": 10001 }, "model": "evergreenset:item/staff" },
+    { "predicate": { "custom_model_data": 10002 }, "model": "samus_rpgarmor:item/class_weapons/mage_staff"},
+    { "predicate": { "custom_model_data": 10003 }, "model": "samus_rpgarmor:item/class_weapons_2/shaman_scepter"},
+    { "predicate": { "custom_model_data": 10004 }, "model": "samus_rpgarmor:item/class_weapons_2/necromancer_staff"},
+    { "predicate": { "custom_model_data": 10005 }, "model": "samus_rpgarmor:item/class_weapons_3/gunner_pistol"},
+		{ "predicate": { "custom_model_data": 10006 }, "model": "samus_rpgarmor:item/class_weapons_3/bard_harp"},
+		{ "predicate": { "custom_model_data": 10007 }, "model": "samus_rpgarmor:item/class_weapons_3/druid_staff"},
+		{ "predicate": { "custom_model_data": 10008 }, "model": "samus_rpgarmor:item/class_weapons_3/summoner_tome"},
+    { "predicate": { "custom_model_data": 10009 }, "model": "thunderboltset:item/staff" }
+
+
+
   ]
 }

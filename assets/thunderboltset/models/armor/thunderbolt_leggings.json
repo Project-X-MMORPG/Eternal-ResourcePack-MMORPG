@@ -1,0 +1,7 @@
+﻿{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/empty",
+        "layer1": "thunderboltset:item/armor/thunderbolt_leggings_icon"
+    }
+}

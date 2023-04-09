@@ -5,11 +5,21 @@
         "layer1": "item/leather_chestplate_overlay"
     },
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 10000
-            },
-            "model": "malikaset:armor/malika_chestplate"
-        }
+        { "predicate": { "custom_model_data": 10000}, "model": "malikaset:armor/malika_chestplate"},
+        { "predicate": { "custom_model_data": 10001}, "model": "evergreenset:armor/evergreen_chestplate"},
+        { "predicate": { "custom_model_data": 10002}, "model": "samus_rpgarmor:item/custom/armor/assassin_chestplate" },
+		{ "predicate": { "custom_model_data": 10003}, "model": "samus_rpgarmor:item/custom/armor/warrior_chestplate" },
+		{ "predicate": { "custom_model_data": 10004}, "model": "samus_rpgarmor:item/custom/armor/archer_chestplate" },
+		{ "predicate": { "custom_model_data": 10005}, "model": "samus_rpgarmor:item/custom/armor/mage_chestplate" },
+        { "predicate": { "custom_model_data": 10006}, "model": "samus_rpgarmor:item/custom/armor/shaman_chestplate" },
+		{ "predicate": { "custom_model_data": 10007}, "model": "samus_rpgarmor:item/custom/armor/necromancer_chestplate" },
+		{ "predicate": { "custom_model_data": 10008}, "model": "samus_rpgarmor:item/custom/armor/martial_artist_chestplate" },
+		{ "predicate": { "custom_model_data": 10009}, "model": "samus_rpgarmor:item/custom/armor/dragon_warrior_chestplate" },
+        { "predicate": { "custom_model_data": 10010}, "model": "samus_rpgarmor:item/custom/armor/gunner_chestplate" },
+		{ "predicate": { "custom_model_data": 10011}, "model": "samus_rpgarmor:item/custom/armor/bard_chestplate" },
+		{ "predicate": { "custom_model_data": 10012}, "model": "samus_rpgarmor:item/custom/armor/druid_chestplate" },
+		{ "predicate": { "custom_model_data": 10013}, "model": "samus_rpgarmor:item/custom/armor/summoner_chestplate" },
+        { "predicate": { "custom_model_data": 10014}, "model": "thunderboltset:armor/thunderbolt_chestplate"}
+
     ]
 }

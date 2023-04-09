@@ -45,6 +45,10 @@
         {"predicate": {"custom_model_data":1}, "model": "littleroom_vikings:viking_shield"},
         {"predicate": {"custom_model_data":1,  "blocking": 1}, "model": "littleroom_vikings:viking_shield_blocking"},
         {"predicate": {"custom_model_data": 10000},"model": "malikaset:item/shield"},
-        {"predicate": {"blocking": 1,"custom_model_data": 10000},"model": "malikaset:item/shield_blocking"}
+        {"predicate": {"blocking": 1,"custom_model_data": 10000},"model": "malikaset:item/shield_blocking"},
+        {"predicate": {"custom_model_data": 10001},"model": "evergreenset:item/shield"},
+        {"predicate": {"blocking": 1,"custom_model_data": 10001},"model": "evergreenset:item/shield_blocking"},
+        {"predicate": {"custom_model_data": 10002},"model": "thunderboltset:item/shield"},
+        {"predicate": {"blocking": 1,"custom_model_data": 10002},"model": "thunderboltset:item/shield_blocking"}
     ]
 }

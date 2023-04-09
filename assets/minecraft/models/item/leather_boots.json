@@ -5,11 +5,20 @@
         "layer1": "item/leather_boots_overlay"
     },
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 10000
-            },
-            "model": "malikaset:armor/malika_boots"
-        }
+        { "predicate": { "custom_model_data": 10000}, "model": "malikaset:armor/malika_boots"},
+        { "predicate": { "custom_model_data": 10001}, "model": "evergreenset:armor/evergreen_boots"},
+        { "predicate": { "custom_model_data": 10002}, "model": "samus_rpgarmor:item/custom/armor/assassin_boots" },
+		{ "predicate": { "custom_model_data": 10003}, "model": "samus_rpgarmor:item/custom/armor/warrior_boots" },
+		{ "predicate": { "custom_model_data": 10004}, "model": "samus_rpgarmor:item/custom/armor/archer_boots" },
+		{ "predicate": { "custom_model_data": 10005}, "model": "samus_rpgarmor:item/custom/armor/mage_boots" },
+        { "predicate": { "custom_model_data": 10006}, "model": "samus_rpgarmor:item/custom/armor/shaman_boots" },
+		{ "predicate": { "custom_model_data": 10007}, "model": "samus_rpgarmor:item/custom/armor/necromancer_boots" },
+		{ "predicate": { "custom_model_data": 10008}, "model": "samus_rpgarmor:item/custom/armor/martial_artist_boots" },
+		{ "predicate": { "custom_model_data": 10009}, "model": "samus_rpgarmor:item/custom/armor/dragon_warrior_boots" },
+        { "predicate": { "custom_model_data": 10010}, "model": "samus_rpgarmor:item/custom/armor/gunner_boots" },
+		{ "predicate": { "custom_model_data": 10011}, "model": "samus_rpgarmor:item/custom/armor/bard_boots" },
+		{ "predicate": { "custom_model_data": 10012}, "model": "samus_rpgarmor:item/custom/armor/druid_boots" },
+		{ "predicate": { "custom_model_data": 10013}, "model": "samus_rpgarmor:item/custom/armor/summoner_boots" },
+        { "predicate": { "custom_model_data": 10014}, "model": "thunderboltset:armor/thunderbolt_boots"}
     ]
 }
