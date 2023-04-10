@@ -44,11 +44,16 @@
         {"predicate": {"blocking": 1}, "model": "item/shield_blocking"},
         {"predicate": {"custom_model_data":1}, "model": "littleroom_vikings:viking_shield"},
         {"predicate": {"custom_model_data":1,  "blocking": 1}, "model": "littleroom_vikings:viking_shield_blocking"},
+        { "predicate": {"custom_model_data":56}, "model":"lunar_studios:fflash/steel_raider/steel_raider_shield_idle"},
+		{ "predicate": {"custom_model_data":56, "blocking":1}, "model":"lunar_studios:fflash/steel_raider/steel_raider_shield_using"},
+
         {"predicate": {"custom_model_data": 10000},"model": "malikaset:item/shield"},
         {"predicate": {"blocking": 1,"custom_model_data": 10000},"model": "malikaset:item/shield_blocking"},
         {"predicate": {"custom_model_data": 10001},"model": "evergreenset:item/shield"},
         {"predicate": {"blocking": 1,"custom_model_data": 10001},"model": "evergreenset:item/shield_blocking"},
         {"predicate": {"custom_model_data": 10002},"model": "thunderboltset:item/shield"},
         {"predicate": {"blocking": 1,"custom_model_data": 10002},"model": "thunderboltset:item/shield_blocking"}
+
+
     ]
 }

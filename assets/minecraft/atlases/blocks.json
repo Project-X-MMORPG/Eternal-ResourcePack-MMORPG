@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "source": "entity",
+            "prefix": "entity/",
+            "type": "directory"
+        },
+        {
+            "type":"directory",
+            "source":"fflash",
+            "prefix":"fflash/"
+        }
+    ]
+}

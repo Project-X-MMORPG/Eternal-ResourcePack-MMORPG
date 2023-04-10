@@ -1,0 +1,62 @@
+{
+  "sr.attack_hammer_1": {
+    "subtitle": "Steel Raider attacks",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/attack_hammer_1"
+    ]
+  },
+  "sr.attack_hammer_2": {
+    "subtitle": "Steel Raider attacks",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/attack_hammer_2"
+    ]
+  },
+  "sr.attack_sound_1": {
+    "subtitle": "Steel Raider attacks",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/attack_sound_1"
+    ]
+  },
+  "sr.attack_sound_2": {
+    "subtitle": "Steel Raider attacks",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/attack_sound_2"
+    ]
+  },
+  "sr.attack_sound_3": {
+    "subtitle": "Steel Raider attacks",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/attack_sound_3"
+    ]
+  },
+  "sr.spawn": {
+    "subtitle": "Steel Raider spawned",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/spawn"
+    ]
+  },
+  "sr.death": {
+    "subtitle": "Steel Raider dead",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/death"
+    ]
+  },
+  "sr.hurt": {
+    "subtitle": "Steel Raider hurt",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/hurt"
+    ]
+  },
+  "sr.air_jump": {
+    "subtitle": "Steel Raider air attack",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/air_attack_jump"
+    ]
+  },
+  "sr.air_land": {
+    "subtitle": "Steel Raider air attack",
+    "sounds": [
+      "custom/lunar_studios/steel_raider/air_attack_land"
+    ]
+  }
+}

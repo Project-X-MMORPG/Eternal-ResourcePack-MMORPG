@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/feather"
+	},
+	"overrides": [
+
+		{ "predicate": {  "custom_model_data": 56770 }, "model": "lunar_studios:fflash/steel_raider/hammer_rift_1_1"},
+		{ "predicate": {  "custom_model_data": 56771 }, "model": "lunar_studios:fflash/steel_raider/hammer_rift_1_2"},
+		{ "predicate": {  "custom_model_data": 56772 }, "model": "lunar_studios:fflash/steel_raider/hammer_rift_1_3"},
+		{ "predicate": {  "custom_model_data": 56773 }, "model": "lunar_studios:fflash/steel_raider/hammer_rift_1_4"},
+		{ "predicate": {  "custom_model_data": 56774 }, "model": "lunar_studios:fflash/steel_raider/hammer_rift_1_5"}
+	]
+}
