@@ -195,12 +195,15 @@
 		{"file": "skycore_font:icon_pro.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_premium.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_player.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_eternal.png","chars": ["\uE301"],"height": 7,"ascent": 7,"type": "bitmap"},
 
 		{"file": "skycore_font:icon_senior_game_designer.png","chars": ["\uE248"],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_game_designer.png","chars": ["\uE249"],"height": 7,"ascent": 7,"type": "bitmap"},
 		{"file": "skycore_font:icon_junior_game_designer.png","chars": ["\uE250"],"height": 7,"ascent": 7,"type": "bitmap"},
 
 		{"type": "bitmap", "file": "skycore_font:icons/icon_elite_quests.png","ascent": 9,"height": 12,"chars": ["\uE245"]},
+		{"type": "bitmap", "file": "skycore_font:icons/icon_armor.png","ascent": 8,"height": 10,"chars": ["\uE302"]},
+
 
 		{"type": "bitmap", "file": "skycore_font:icons/afk.png","ascent": 7,"height": 7,"chars": ["\uE262"]},
 
